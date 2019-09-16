@@ -1,0 +1,21 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="zoom-fit-width" transform="translate(-465 65.003)">
+  <rect x="465" y="-65" width="22" height="22" opacity="0" stroke-width="1px"/>
+  <path class="ColorScheme-Text" d="m473-57.003-5 3 5 3v-2h6v2l5-3-5-3v2h-6v-2z" fill="currentColor"/>
+ </g>
+ <g id="zoom-fit-height" transform="matrix(0 1 -1 0 -17.003 -465)">
+  <rect x="465" y="-65" width="22" height="22" opacity="0" stroke-width="1px"/>
+  <path class="ColorScheme-Text" d="m473-57.003-5 3 5 3v-2h6v2l5-3-5-3v2h-6v-2z" fill="currentColor"/>
+ </g>
+ <g id="16-16-zoom-fit-width" transform="translate(-486 85.003)" enable-background="new">
+  <rect x="489" y="-59" width="16" height="16" opacity="0" stroke-width="1px"/>
+  <path class="ColorScheme-Text" d="m494-54.003-4 3 4 3v-2h6v2l4-3-4-3v2h-6z" fill="currentColor"/>
+ </g>
+ <g id="16-16-zoom-fit-height" transform="matrix(0 1 -1 0 -14.003 -463)" enable-background="new">
+  <rect x="489" y="-59" width="16" height="16" opacity="0" stroke-width="1px"/>
+  <path class="ColorScheme-Text" d="m494-54.003-4 3 4 3v-2h6v2l4-3-4-3v2h-6z" fill="currentColor"/>
+ </g>
+</svg>

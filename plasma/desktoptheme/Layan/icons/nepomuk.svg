@@ -1,0 +1,13 @@
+<svg id="svg7384" width="22" height="22" enable-background="new" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="nepomuk.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview9" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:bbox-nodes="true" inkscape:current-layer="svg7384" inkscape:cx="-1.5508544" inkscape:cy="7.5860448" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-nodes="false" inkscape:window-height="714" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="15.170655" objecttolerance="10" pagecolor="#323232" showgrid="true">
+  <inkscape:grid id="grid818" type="xygrid"/>
+ </sodipodi:namedview>
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="nepomuk">
+  <rect id="rect4150" width="22" height="22" opacity="0"/>
+  <path id="path824" d="m9.5 3a6.5 6.5 0 0 0-6.5 6.5 6.5 6.5 0 0 0 6.5 6.5 6.5 6.5 0 0 0 6.5-6.5 6.5 6.5 0 0 0-6.5-6.5zm0 2a4.5 4.5 0 0 1 4.5 4.5 4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5z" fill="#dedede"/>
+  <path id="rect829" transform="rotate(-45)" d="m0.04661 18.365c0.554 0 0.95339-0.53281 0.95339 0.021186v7c0 0.554-0.446 1-1 1s-1-0.446-1-1v-7c0-0.554 0.49261-0.02119 1.0466-0.02119z" fill="#dedede" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssss"/>
+ </g>
+</svg>

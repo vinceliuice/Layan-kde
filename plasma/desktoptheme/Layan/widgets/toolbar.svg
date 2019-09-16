@@ -1,0 +1,60 @@
+<svg width="17" height="57" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="-2.74" y="-1.3406" width="2.0329" height="2.0771" rx="0" ry="2.0771" fill="#4e9a06"/>
+ <g fill="#313338">
+  <path id="center" class="ColorScheme-ViewBackground" d="m2.9997 6v11h11v-11h-11z" opacity=".4"/>
+  <path id="right" class="ColorScheme-ViewBackground" d="m14 6v11h2c6.68e-4 -0.0183 0-0.0344 0-0.0529v-10.894c0-0.0185 6.68e-4 -0.03453 0-0.05288h-2z" opacity=".4"/>
+  <path id="top" class="ColorScheme-ViewBackground" d="m2.9997 4v2h11v-2c-0.0041-6.7e-4 0.0042 0 1e-6 0h-10.988c-4e-3 0-8e-3 -6.7e-4 -0.0119 0z" opacity=".4"/>
+  <path id="left" class="ColorScheme-ViewBackground" d="m1 6c-6.7e-4 0.01835 0 0.03439 0 0.05288v10.894c0 0.0185-6.7e-4 0.0345 0 0.0529h2v-11h-2z" opacity=".4"/>
+  <path id="bottom" class="ColorScheme-ViewBackground" d="m2.9997 17v2h11v-1.9997z" opacity=".4"/>
+  <path id="topleft" class="ColorScheme-ViewBackground" d="m0.99967 4v2h1.9998v-2c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" opacity=".4"/>
+  <path id="topright" class="ColorScheme-ViewBackground" d="m14 4.0003v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" opacity=".4"/>
+  <path id="bottomright" class="ColorScheme-ViewBackground" d="m14 17v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" opacity=".4"/>
+  <path id="bottomleft" class="ColorScheme-ViewBackground" d="m0.99971 17v1.9997h1.9998v-1.9997c-7.46e-4 -6.7e-4 7.63e-4 0 0 0h-1.9976c-7.28e-4 0-0.0015-6.7e-4 -0.0022 0z" opacity=".4"/>
+ </g>
+</svg>

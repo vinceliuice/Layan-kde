@@ -1,0 +1,293 @@
+<svg id="svg268" width="220" height="212" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs30">
+  <linearGradient id="linearGradient989">
+   <stop id="stop985" stop-color="#4648fb" offset="0"/>
+   <stop id="stop987" stop-color="#716ffb" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+  <linearGradient id="n" x1="50.181" x2="47" y1="35" y2="35" gradientTransform="matrix(.9 0 0 1.1034 4.7 987.98)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop id="stop4" stop-opacity=".353" offset="0"/>
+   <stop id="stop6" stop-opacity=".137" offset=".45"/>
+   <stop id="stop8" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="m" x1="53" x2="53" y1="21.514" y2="16.5" gradientTransform="translate(-1 991.36)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="l" x1="50.181" x2="47" y1="35" y2="35" gradientTransform="matrix(-.9 0 0 1.1034 131.3 987.98)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="k" x1="53" x2="53" y1="53" y2="59" gradientTransform="matrix(1 0 0 .83333 -1 1003.2)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="j" cx="53.027" cy="52.74" r="3" gradientTransform="matrix(-.92011 -.0018406 .0023338 -1.1667 98.428 1107)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="i" cx="52.776" cy="51.595" r="3" gradientTransform="matrix(-1.6667 -2.1836e-7 2.1836e-7 -1.6667 139.96 1133.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="h" cx="52" cy="20.518" r="3" gradientTransform="matrix(1.7928e-6 -2.3333 1 7.6805e-7 29.482 131.33)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="g" cx="53.802" cy="23.591" r="3" gradientTransform="matrix(-3.981e-7 -1.3333 1.6667 -4.9298e-7 12.682 77.736)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="f" cx="53.027" cy="52.74" r="3" gradientTransform="matrix(.92011 -.0018406 -.0023338 -1.1667 37.572 1107)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="e" cx="52.776" cy="51.595" r="3" gradientTransform="matrix(1.6667 -2.1836e-7 -2.1836e-7 -1.6667 -3.9603 1133.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="52" cy="20.518" r="3" gradientTransform="matrix(-1.7928e-6 -2.3333 -1 7.6805e-7 106.52 131.33)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="c" cx="53.802" cy="23.591" r="3" gradientTransform="matrix(3.981e-7 -1.3333 -1.6667 -4.9298e-7 123.32 77.736)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="o" cx="31.585" cy="1047.4" r="2.5" gradientTransform="matrix(1.5684e-5 1.6 -1.1999 1.1764e-5 1295.8 995.81)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="b">
+   <stop id="stop23" offset="0"/>
+   <stop id="stop25" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="p" cx="6" cy="1050.5" r="2.5" gradientTransform="matrix(-1.2 4.5871e-5 -6.1162e-5 -1.6 10.264 2727.2)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="q" x1="21" x2="21" y1="1048.4" y2="1050.4" gradientTransform="matrix(1 0 0 2 0 -1050.4)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="linearGradient999" x1="68" x2="68" y1="57.09" y2="19" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1007" x1="163" x2="163" y1="59" y2="21" gradientUnits="userSpaceOnUse">
+   <stop id="stop1001" offset="0"/>
+   <stop id="stop1003" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1015" x1="160" x2="165" y1="40" y2="40" gradientUnits="userSpaceOnUse">
+   <stop id="stop1009" offset="0"/>
+   <stop id="stop1011" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1023" x1="180" x2="180" y1="59" y2="21" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1039" x1="4" x2="4" y1="56.2" y2="3.0002" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1047" x1="63" x2="63" y1="55.2" y2="1.9992" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1057" x1="53" x2="53" y1="55" y2="17" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1449" x1="7" x2="7" y1="52" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+  <linearGradient id="linearGradient1461" x1="50" x2="50" y1="55" y2="17" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient989"/>
+ </defs>
+ <g id="focus-left" transform="translate(65 -989.36)">
+  <path id="path32" d="m47 1013.4v32h2v-32z" fill="url(#n)"/>
+  <path id="path34" d="m52 1045.4v-32h-3v32z" fill="#42464c"/>
+ </g>
+ <g id="focus-top" transform="translate(65 -989.36)">
+  <path id="path37" d="m84 1009.4h-32v1h32z" fill="url(#m)"/>
+  <path id="path39" d="m52 1013.4h32v-3h-32z" fill="#42464c"/>
+  <path id="path41" d="m52 1010.4v1h32v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="focus-right" transform="translate(65 -989.36)">
+  <path id="path44" d="m89 1013.4v32h-2v-32z" fill="url(#l)"/>
+  <path id="path46" d="m84 1045.4v-32h3v32z" fill="#42464c"/>
+ </g>
+ <path id="focus-center" d="m149 56v-32h-32v32z" fill="#42464c"/>
+ <g id="focus-bottom" transform="translate(65 -989.36)">
+  <path id="path50" d="m52 1052.4h32v-5h-32z" fill="url(#k)"/>
+  <path id="path52" d="m84 1045.4h-32v2h32z" fill="#42464c"/>
+ </g>
+ <g id="focus-bottomleft" transform="translate(65 -989.36)">
+  <path id="path55" d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#j)" opacity=".6"/>
+  <path id="path57" d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#i)"/>
+  <path id="path59" d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#42464c"/>
+ </g>
+ <g id="focus-topleft" transform="translate(65 -989.36)">
+  <path id="path62" transform="translate(-7.6294e-6 1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#h)"/>
+  <path id="path64" transform="translate(-7.6294e-6 1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#g)"/>
+  <path id="path66" d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#42464c"/>
+  <path id="path68" d="m51 1010.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="focus-bottomright" transform="translate(65 -989.36)">
+  <path id="path71" d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#f)" opacity=".6"/>
+  <path id="path73" d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#e)"/>
+  <path id="path75" d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#42464c"/>
+ </g>
+ <g id="focus-topright" transform="translate(65 -989.36)">
+  <path id="path78" transform="translate(-7.6294e-6 1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#d)"/>
+  <path id="path80" transform="translate(-7.6294e-6 1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#c)"/>
+  <path id="path82" d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#42464c"/>
+  <path id="path84" d="m85 1010.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-1v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="hover-left" transform="translate(20 -989.36)">
+  <path id="path87" d="m47 1013.4v32h2v-32z" fill="url(#n)"/>
+  <path id="path89" d="m52 1045.4v-32h-3v32z" fill="#42464c"/>
+ </g>
+ <g id="hover-top" transform="translate(20 -989.36)">
+  <path id="path92" d="m84 1009.4h-32v1h32z" fill="url(#m)"/>
+  <path id="path94" d="m52 1013.4h32v-3h-32z" fill="#42464c"/>
+  <path id="path96" d="m52 1010.4v1h32v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="hover-right" transform="translate(20 -989.36)">
+  <path id="path99" d="m89 1013.4v32h-2v-32z" fill="url(#l)"/>
+  <path id="path101" d="m84 1045.4v-32h3v32z" fill="#42464c"/>
+ </g>
+ <g id="normal-right" transform="matrix(-1 0 0 1 108 4)" fill="#424242">
+  <path id="path104" d="m51 52v-32h-3v32z" fill="#3e4046"/>
+ </g>
+ <g id="normal-bottomright" transform="translate(18 -990.36)">
+  <path id="path107" d="m42 1046.4c0 1.5-0.52041 1.2534-2 1.5l-0.99998 0.5v2c2.1589-0.3132 2.9733-0.5985 3-2.5v-1z" fill="url(#o)" opacity=".3"/>
+  <g id="g111" transform="matrix(-1 0 0 1 44 993.36)" fill="#424242">
+   <path id="path109" d="m5 55h-0.99998c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#3e4046"/>
+  </g>
+ </g>
+ <path id="normal-center" d="m57 56v-32h-32v32z" fill="#3e4046"/>
+ <g id="normal-left" transform="translate(-26 4)" fill="#424242">
+  <path id="path115" d="m51 52v-32h-3v32z" fill="#3e4046"/>
+ </g>
+ <g id="normal-bottom" transform="translate(20 -990.36)">
+  <path id="path118" d="m5 1046.4v4h32v-4z" fill="url(#q)" opacity=".3"/>
+  <g id="g122" transform="translate(-48 994.36)" fill="#424242">
+   <path id="path120" d="m85 52h-32v2h32z" fill="#3e4046"/>
+  </g>
+ </g>
+ <g id="normal-bottomleft" transform="translate(22 -990.36)">
+  <path id="path125" d="m-7.6e-6 1046.4v1.5c0.53714 2.5133 0.71024 2.1184 3 2.5v-2l-1-0.5c-1.3416-0.6708-2 0-2-1.5z" fill="url(#p)" opacity=".3"/>
+  <g id="g129" transform="translate(-2 993.36)" fill="#424242">
+   <path id="path127" d="m5 55h-1c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#3e4046"/>
+  </g>
+ </g>
+ <path id="pressed-center" d="m197 56v-32h-32v32z" fill="url(#linearGradient1023)"/>
+ <g id="normal-top" transform="translate(20 -986.36)">
+  <g id="g135" transform="translate(-48 988.36)">
+   <path id="path133" d="m53 22h32v-3h-32z" fill="#3e4046"/>
+  </g>
+  <path id="path137" d="m5 1007.4v1h32v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="pressed-left" transform="translate(112 4)">
+  <path id="path140" d="m53 52v-32h-5v32z" fill="url(#linearGradient1057)"/>
+ </g>
+ <g id="pressed-bottom" transform="matrix(1 0 0 .71428 112 19.572)" stroke-width="1.1832">
+  <path id="path143" d="m85 51h-32v4.1999h32z" fill="url(#linearGradient1047)"/>
+  <path id="path145" d="m85 51h-32v6.9999h32z" opacity="0"/>
+ </g>
+ <g id="pressed-top" transform="translate(112 2)">
+  <path id="path148" d="m53 22h32v-3h-32z" fill="url(#linearGradient999)"/>
+ </g>
+ <g id="normal-topleft" transform="translate(22 -986.36)">
+  <g id="g153" transform="translate(-2 993.36)">
+   <path id="path151" d="m5 14h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#3e4046"/>
+  </g>
+  <path id="path155" d="m2 1007.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="normal-topright" transform="translate(18 -986.36)">
+  <g id="g160" transform="matrix(-1 0 0 1 44 993.36)">
+   <path id="path158" d="m5 14h-0.99998c-1.5 0-2 0.5-2 2v1h3z" fill="#3e4046"/>
+  </g>
+  <path id="path162" d="m40 1007.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-0.99998v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="pressed-bottomleft" transform="matrix(1 0 0 .71429 158 18.857)" stroke-width="1.1832">
+  <path id="path165" d="m7 59h-3c-1.5 0-2-1.75-2-7v1.47e-4h5z" opacity="0"/>
+  <path id="path167" d="m7 56.2h-3c-1.4088 0-2-0.71941-2-2.8v-1.4l5 1.04e-4z" fill="url(#linearGradient1039)"/>
+ </g>
+ <g id="pressed-topleft" transform="translate(158 7)">
+  <path id="path170" d="m7 14h-3c-1.5 0-2 0.5-2 2v1h5z" fill="url(#linearGradient1449)"/>
+ </g>
+ <g id="pressed-right" transform="matrix(-1,0,0,1,250,4)" fill="url(#linearGradient1015)">
+  <path id="path1457" d="m53 52v-32h-5v32z" fill="url(#linearGradient1461)"/>
+ </g>
+ <g id="pressed-bottomright" transform="matrix(-1 0 0 .71429 204 18.857)" stroke-width="1.1832">
+  <path id="path979" d="m7 59h-3c-1.5 0-2-1.75-2-7v1.47e-4h5z" opacity="0"/>
+  <path id="path981" d="m7 56.2h-3c-1.4088 0-2-0.71941-2-2.8v-1.4l5 1.04e-4z" fill="url(#linearGradient1039)"/>
+ </g>
+ <g id="pressed-topright" transform="matrix(-1,0,0,1,204,7)" fill="url(#linearGradient1007)">
+  <path id="path1451" d="m7 14h-3c-1.5 0-2 0.5-2 2v1h5z" fill="url(#linearGradient1449)"/>
+ </g>
+ <g id="g184" fill="#9a06ff">
+  <rect id="focusss-hint-top-margin" x="131" y="19.998" width="2" height="1"/>
+  <rect id="focusss-hint-right-margin" transform="rotate(-90)" x="-38.998" y="152" width="2" height="2"/>
+  <rect id="focusss-hint-left-margin" transform="rotate(-90)" x="-38.998" y="112" width="2" height="2"/>
+  <rect id="focusss-hint-bottom-margin" x="132" y="59.998" width="2" height="3"/>
+  <rect id="hint-stretch-borders" x="20" y="12.998" width="2" height="2" ry="0"/>
+  <rect id="hover-hint-top-margin" x="85" y="19.998" width="2" height="1"/>
+  <rect id="hover-hint-right-margin" transform="rotate(-90)" x="-38.998" y="107" width="2" height="2"/>
+  <rect id="hover-hint-left-margin" transform="rotate(-90)" x="-38.998" y="67" width="2" height="2"/>
+ </g>
+ <path id="hover-center" d="m104 56v-32h-32v32z" fill="#42464c"/>
+ <g id="hover-bottom" transform="translate(20 -989.36)">
+  <path id="path187" d="m52 1052.4h32v-5h-32z" fill="url(#k)"/>
+  <path id="path189" d="m84 1045.4h-32v2h32z" fill="#42464c"/>
+ </g>
+ <g id="hover-bottomleft" transform="translate(20 -989.36)">
+  <path id="path192" d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#j)" opacity=".6"/>
+  <path id="path194" d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#i)"/>
+  <path id="path196" d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#42464c"/>
+ </g>
+ <g id="hover-topleft" transform="translate(20 -989.36)">
+  <path id="path199" transform="translate(-7.6294e-6 1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#h)"/>
+  <path id="path201" transform="translate(-7.6294e-6 1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#g)"/>
+  <path id="path203" d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#42464c"/>
+  <path id="path205" d="m51 1010.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <g id="hover-bottomright" transform="translate(20 -989.36)">
+  <path id="path208" d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#f)" opacity=".6"/>
+  <path id="path210" d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#e)"/>
+  <path id="path212" d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#42464c"/>
+ </g>
+ <g id="hover-topright" transform="translate(20 -989.36)">
+  <path id="path215" transform="translate(-7.6294e-6 1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#d)"/>
+  <path id="path217" transform="translate(-7.6294e-6 1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#c)"/>
+  <path id="path219" d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#42464c"/>
+  <path id="path221" d="m85 1010.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-1v-1z" fill="#fff" opacity=".05"/>
+ </g>
+ <rect id="hover-hint-bottom-margin" x="85" y="59.998" width="2" height="3" fill="#9a06ff"/>
+ <g id="toolbutton-hover-right" transform="matrix(-1 0 0 1 155 50)" fill="#424242">
+  <path id="path225" d="m51 52v-32h-3v32z" fill="#fff" opacity=".15"/>
+ </g>
+ <g id="toolbutton-hover-bottomright" transform="translate(65 -944.36)">
+  <path id="path228" d="m42 1046.4c0 1.5-0.52041 1.2534-2 1.5l-0.99998 0.5v2c2.1589-0.3132 2.9733-0.5985 3-2.5v-1z" opacity="0"/>
+  <g id="g232" transform="matrix(-1 0 0 1 44 993.36)" fill="#424242">
+   <path id="path230" d="m5 55h-0.99998c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+ <path id="toolbutton-hover-center" d="m104 102v-32h-32v32z" fill="#fff" opacity=".15"/>
+ <g id="toolbutton-hover-left" transform="translate(21 50)" fill="#424242">
+  <path id="path236" d="m51 52v-32h-3v32z" fill="#fff" opacity=".15"/>
+ </g>
+ <g id="toolbutton-hover-bottom" transform="translate(67 -944.36)">
+  <path id="path239" d="m5 1046.4v4h32v-4z" opacity="0"/>
+  <g id="g243" transform="translate(-48 994.36)" fill="#424242">
+   <path id="path241" d="m85 52h-32v2h32z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+ <g id="toolbutton-hover-bottomleft" transform="translate(69 -944.36)">
+  <path id="path246" d="m-7.6e-6 1046.4v1.5c0.53714 2.5133 0.71024 2.1184 3 2.5v-2l-1-0.5c-1.3416-0.6708-2 0-2-1.5z" opacity="0"/>
+  <g id="g250" transform="translate(-2 993.36)" fill="#424242">
+   <path id="path248" d="m5 55h-1c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+ <g id="toolbutton-hover-top" transform="translate(67 -940.36)">
+  <g id="g255" transform="translate(-48 988.36)">
+   <path id="path253" d="m53 22h32v-3h-32z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+ <g id="toolbutton-hover-topleft" transform="translate(69 -940.36)">
+  <g id="g260" transform="translate(-2 993.36)">
+   <path id="path258" d="m5 14h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+ <g id="toolbutton-hover-topright" transform="translate(65 -940.36)">
+  <g id="g265" transform="matrix(-1 0 0 1 44 993.36)">
+   <path id="path263" d="m5 14h-0.99998c-1.5 0-2 0.5-2 2v1h3z" fill="#fff" opacity=".15"/>
+  </g>
+ </g>
+</svg>

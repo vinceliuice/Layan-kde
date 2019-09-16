@@ -1,0 +1,16 @@
+<svg id="svg7384" width="22" height="22" enable-background="new" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="quota.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview10" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:bbox-nodes="true" inkscape:current-layer="svg7384" inkscape:cx="-37.86308" inkscape:cy="-8.0857911" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:window-height="714" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="1.8629979" objecttolerance="10" pagecolor="#323232" showgrid="true">
+  <inkscape:grid id="grid39" type="xygrid"/>
+ </sodipodi:namedview>
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="quota">
+  <path id="rect41" d="m6 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2h-10zm0 2h1v2h-1v-2zm2 0h1v2h-1v-2zm2 0h1v2h-1v-2zm2 0h1v2h-1v-2zm2 1h1v1h-1v-1zm-3 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5zm5 10a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="#dedede"/>
+  <path id="circle67" d="m11 7a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5h-5v-5z" fill="#dedede" opacity=".3"/>
+  <path id="rect4148" d="m0 0h22v22h-22v-22z" opacity="0" inkscape:connector-curvature="0"/>
+  <g id="g13" fill="#dedede">
+   <circle id="circle57" cx="11" cy="12" r="2"/>
+  </g>
+ </g>
+</svg>

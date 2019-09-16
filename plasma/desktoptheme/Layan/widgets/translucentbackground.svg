@@ -1,0 +1,208 @@
+<svg width="121" height="56" version="1.1" viewBox="0 0 121 56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="q" x1="-912.36" x2="-909.36" y1="-35" y2="-35" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="p" x1="15" x2="12" y1="10" y2="10" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="e" cx="23.7" cy="912.47" r="6" gradientTransform="matrix(4.3054e-7 -.33333 .33333 4.3054e-7 -232.16 14.9)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="o" x1="16" x2="16" y1="8" y2="5" gradientTransform="translate(58)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="n" x1="55" x2="58" y1="10" y2="10" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="55.393" cy="910.26" r="6" gradientTransform="matrix(.33333 2.4113e-6 -2.4113e-6 .33333 95.538 -296.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".6" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="m" x1="53" x2="53" y1="8" y2="5" gradientTransform="translate(58)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="l" x1="952.36" x2="955.36" y1="-35" y2="-35" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="k" x1="19" x2="19" y1="48" y2="51" gradientTransform="translate(58)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="c" cx="9.1429" cy="948.86" r="6" gradientTransform="matrix(-.33333 -1.5267e-6 1.5267e-6 -.33333 75.046 365.29)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="j" x1="15" x2="12" y1="46" y2="46" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="i" x1="53" x2="53" y1="48" y2="51" gradientTransform="translate(58)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="b" cx="55.75" cy="943.61" r="6" gradientTransform="matrix(1.0353e-7 .33333 -.33333 1.0353e-7 428.54 30.417)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="h" x1="55" x2="58" y1="46" y2="46" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="-15" x2="-12" y1="932.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="55" x2="58" y1="932.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g transform="translate(0 -904.36)">
+  <rect id="hint-tile-center" y="904.36" width="5" height="5" fill="#f60"/>
+  <g id="top">
+   <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="topleft">
+   <path class="ColorScheme-Background" transform="translate(0 904.36)" d="m14 6c-0.55399 0-1 0.44601-1 1v5h6v-6h-5z" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="topright">
+   <path class="ColorScheme-Background" transform="translate(0 904.36)" d="m51 6v6h6v-5c0-0.55399-0.44601-1-1-1h-5z" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="bottom">
+   <rect class="ColorScheme-Background" transform="rotate(90)" x="948.36" y="-51" width="6" height="32" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="bottomleft">
+   <path class="ColorScheme-Background" d="m19 954.36v-6h-6v5c0 0.55399 0.44601 1 1 1h5z" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="bottomright">
+   <path class="ColorScheme-Background" d="m51 954.36v-6h6v5c0 0.55399-0.44601 1-1 1h-5z" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="left">
+   <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-19" y="916.36" width="6" height="32" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="right">
+   <rect class="ColorScheme-Background" x="51" y="916.36" width="6" height="32" fill="#25252d" opacity=".6"/>
+  </g>
+  <g id="center">
+   <rect x="19" y="916.36" width="32" height="32" fill="none"/>
+   <rect class="ColorScheme-Background" x="19" y="916.36" width="32" height="32" fill="#25252d" opacity=".6"/>
+  </g>
+  <g fill="#f0f">
+   <rect id="hint-top-margin" x="33" y="916.36" width="4" height="6"/>
+   <rect id="hint-bottom-margin" x="33" y="942.36" width="4" height="6"/>
+   <rect id="hint-right-margin" transform="rotate(90)" x="930.36" y="-51" width="4" height="6"/>
+   <rect id="hint-left-margin" transform="rotate(90)" x="930.36" y="-25" width="4" height="6"/>
+  </g>
+  <g id="shadow-top" transform="translate(58)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-916.36" y="-51" width="6" height="32" fill="none"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-910.36" y="-51" width="6" height="32" fill="url(#q)"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-911.36" y="-51" width=".99998" height="32" fill="none"/>
+  </g>
+  <g id="shadow-topleft" transform="translate(58)">
+   <g fill-rule="evenodd">
+    <path transform="translate(0 904.36)" d="m7 7v5h6v-5h-6z" fill="url(#p)"/>
+    <path transform="translate(-58 904.36)" d="m65 0v7h6v-1h1v-6h-7z" fill="url(#e)" opacity=".6"/>
+    <path transform="translate(-58 904.36)" d="m72 0v6h5v-6h-5z" fill="url(#o)"/>
+   </g>
+   <g fill="none">
+    <rect transform="scale(-1,1)" x="-19" y="910.36" width="6" height="6" ry=".99998"/>
+    <rect transform="scale(-1,1)" x="-19" y="910.36" width="2" height="6" ry="0"/>
+    <rect transform="scale(-1,1)" x="-18" y="914.36" width="5" height="2"/>
+   </g>
+  </g>
+  <g id="shadow-topright" transform="translate(58)">
+   <g fill-rule="evenodd">
+    <path transform="translate(0 904.36)" d="m57 7v5h6v-5h-6z" fill="url(#n)"/>
+    <path transform="translate(-58 904.36)" d="m114 0v6h1v1h6v-7h-7z" fill="url(#d)"/>
+    <path transform="translate(-58 904.36)" d="m109 0v6h5v-6h-5z" fill="url(#m)"/>
+   </g>
+   <g fill="none">
+    <rect x="51" y="910.36" width="6" height="6" ry=".99998"/>
+    <rect x="51" y="910.36" width="2" height="6" ry="0"/>
+    <rect x="52" y="914.36" width="5" height="2"/>
+   </g>
+  </g>
+  <g id="shadow-bottom" transform="translate(58)">
+   <rect transform="rotate(90)" x="948.36" y="-51" width="6" height="32" fill="none"/>
+   <rect transform="rotate(90)" x="954.36" y="-51" width="6" height="32" fill="url(#l)"/>
+   <rect transform="rotate(90)" x="953.36" y="-51" width="1" height="32" fill="none"/>
+  </g>
+  <g id="shadow-bottomleft" transform="translate(58)">
+   <g fill-rule="evenodd">
+    <path transform="translate(-58 904.36)" d="m72 50v6h5v-6h-5z" fill="url(#k)"/>
+    <path transform="translate(-58 904.36)" d="m65 49v7h7v-6h-1v-1h-6z" fill="url(#c)" opacity=".6"/>
+    <path transform="translate(0 904.36)" d="m7 44v5h6v-5h-6z" fill="url(#j)"/>
+   </g>
+   <g fill="none">
+    <rect transform="scale(-1)" x="-19" y="-954.36" width="6" height="6" ry=".99972"/>
+    <rect transform="scale(-1)" x="-19" y="-954.36" width="2" height="6" ry="0"/>
+    <rect transform="scale(-1)" x="-18" y="-950.36" width="5" height="2"/>
+   </g>
+  </g>
+  <g id="shadow-bottomright" transform="translate(58)">
+   <g fill-rule="evenodd">
+    <path transform="translate(-58 904.36)" d="m109 50v6h5v-6h-5z" fill="url(#i)"/>
+    <path transform="translate(-58 904.36)" d="m115 49v1h-1v6h7v-7h-6z" fill="url(#b)" opacity=".6"/>
+    <path transform="translate(0 904.36)" d="m57 44v5h6v-5h-6z" fill="url(#h)"/>
+   </g>
+   <g fill="none">
+    <rect transform="scale(1,-1)" x="51" y="-954.36" width="6" height="6" ry=".99972"/>
+    <rect transform="scale(1,-1)" x="51" y="-954.36" width="2" height="6" ry="0"/>
+    <rect transform="scale(1,-1)" x="52" y="-950.36" width="5" height="2"/>
+   </g>
+  </g>
+  <g id="shadow-left" transform="translate(58)">
+   <rect transform="scale(-1,1)" x="-19" y="916.36" width="6" height="32" fill="none"/>
+   <rect transform="scale(-1,1)" x="-13" y="916.36" width="6" height="32" fill="url(#g)"/>
+   <rect transform="scale(-1,1)" x="-14" y="916.36" width="1" height="32" fill="none"/>
+  </g>
+  <g id="shadow-right" transform="translate(58)">
+   <rect x="51" y="916.36" width="6" height="32" fill="none"/>
+   <rect x="57" y="916.36" width="6" height="32" fill="url(#f)"/>
+   <rect x="56" y="916.36" width="1" height="32" fill="none"/>
+  </g>
+  <g id="shadow-center" transform="translate(58)" fill="none">
+   <rect x="19" y="916.36" width="32" height="32"/>
+   <rect x="19" y="916.36" width="32" height="32"/>
+  </g>
+  <g fill="#f0f">
+   <rect id="shadow-hint-top-margin" x="91" y="904.36" width="4" height="6"/>
+   <rect id="shadow-hint-bottom-margin" x="91" y="954.36" width="4" height="6"/>
+   <rect id="shadow-hint-right-margin" transform="rotate(90)" x="930.36" y="-121" width="4" height="6"/>
+   <rect id="shadow-hint-left-margin" transform="rotate(90)" x="930.36" y="-71" width="4" height="6"/>
+  </g>
+ </g>
+</svg>

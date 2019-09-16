@@ -1,0 +1,17 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <rect class="ColorScheme-Text" x="-20.43" y="-19.39" width="16" height="16" ry="0" opacity="0"/>
+ <g id="16-16-kdf">
+  <rect x="-20" y="6" width="16" height="16" ry="0" opacity="0"/>
+  <path class="ColorScheme-Text" d="m-17 7c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4h-4v-4c0-2.2091 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z" fill="currentColor"/>
+ </g>
+ <g id="kdf">
+  <path d="m6 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm0 2h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 1h1v1h-1zm-3 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5zm5 10a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="#dedede"/>
+  <path d="m0 0h22v22h-22z" opacity="0"/>
+  <g fill="#dedede">
+   <circle cx="11" cy="12" r="2"/>
+  </g>
+ </g>
+</svg>

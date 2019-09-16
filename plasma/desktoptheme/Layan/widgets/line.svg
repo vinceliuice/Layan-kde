@@ -1,0 +1,46 @@
+<svg width="47" height="45" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g transform="translate(-28,-14)">
+  <g id="vertical-line" transform="translate(-4.9688 .40625)">
+   <path class="ColorScheme-Text" d="m32.969 13.594v40h3v-40h-3z" color="#31363b" fill="currentColor" fill-opacity=".3" opacity=".01"/>
+   <path class="ColorScheme-Background" d="m33.969 13.594v40h1v-40h-1z" color="#eff0f1" fill="currentColor" fill-opacity=".1"/>
+   <path class="ColorScheme-Text" d="m33.969 13.594v40h1v-40h-1z" color="#31363b" fill-opacity=".15"/>
+  </g>
+  <g id="horizontal-line" transform="translate(-.69097 .471)">
+   <path class="ColorScheme-Text" d="m75.691 55.529h-40v3h40v-3z" color="#31363b" fill="currentColor" fill-opacity=".3" opacity=".01"/>
+   <path class="ColorScheme-Background" d="m75.691 56.529h-40v1h40v-1z" color="#eff0f1" fill="currentColor" fill-opacity=".1"/>
+   <path class="ColorScheme-Text" d="m75.691 56.529h-40v1h40v-1z" color="#31363b" fill-opacity=".15"/>
+  </g>
+ </g>
+</svg>
