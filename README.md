@@ -8,7 +8,6 @@ In this repository you'll find:
 - Plasma Color Schemes
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Themes
-- Wallpapers
 
 ## Installation
 
