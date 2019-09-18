@@ -1,7 +1,5 @@
 <svg id="svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="notification.svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
- <sodipodi:namedview id="namedview60" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:bbox-nodes="true" inkscape:current-layer="svg" inkscape:cx="-30.435912" inkscape:cy="13.31815" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-nodes="false" inkscape:window-height="434" inkscape:window-maximized="0" inkscape:window-width="482" inkscape:window-x="487" inkscape:window-y="219" inkscape:zoom="2.6818182" objecttolerance="10" pagecolor="#323232" showgrid="true">
-  <inkscape:grid id="grid64" type="xygrid"/>
- </sodipodi:namedview>
+ <sodipodi:namedview id="namedview35" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg" inkscape:cx="33.340893" inkscape:cy="3.5164246" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="714" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="3.7926636" objecttolerance="10" pagecolor="#323232" showgrid="false"/>
  <defs id="defs3">
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
  </defs>
@@ -34,12 +32,12 @@
  </g>
  <g id="notification-progress-active">
   <rect id="rect27" class="ColorScheme-Text" x="40" y="-1" width="22" height="22" color="#dedede" fill-opacity="0"/>
-  <path id="rect850" d="m51 1c-3.324 0-6 2.676-6 6v6c0 3.324 2.676 6 6 6s6-2.676 6-6v-6c0-3.324-2.676-6-6-6zm0 2c2.216 0 4 1.784 4 4v6c0 2.216-1.784 4-4 4s-4-1.784-4-4v-6c0-2.216 1.784-4 4-4z" fill="#eaeaea" opacity=".75"/>
-  <rect id="rect852" x="48" y="4" width="6" height="12" rx="0" ry="3" fill="#5294e2"/>
+  <path id="path844" d="m51 1a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#eaeaea"/>
+  <circle id="path849" cx="51" cy="10" r="6" fill="#5294e2"/>
  </g>
- <g id="notification-progress-inactive" transform="translate(28)">
-  <rect id="rect862" class="ColorScheme-Text" x="40" y="-1" width="22" height="22" color="#dedede" fill-opacity="0"/>
-  <path id="path864" d="m51 1c-3.324 0-6 2.676-6 6v6c0 3.324 2.676 6 6 6s6-2.676 6-6v-6c0-3.324-2.676-6-6-6zm0 2c2.216 0 4 1.784 4 4v6c0 2.216-1.784 4-4 4s-4-1.784-4-4v-6c0-2.216 1.784-4 4-4z" fill="#eaeaea" opacity=".75" inkscape:connector-curvature="0"/>
-  <rect id="rect866" x="48" y="4" width="6" height="12" rx="0" ry="3" fill="#eaeaea" opacity=".25"/>
+ <g id="notification-progress-inactive" transform="translate(30)">
+  <rect id="rect859" class="ColorScheme-Text" x="40" y="-1" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path861" d="m51 1a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#eaeaea"/>
+  <circle id="circle863" cx="51" cy="10" r="6" fill="#eaeaea" opacity=".15"/>
  </g>
 </svg>
