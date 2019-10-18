@@ -170,32 +170,35 @@ PlasmaCore.ColorScope {
             }
 
             initialItem: Login {
-                id: userListComponent
-                userListModel: userModel
-                loginScreenUiVisible: loginScreenRoot.uiVisible
-                userListCurrentIndex: userModel.lastIndex >= 0 ? userModel.lastIndex : 0
-                lastUserName: userModel.lastUser
-                showUserList: {
-                    if ( !userListModel.hasOwnProperty("count")
-                    || !userListModel.hasOwnProperty("disableAvatarsThreshold"))
-                        return (userList.y + mainStack.y) > 0
+            id: userListComponent
+            userListModel: userModel
+            userListCurrentIndex: userModel.lastIndex >= 0 ? userModel.lastIndex : 0
+            lastUserName: userModel.lastUser
+            
+            usernameFontSize: root.generalFontSize
+            usernameFontColor: root.generalFontColor
 
-                    if ( userListModel.count === 0 ) return false
+            showUserList: {
+                if ( !userListModel.hasOwnProperty("count")
+                || !userListModel.hasOwnProperty("disableAvatarsThreshold"))
+                    return (userList.y + mainStack.y) > 0
 
-                    return userListModel.count <= userListModel.disableAvatarsThreshold && (userList.y + mainStack.y) > 0
-                }
+                if ( userListModel.count == 0 ) return false
 
-                notificationMessage: {
-                    var text = ""
-                    if (keystateSource.data["Caps Lock"]["Locked"]) {
-                        text += i18nd("plasma_lookandfeel_org.kde.lookandfeel","Caps Lock is on")
-                        if (root.notificationMessage) {
-                            text += " • "
-                        }
+                return userListModel.count <= userListModel.disableAvatarsThreshold && (userList.y + mainStack.y) > 0
+            }
+
+            notificationMessage: {
+                var text = ""
+                if (keystateSource.data["Caps Lock"]["Locked"]) {
+                    text += i18nd("plasma_lookandfeel_org.kde.lookandfeel","Caps Lock is on")
+                    if (root.notificationMessage) {
+                        text += " • "
                     }
-                    text += root.notificationMessage
-                    return text
                 }
+                text += root.notificationMessage
+                return text
+            }
 
                 actionItems: [
                     ActionButton {
@@ -358,7 +361,6 @@ PlasmaCore.ColorScope {
             Login {
                 showUsernamePrompt: true
                 notificationMessage: root.notificationMessage
-                loginScreenUiVisible: loginScreenRoot.uiVisible
 
                 // using a model rather than a QObject list to avoid QTBUG-75900
                 userListModel: ListModel {
