@@ -30,7 +30,7 @@ install() {
   mkdir -p                                                                           ${KVANTUM_DIR}
   mkdir -p                                                                           ${WALLPAPER_DIR}/Matcha
 
-  cp -ur ${SRC_DIR}/aurorae/${name}                                                  ${AURORAE_DIR}
+  cp -ur ${SRC_DIR}/aurorae/themes/${name}                                           ${AURORAE_DIR}
   cp -ur ${SRC_DIR}/color-schemes/*.colors                                           ${SCHEMES_DIR}
   cp -ur ${SRC_DIR}/Kvantum/*                                                        ${KVANTUM_DIR}
   cp -ur ${SRC_DIR}/plasma/desktoptheme/${name}${ELSE_DARK}                          ${PLASMA_DIR}
