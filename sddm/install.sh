@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp -r Layan /usr/share/sddm/themes
+cp -r themes/Layan /usr/share/sddm/themes
 
 echo "Install finished..."
