@@ -28,13 +28,12 @@ install() {
   mkdir -p                                                                           ${PLASMA_DIR}
   mkdir -p                                                                           ${LOOKFEEL_DIR}
   mkdir -p                                                                           ${KVANTUM_DIR}
-  mkdir -p                                                                           ${WALLPAPER_DIR}/Matcha
 
   cp -ur ${SRC_DIR}/aurorae/${name}                                                  ${AURORAE_DIR}
   cp -ur ${SRC_DIR}/color-schemes/*.colors                                           ${SCHEMES_DIR}
   cp -ur ${SRC_DIR}/Kvantum/*                                                        ${KVANTUM_DIR}
   cp -ur ${SRC_DIR}/plasma/desktoptheme/${name}${ELSE_DARK}                          ${PLASMA_DIR}
-  cp -ur ${SRC_DIR}/color-schemes/Layan.colors                                        ${PLASMA_DIR}/${name}/colors
+  cp -ur ${SRC_DIR}/color-schemes/Layan.colors                                       ${PLASMA_DIR}/${name}/colors
   cp -ur ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}              ${LOOKFEEL_DIR}
 }
 
