@@ -5,7 +5,7 @@ DEST_DIR=
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  AURORAE_DIR="$HOME/usr/share/aurorae/themes"
+  AURORAE_DIR="/usr/share/aurorae/themes"
   SCHEMES_DIR="/usr/share/color-schemes"
   PLASMA_DIR="/usr/share/plasma/desktoptheme"
   LOOKFEEL_DIR="/usr/share/plasma/look-and-feel"
