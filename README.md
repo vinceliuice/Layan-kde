@@ -15,6 +15,12 @@ In this repository you'll find:
 ./install.sh
 ```
 
+## Uninstallation
+
+```sh
+./uninstall.sh
+```
+
 ## Recommendations
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
