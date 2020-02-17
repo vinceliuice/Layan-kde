@@ -17,4 +17,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Layan
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=Vimix-cursors
