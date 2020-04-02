@@ -1,0 +1,43 @@
+<svg id="svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="notification.svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview35" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg" inkscape:cx="33.340893" inkscape:cy="3.5164246" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="714" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="3.7926636" objecttolerance="10" pagecolor="#323232" showgrid="false"/>
+ <defs id="defs3">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="g9" fill="#dedede">
+  <path id="expander-bottom" class="ColorScheme-Text" d="m-18 23 2-2 2 2z" color="#dedede"/>
+  <path id="expander-top" class="ColorScheme-Text" d="m-18 17 2 2 2-2z" color="#dedede"/>
+  <path id="expander-right" class="ColorScheme-Text" d="m-13 18-2 2 2 2z" color="#dedede"/>
+  <path id="expander-left" class="ColorScheme-Text" d="m-19 18 2 2-2 2z" color="#dedede"/>
+ </g>
+ <g id="notification-inactive">
+  <path id="path11" d="m11 2a2 2 0 0 0-2 2 2 2 0 0 0 0.029297 0.33594c-2.3485 0.8128-4.0293 3.0323-4.0293 5.6641v3l-3 4h18l-3-4v-3c0-2.6318-1.6808-4.8513-4.0293-5.6641a2 2 0 0 0 0.029297-0.33594 2 2 0 0 0-2-2z" fill="#eaeaea"/>
+  <rect id="rect13" class="ColorScheme-Text" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path15" d="m8.1738 18a3 3 0 0 0 2.8262 2 3 3 0 0 0 2.8242-2h-5.6504z" fill="#eaeaea" opacity=".75"/>
+ </g>
+ <g id="notification-disabled" transform="translate(0,-26)">
+  <path id="path18" d="m11 2a2 2 0 0 0-2 2 2 2 0 0 0 0.029297 0.33594c-2.3485 0.8128-4.0293 3.0323-4.0293 5.6641v3l-3 4h18l-3-4v-3c0-2.6318-1.6808-4.8513-4.0293-5.6641a2 2 0 0 0 0.029297-0.33594 2 2 0 0 0-2-2z" fill="#eaeaea" opacity=".35"/>
+  <rect id="rect20" class="ColorScheme-Text" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path22" d="m8.1738 18a3 3 0 0 0 2.8262 2 3 3 0 0 0 2.8242-2z" fill="#eaeaea" opacity=".35"/>
+ </g>
+ <g id="notification-active">
+  <path id="path43" d="m10 37a2 2 0 0 0-2 2 2 2 0 0 0 0.029297 0.33594c-2.3485 0.8128-4.0293 3.0323-4.0293 5.6641v3l-3 4h18l-3-4v-3c0-0.37956-0.04445-0.74605-0.11133-1.1055a4 4 0 0 1-0.88867 0.10547 4 4 0 0 1-4-4 4 4 0 0 1 0.63281-2.1504 2 2 0 0 0-1.6328-0.84961z" fill="#eaeaea"/>
+  <rect id="rect45" class="ColorScheme-Text" x="-1" y="35" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path47" d="m7.1738 53a3 3 0 0 0 2.8262 2 3 3 0 0 0 2.8242-2z" fill="#eaeaea" opacity=".75"/>
+  <circle id="circle49" cx="15" cy="40" r="3" fill="#5294e2"/>
+ </g>
+ <g id="notification-empty">
+  <rect id="rect52" class="ColorScheme-Text" y="-53" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path69" d="m11-51a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-0.48633-2.8906 4 4 0 0 1-1.832 0.83203 7 7 0 0 1 0.31836 2.0586 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 2.0645 0.31055 4 4 0 0 1 0.82812-1.8223 9 9 0 0 0-2.8926-0.48828z" fill="#eaeaea"/>
+  <circle id="circle56" cx="17" cy="-48" r="3" fill="#5294e2"/>
+ </g>
+ <g id="notification-progress-active">
+  <rect id="rect27" class="ColorScheme-Text" x="40" y="-1" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path844" d="m51 1a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#eaeaea"/>
+  <circle id="path849" cx="51" cy="10" r="6" fill="#5294e2"/>
+ </g>
+ <g id="notification-progress-inactive" transform="translate(30)">
+  <rect id="rect859" class="ColorScheme-Text" x="40" y="-1" width="22" height="22" color="#dedede" fill-opacity="0"/>
+  <path id="path861" d="m51 1a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#eaeaea"/>
+  <circle id="circle863" cx="51" cy="10" r="6" fill="#eaeaea" opacity=".15"/>
+ </g>
+</svg>

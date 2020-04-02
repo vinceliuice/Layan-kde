@@ -20,7 +20,7 @@ LayoutName=org.kde.breeze.desktop
 ButtonsOnLeft=
 ButtonsOnRight=IAX
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Layan
+theme=__aurorae__svg__Layan-solid
 
 [plasmarc][Theme]
-name=Layan
+name=Layan-solid

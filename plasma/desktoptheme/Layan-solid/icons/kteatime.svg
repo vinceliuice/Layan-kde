@@ -1,0 +1,9 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g id="kteatime" transform="translate(-30)">
+  <path d="m30 0h22v22h-22z" fill-opacity="0"/>
+  <path d="m40 2v2h1v-2zm-3 1v1h1v-1zm6 0v1h1v-1zm-8 2v11c0 0.4714 0.5286 1 1 1h10c0.4714 0 1-0.5286 1-1v-2h1c1.108 0 2-0.892 2-2v-4c0-1.108-0.892-2-2-2h-1v-1zm12 2h1c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-1zm-9 2h3v4h-3zm-5 9v1h16v-1z" color="#dfdfdf" fill="currentColor"/>
+ </g>
+</svg>

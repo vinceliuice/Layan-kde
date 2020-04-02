@@ -1,0 +1,122 @@
+<svg width="744.09" height="1052.4" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="-233.82" y="467.13" width="41.363" height="41.121" fill="#008000" opacity=".875"/>
+ <g id="south-active-tab-top" transform="translate(236 72)">
+  <rect class="ColorScheme-ButtonFocus" x="40" y="359.36" width="80" height="3" fill="#5657f5"/>
+ </g>
+ <g id="south-active-tab-topleft" transform="translate(236 72)">
+  <rect x="30" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="33" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <g id="south-active-tab-topright" transform="translate(236 72)">
+  <rect x="120" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="120" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <rect id="south-active-tab-left" x="266" y="434.36" width="10" height="12" opacity="0"/>
+ <rect id="south-active-tab-center" x="276" y="434.36" width="80" height="12" opacity="0"/>
+ <rect id="south-active-tab-right" x="356" y="434.36" width="10" height="12" opacity="0"/>
+ <rect id="south-active-tab-bottomright" x="356" y="448.36" width="10" height="2" opacity="0"/>
+ <rect id="south-active-tab-bottom" x="276" y="448.36" width="80" height="2" opacity="0"/>
+ <rect id="south-active-tab-bottomleft" x="266" y="448.36" width="10" height="2" opacity="0"/>
+ <g fill="#4e9a06">
+  <rect id="south-active-tab-hint-left-margin" x="266" y="437.36" width="6" height="5"/>
+  <rect id="south-active-tab-hint-right-margin" x="360" y="437.36" width="6" height="5"/>
+  <rect id="south-active-tab-hint-top-margin" x="320.24" y="430.36" width="5" height="8"/>
+  <rect id="south-active-tab-hint-bottom-margin" x="320.24" y="446.36" width="5" height="4"/>
+ </g>
+ <rect id="east-active-tab-bottom" transform="rotate(-90)" x="-366.06" y="408.42" width="10" height="12" opacity="0"/>
+ <rect id="east-active-tab-center" transform="rotate(-90)" x="-356.06" y="408.42" width="80" height="12" opacity="0"/>
+ <rect id="east-active-tab-top" transform="rotate(-90)" x="-276.06" y="408.42" width="10" height="12" opacity="0"/>
+ <rect id="east-active-tab-topright" transform="rotate(-90)" x="-276.06" y="423" width="10" height="2" opacity="0"/>
+ <rect id="east-active-tab-right" transform="rotate(-90)" x="-356.06" y="423" width="80" height="2" opacity="0"/>
+ <rect id="east-active-tab-bottomright" transform="rotate(-90)" x="-366.06" y="423" width="10" height="2" opacity="0"/>
+ <rect id="east-active-tab-hint-bottom-margin" transform="rotate(-90)" x="-366.06" y="411.42" width="6" height="5" fill="#4e9a06"/>
+ <rect id="east-active-tab-hint-top-margin" transform="rotate(-90)" x="-272.06" y="411.42" width="6" height="5" fill="#4e9a06"/>
+ <g id="east-active-tab-left" transform="matrix(0 1 -1 0 766.78 236.36)">
+  <rect class="ColorScheme-ButtonFocus" x="40" y="359.36" width="80" height="3" fill="#5657f5"/>
+ </g>
+ <rect id="east-active-tab-hint-left-margin" transform="rotate(-90)" x="-311.82" y="404.42" width="5" height="8" fill="#4e9a06"/>
+ <rect id="east-active-tab-hint-right-margin" transform="rotate(-90)" x="-311.82" y="420.42" width="5" height="4" fill="#4e9a06"/>
+ <rect id="west-active-tab-top" transform="rotate(90)" x="266.36" y="-216" width="10" height="12" opacity="0"/>
+ <rect id="west-active-tab-center" transform="rotate(90)" x="276.36" y="-216" width="80" height="12" opacity="0"/>
+ <rect id="west-active-tab-bottom" transform="rotate(90)" x="356.36" y="-216" width="10" height="12" opacity="0"/>
+ <rect id="west-active-tab-bottomleft" transform="rotate(90)" x="356.36" y="-202" width="10" height="2" opacity="0"/>
+ <rect id="west-active-tab-left" transform="rotate(90)" x="276.36" y="-202" width="80" height="2" opacity="0"/>
+ <rect id="west-active-tab-topleft" transform="rotate(90)" x="266.36" y="-202" width="10" height="2" opacity="0"/>
+ <rect id="west-active-tab-hint-top-margin" transform="rotate(90)" x="266.36" y="-213" width="6" height="5" fill="#4e9a06"/>
+ <rect id="west-active-tab-hint-bottom-margin" transform="rotate(90)" x="360.36" y="-213" width="6" height="5" fill="#4e9a06"/>
+ <g id="west-active-tab-right" transform="matrix(0 1 -1 0 579.36 236.36)" fill="#5657f5">
+  <rect class="ColorScheme-ButtonFocus" x="40" y="359.36" width="80" height="3" fill="#5657f5"/>
+ </g>
+ <g id="west-active-tab-topright" transform="matrix(0 1 -1 0 579.36 236.36)">
+  <rect x="30" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="33" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <g id="west-active-tab-bottomright" transform="matrix(0 1 -1 0 579.36 236.36)">
+  <rect x="120" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="120" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <rect id="west-active-tab-hint-right-margin" transform="rotate(90)" x="320.6" y="-220" width="5" height="8" fill="#4e9a06"/>
+ <rect id="west-active-tab-hint-left-margin" transform="rotate(90)" x="320.6" y="-204" width="5" height="4" fill="#4e9a06"/>
+ <rect id="north-active-tab-right" transform="scale(-1)" x="-373" y="-226.36" width="10" height="12" opacity="0"/>
+ <rect id="north-active-tab-center" transform="scale(-1)" x="-363" y="-226.36" width="80" height="12" opacity="0"/>
+ <rect id="north-active-tab-left" transform="scale(-1)" x="-283" y="-226.36" width="10" height="12" opacity="0"/>
+ <rect id="north-active-tab-topleft" transform="scale(-1)" x="-283" y="-212.36" width="10" height="2" opacity="0"/>
+ <rect id="north-active-tab-top" transform="scale(-1)" x="-363" y="-212.36" width="80" height="2" opacity="0"/>
+ <rect id="north-active-tab-topright" transform="scale(-1)" x="-373" y="-212.36" width="10" height="2" opacity="0"/>
+ <rect id="north-focus-hint-right-margin" transform="scale(-1)" x="-373" y="-223.36" width="6" height="5" fill="#4e9a06"/>
+ <rect id="north-focus-hint-left-margin" transform="scale(-1)" x="-279" y="-223.36" width="6" height="5" fill="#4e9a06"/>
+ <g id="north-active-tab-bottom" transform="translate(243 -132)">
+  <rect class="ColorScheme-ButtonFocus" x="40" y="359.36" width="80" height="3" fill="#5657f5"/>
+ </g>
+ <rect id="north-focus-hint-bottom-margin" transform="scale(-1)" x="-318.76" y="-230.36" width="5" height="8" fill="#4e9a06"/>
+ <rect id="north-focus-hint-top-margin" transform="scale(-1)" x="-318.76" y="-214.36" width="5" height="4" fill="#4e9a06"/>
+ <g id="north-active-tab-bottomleft" transform="translate(243 -132)">
+  <rect x="30" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="33" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <g id="north-active-tab-bottomright">
+  <rect x="363" y="227.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect x="363" y="227.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="363" y="227.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <g id="east-active-tab-topleft" transform="matrix(0 1 -1 0 766.78 236.36)">
+  <rect x="30" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="33" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+ <g id="east-active-tab-bottomleft" transform="matrix(0 1 -1 0 766.78 236.36)">
+  <rect x="120" y="359.36" width="10" height="3" fill="#e4e6e8" opacity=".01"/>
+  <rect class="ColorScheme-ButtonFocus" x="120" y="359.36" width="7" height="3" fill="#5657f5"/>
+ </g>
+</svg>

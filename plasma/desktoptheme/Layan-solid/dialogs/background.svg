@@ -1,0 +1,92 @@
+<svg width="100" height="100" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-opacity=".5098" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="83.327" x2="83.327" y1="-965.03" y2="-952.7" gradientTransform="matrix(.71429 0 0 3 -317.71 3175.1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="g" cx="74.93" cy="25.07" r="1.6471" gradientTransform="matrix(-22.464 2.0568e-5 2.0568e-5 22.464 1712.2 -534.17)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="radialGradient963" cx="5.3529" cy="50.292" r="1.6471" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g id="shadow-topleft" transform="matrix(-1.1176 0 0 1.1176 112.82 -122.93)">
+  <g transform="matrix(0,4.25,-4.25,0,295.74,106.19)" fill="url(#radialGradient963)">
+   <path transform="matrix(0 .21053 .21053 0 .89471 45.834)" d="m-9-9v38h30a8 8 0 0 1 8-8v-30h-38z" color="#000000" color-rendering="auto" fill="url(#g)" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" stroke-width="4.75" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+ </g>
+ <g id="shadow-top" transform="matrix(0 -1 -.84 0 286.88 309)">
+  <rect transform="rotate(-90)" x="-307" y="288" width="50" height="30" fill="url(#d)" opacity=".5"/>
+ </g>
+ <g id="shadow-right" transform="matrix(1 0 0 -.84 -209 286.88)">
+  <rect transform="rotate(-90)" x="-307" y="288" width="50" height="30" fill="url(#d)" opacity=".5"/>
+ </g>
+ <g id="shadow-left" transform="matrix(-1 0 0 -.84 309 286.88)">
+  <rect transform="rotate(-90)" x="-307" y="288" width="50" height="30" fill="url(#d)" opacity=".5"/>
+ </g>
+ <g id="shadow-bottom" transform="matrix(0 1 -.84 0 286.88 -209)">
+  <rect transform="rotate(-90)" x="-307" y="288" width="50" height="30" fill="url(#d)" opacity=".5"/>
+ </g>
+ <g id="top" transform="matrix(-.84 0 0 1.1432 230.6 -267.08)" fill="#050505" fill-opacity=".85882">
+  <path d="m190 252h50v6.9999h-50z" fill="#3c3c46" fill-opacity="1"/>
+ </g>
+ <use id="shadow-topright" transform="rotate(90 50.001 49.999)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <use id="shadow-bottomright" transform="rotate(180 50 50)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <use id="shadow-bottomleft" transform="rotate(-90,50,50)" width="100%" height="100%" xlink:href="#shadow-topleft"/>
+ <g id="mask-left" transform="matrix(0 .84 1.75 0 -452.25 -182.36)" fill="#000000">
+  <path d="m254 347h50l1e-5 4h-50z" fill="#000000"/>
+ </g>
+ <rect id="mask-center" x="163" y="31" width="42" height="42" fill="#000000" stroke-width=".84"/>
+ <g id="mask-topright" transform="matrix(1.75,0,0,1.75,-326,-584.25)" fill="#000000">
+  <path d="m308 351a4 4 0 0 0-4-4v4z" color="#000000" color-rendering="auto" fill="#000000" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g id="mask-top" transform="matrix(.84 0 0 1.75 -50.36 -584.25)" fill="#000000">
+  <path d="m254 347h50l1e-5 4h-50z" fill="#000000"/>
+ </g>
+ <g id="mask-right" transform="matrix(0 .84 -1.75 0 820.25 -182.36)" fill="#000000">
+  <path d="m254 347h50l1e-5 4h-50z" fill="#000000"/>
+ </g>
+ <g id="mask-topleft" transform="matrix(-1.75,0,0,1.75,694,-584.25)" fill="#000000">
+  <path d="m304 347a4 4 0 0 1 4 4h-4z" color="#000000" color-rendering="auto" fill="#000000" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g id="mask-bottom" transform="matrix(.84 0 0 -1.75 -50.36 688.25)" fill="#000000">
+  <path d="m254 347h50l1e-5 4h-50z" fill="#000000"/>
+ </g>
+ <g id="mask-bottomright" transform="matrix(1.75 0 0 -1.75 -231.5 782.75)" fill="#000000">
+  <path d="m250 401a4 4 0 0 1 4 4h-4z" color="#000000" color-rendering="auto" fill="#000000" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g id="mask-bottomleft" transform="matrix(-1.75,0,0,-1.75,694,782.75)" fill="#000000">
+  <path d="m308 405a4 4 0 0 0-4-4v4z" color="#000000" color-rendering="auto" fill="#000000" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <rect id="hint-stretch-borders" x="7.5" y="2.4414e-6" width="5" height="5" color="#000000" color-rendering="auto" fill="#e4720c" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <g id="right" transform="matrix(-1.1429 0 0 .84 288.14 -188.56)" fill="#050505" fill-opacity=".85882">
+  <path d="m183 259v50l7 1e-5v-50z" fill="#3c3c46" fill-opacity="1"/>
+ </g>
+ <g id="left" transform="matrix(-1.1429 0 0 .84 303.29 -188.56)" fill="#050505" fill-opacity=".85882">
+  <path d="m247 259v50l-7 1e-5v-50z" fill="#3c3c46" fill-opacity="1"/>
+ </g>
+ <g id="bottom" transform="matrix(.84 0 0 -1.1429 -130.6 367)" fill="#050505" fill-opacity=".85882">
+  <path d="m190 252h50v6.9999h-50z" fill="#3c3c46" fill-opacity="1"/>
+ </g>
+ <g id="topright" transform="matrix(-2,0,0,2,85,-74.879)" fill="#050505" fill-opacity=".85882">
+  <path d="m7 47.939a4 4 0 0 0-4 4h4z" color="#000000" color-rendering="auto" fill="#3c3c46" fill-opacity="1" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g id="bottomleft" transform="matrix(2 0 0 -2 15 174.88)" fill="#050505" fill-opacity=".85882">
+  <path d="m7 47.939a4 4 0 0 0-4 4h4z" color="#000000" color-rendering="auto" fill="#3c3c46" fill-opacity="1" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g id="bottomright" transform="matrix(0 -2.0002 -2.0002 0 174.89 85.001)" fill="#050505" fill-opacity=".85882">
+  <path d="m3.0005 51.939a3.9995 3.9995 0 0 1 3.9995-3.9995v3.9995z" color="#000000" color-rendering="auto" fill="#3c3c46" fill-opacity="1" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width=".99988" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <rect id="center" transform="scale(-1)" x="-71" y="-71" width="42" height="42" fill="#3c3c46" stroke-width=".84"/>
+ <g transform="translate(0,-110.94)" fill="#f99133">
+  <rect id="shadow-hint-left-margin" x="-9" y="158.94" width="30" height="4"/>
+  <rect id="shadow-hint-right-margin" x="79" y="158.94" width="30" height="4"/>
+  <rect id="shadow-hint-top-margin" x="48" y="101.94" width="4" height="30"/>
+ </g>
+ <rect id="shadow-hint-bottom-margin" x="48" y="79" width="4" height="30" fill="#f99133"/>
+ <g id="topleft" transform="matrix(0,2,2,0,-74.878,15)" fill="#050505" fill-opacity=".85882">
+  <path d="m7 47.939a4 4 0 0 0-4 4h4z" color="#000000" color-rendering="auto" fill="#3c3c46" fill-opacity="1" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <rect id="hint-top-margin" x="48" y="21" width="4" height="8" color="#000000" color-rendering="auto" fill="#37a4f5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.4142" style="isolation:auto;mix-blend-mode:normal"/>
+ <rect id="hint-right-margin" x="71" y="48" width="8" height="4" color="#000000" color-rendering="auto" fill="#37a4f5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.4142" style="isolation:auto;mix-blend-mode:normal"/>
+ <rect id="hint-left-margin" x="21" y="48" width="8" height="4" color="#000000" color-rendering="auto" fill="#37a4f5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.4142" style="isolation:auto;mix-blend-mode:normal"/>
+ <rect id="hint-bottom-margin" x="48" y="71" width="4" height="7.9999" color="#000000" color-rendering="auto" fill="#37a4f5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width="1.4142" style="isolation:auto;mix-blend-mode:normal"/>
+</svg>

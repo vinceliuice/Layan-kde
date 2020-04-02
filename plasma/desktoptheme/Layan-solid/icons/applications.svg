@@ -1,0 +1,22 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#35ff76" offset="0"/>
+   <stop stop-color="#357bff" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  <linearGradient id="e" x1="6.7966" x2="23.881" y1="5.7609" y2="22.574" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="16.525" x2="31.237" y1=".74574" y2="17.356" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="1.9153" x2="15.271" y1="11.627" y2="28.983" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="10.423" x2="23.983" y1="7.6949" y2="23.831" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g id="applications-other">
+  <rect x="-2.7563e-7" y="-1.2834e-9" width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
+  <g>
+   <path d="m9.3995 1.9982h-0.80093c-3.092 0-5.5986 2.507-5.5986 5.5995v0.80107c0 1.4854 0.59019 2.91 1.6405 3.9601 1.0504 1.0502 2.4749 1.6399 3.9601 1.6393h6.3994v-6.4005c0-1.4854-0.58991-2.9101-1.6403-3.9603-1.0499-1.0495-2.4738-1.6392-3.9581-1.6392h-0.00197" fill="url(#e)"/>
+   <path d="m8.5994 16c-1.4853 0-2.9101 0.59018-3.9601 1.6406-1.0501 1.0503-1.6397 2.4747-1.6393 3.96v0.80091c0 1.4847 0.59 2.9088 1.64 3.9588 1.0501 1.0498 2.4744 1.6397 3.9594 1.6397h0.80175c1.4854 0 2.9097-0.59046 3.9597-1.6409 1.05-1.0501 1.6394-2.4746 1.6391-3.9597v-6.3994z" fill="url(#c)"/>
+   <path d="m23.399 16h-6.3993v6.4015c0 1.4852 0.59006 2.9093 1.6405 3.9593 1.0504 1.05 2.4748 1.6397 3.9601 1.6392h0.80094c1.4847 0 2.9088-0.5899 3.9588-1.6397 1.0498-1.05 1.6398-2.474 1.6398-3.9588v-0.80091c0-1.4857-0.58934-2.9103-1.6398-3.9609-1.05-1.0498-2.4742-1.6396-3.9589-1.6397h-2e-3" fill="url(#b)"/>
+   <path d="m22.6 2h-0.0014c-1.4851 0-2.9094 0.59033-3.9596 1.6407-1.0499 1.0504-1.6397 2.4749-1.639 3.9598v6.3995h6.4005c1.4854 0 2.9098-0.59006 3.96-1.6405 1.0503-1.0504 1.6399-2.4749 1.6395-3.9601v-0.80094c0-3.092-2.507-5.5985-5.5995-5.5985h-0.80105z" fill="url(#d)"/>
+  </g>
+ </g>
+</svg>
