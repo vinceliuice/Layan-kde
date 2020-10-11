@@ -385,7 +385,7 @@ PlasmaCore.ColorScope {
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel","Suspend to RAM","Sleep")
                         onClicked: sddm.suspend()
                         enabled: sddm.canSuspend
-                        iconSize: root.generalFontSize * 3
+                        visible: !inputPanel.keyboardActive
                     },
                     ActionButton {
                         iconSource: "/usr/share/sddm/themes/Layan/assets/restart_primary.svgz"

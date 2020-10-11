@@ -15,3 +15,9 @@ enabled=false
 contrast=0.2
 intensity=0.4
 saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Layan
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1440
