@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,7 +36,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1022"
      id="namedview123"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -146,31 +147,154 @@
        cx="5.3529"
        cy="50.292"
        r="1.6471" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient904"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       cx="74.929764"
+       cy="25.070358"
+       fx="74.929764"
+       fy="25.070358"
+       r="1.6471" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient906"
+       gradientUnits="userSpaceOnUse"
+       cx="5.3529"
+       cy="50.292"
+       r="1.6471" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient914"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
+       x1="83.326836"
+       y1="-965.03333"
+       x2="83.326836"
+       y2="-952.70001" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient922"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       cx="74.929764"
+       cy="25.070358"
+       fx="74.929764"
+       fy="25.070358"
+       r="1.6471" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient924"
+       gradientUnits="userSpaceOnUse"
+       cx="5.3529"
+       cy="50.292"
+       r="1.6471" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient932"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
+       x1="83.326836"
+       y1="-965.03333"
+       x2="83.326836"
+       y2="-952.70001" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient940"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       cx="74.929764"
+       cy="25.070358"
+       fx="74.929764"
+       fy="25.070358"
+       r="1.6471" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient942"
+       gradientUnits="userSpaceOnUse"
+       cx="5.3529"
+       cy="50.292"
+       r="1.6471" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient950"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
+       x1="83.326836"
+       y1="-965.03333"
+       x2="83.326836"
+       y2="-952.70001" />
   </defs>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-top"
-     id="shadow-left"
-     transform="rotate(-90,50,50)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-top"
-     id="shadow-bottom"
-     transform="rotate(180,50,50)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-top"
-     id="shadow-right"
-     transform="rotate(90,50,50)"
-     width="100%"
-     height="100%" />
+  <g
+     transform="matrix(-1,0,0,0.84,309,-186.88)"
+     id="shadow-left">
+    <rect
+       style="opacity:0.5;fill:url(#linearGradient950)"
+       id="rect944"
+       height="30"
+       width="50"
+       y="288"
+       x="-307"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:0.5;fill:none;stroke-width:0.516398"
+       id="rect946"
+       height="7.9999976"
+       width="50"
+       y="280"
+       x="-307"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(0,1,0.84,0,-186.88,-209)"
+     id="shadow-bottom">
+    <rect
+       style="opacity:0.5;fill:url(#linearGradient932)"
+       id="rect926"
+       height="30"
+       width="50"
+       y="288"
+       x="-307"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:0.5;fill:none;stroke-width:0.516398"
+       id="rect928"
+       height="7.9999976"
+       width="50"
+       y="280"
+       x="-307"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.84,-209,286.88)"
+     id="shadow-right">
+    <rect
+       style="opacity:0.5;fill:url(#linearGradient914)"
+       id="rect908"
+       height="30"
+       width="50"
+       y="288"
+       x="-307"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:0.5;fill:none;stroke-width:0.516398"
+       id="rect910"
+       height="7.9999976"
+       width="50"
+       y="280"
+       x="-307"
+       transform="rotate(-90)" />
+  </g>
   <g
      transform="matrix(-1.1176497,0,0,1.1176497,112.82289,-122.93312)"
      id="shadow-topleft">
@@ -215,30 +339,48 @@
        inkscape:connector-curvature="0"
        style="opacity:0.6;fill:#25252d;fill-opacity:1" />
   </g>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-topleft"
-     id="shadow-topright"
-     transform="rotate(90,50.001086,49.998914)"
-     width="100%"
-     height="100%" />
-  <use
-     height="100%"
-     width="100%"
-     transform="rotate(180,50,50.000006)"
-     id="shadow-bottomright"
-     xlink:href="#shadow-topleft"
-     y="0"
-     x="0" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#shadow-topleft"
-     id="shadow-bottomleft"
-     transform="rotate(-90,50,50)"
-     width="100%"
-     height="100%" />
+  <g
+     transform="matrix(0,-1.1176497,-1.1176497,0,222.93312,112.82072)"
+     id="shadow-topright">
+    <g
+       style="fill:url(#radialGradient906)"
+       id="g900"
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
+      <path
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient904);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
+         transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
+         id="path898" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.1176497,0,0,-1.1176497,-12.82289,222.93313)"
+     id="shadow-bottomright">
+    <g
+       style="fill:url(#radialGradient924)"
+       id="g918"
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
+      <path
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient922);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
+         transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
+         id="path916" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0,1.1176497,1.1176497,0,-122.93312,-12.82289)"
+     id="shadow-bottomleft">
+    <g
+       style="fill:url(#radialGradient942)"
+       id="g936"
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
+      <path
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient940);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
+         transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
+         id="path934" />
+    </g>
+  </g>
   <g
      style="fill:#000000"
      transform="matrix(0,0.84000003,2,0,-539,-182.36001)"
@@ -401,29 +543,27 @@
      x="-71"
      transform="scale(-1)"
      id="center" />
-  <g
-     style="fill:#f99133"
-     id="g103"
-     transform="translate(0,-110.94)">
-    <rect
-       height="4"
-       width="30"
-       y="158.94"
-       x="-9"
-       id="shadow-hint-left-margin" />
-    <rect
-       height="4"
-       width="30"
-       y="158.94"
-       x="79"
-       id="shadow-hint-right-margin" />
-    <rect
-       height="30"
-       width="4"
-       y="101.94"
-       x="48"
-       id="shadow-hint-top-margin" />
-  </g>
+  <rect
+     height="4"
+     width="30"
+     y="48.000004"
+     x="-9"
+     id="shadow-hint-left-margin"
+     style="fill:#f99133" />
+  <rect
+     height="4"
+     width="30"
+     y="48.000004"
+     x="79"
+     id="shadow-hint-right-margin"
+     style="fill:#f99133" />
+  <rect
+     height="30"
+     width="4"
+     y="-8.9999971"
+     x="48"
+     id="shadow-hint-top-margin"
+     style="fill:#f99133" />
   <rect
      style="fill:#f99133"
      height="30"

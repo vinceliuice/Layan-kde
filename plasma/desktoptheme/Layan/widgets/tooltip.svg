@@ -14,7 +14,7 @@
    viewBox="0 0 173 56"
    id="svg202"
    sodipodi:docname="tooltip.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata206">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1022"
      id="namedview204"
      showgrid="true"
-     inkscape:zoom="3.4035857"
-     inkscape:cx="113.89756"
-     inkscape:cy="50.523532"
+     inkscape:zoom="6.8071713"
+     inkscape:cx="38.666808"
+     inkscape:cy="31.843505"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg202"
      inkscape:document-rotation="0"
@@ -459,10 +460,10 @@
      style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.41421354" />
   <g
      id="mask-top"
-     transform="matrix(0.62500018,0,0,0.91666681,117.12499,-828.4988)">
+     transform="matrix(0.62500018,0,0,1.0101001,117.12499,-913.55697)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54919255"
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.54919"
        id="rect4265"
        width="11.999931"
        height="32.000015"
@@ -471,42 +472,42 @@
   </g>
   <g
      id="mask-topleft"
-     transform="matrix(1.1,0,0,1.1,102.7,-995.39838)">
+     transform="matrix(1.1999999,0,0,1.1999998,101.4,-1086.4344)">
     <path
-       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:2.20000029"
-       d="M 124 6 C 120.122 6 117 9.122 117 13 L 117 17 L 128 17 L 128 6 L 124 6 z "
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.2"
+       d="m 124,6 c -3.878,0 -7,3.122 -7,7 v 4 h 11 V 6 Z"
        transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)"
        id="path4277" />
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(0.62500018,0,0,1.1000025,117.12499,-999.80086)">
+     transform="matrix(0.62500018,0,0,1.1999997,117.12499,-1095.2344)">
     <rect
        y="-51"
        x="944.36224"
        height="32.000015"
        width="9.9999723"
        id="rect4291"
-       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41420829"
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
        transform="rotate(90)" />
   </g>
   <g
      id="mask-left"
-     transform="matrix(0.91666664,0,0,1,105.08333,-904.36219)">
+     transform="translate(103.99999,-904.36219)">
     <rect
        y="922.36218"
        x="-25"
        height="20.000069"
        width="11.999996"
        id="rect4317"
-       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2247467"
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.22475"
        transform="scale(-1,1)" />
   </g>
   <g
      id="mask-right"
-     transform="matrix(1.1000002,0,0,0.62500169,98.299988,-554.72795)">
+     transform="matrix(1.2000001,0,0,0.62500169,92.599995,-554.72795)">
     <rect
-       style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421449"
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421"
        id="rect4323"
        width="9.9999828"
        height="32.000023"
@@ -528,54 +529,60 @@
      x="45"
      y="68.865517"
      class="ColorScheme-Background" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#topleft"
+  <g
      id="topright"
-     transform="matrix(-1,0,0,1,108,0)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#topleft"
+     transform="matrix(-1,0,0,1,89,-904.36219)">
+    <path
+       style="opacity:0.8;fill:#25252d;fill-opacity:1;stroke:none;stroke-width:2"
+       d="m 38,6 c -3.324,0 -6,2.676 -6,6 v 6 H 44 V 6 Z"
+       transform="translate(-19,904.36219)"
+       id="path902" />
+  </g>
+  <g
      id="bottomleft"
-     transform="matrix(1,0,0,-1,9.2939377e-7,56.000015)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#topleft"
+     transform="matrix(1,0,0,-1,19.000001,960.36221)">
+    <path
+       style="opacity:0.8;fill:#25252d;fill-opacity:1;stroke:none;stroke-width:2"
+       d="m 38,6 c -3.324,0 -6,2.676 -6,6 v 6 H 44 V 6 Z"
+       transform="translate(-19,904.36219)"
+       id="path910" />
+  </g>
+  <g
      id="bottomright"
-     transform="rotate(-180,54.000001,28.000013)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#mask-topleft"
+     transform="rotate(180,44.500001,480.18111)">
+    <path
+       style="opacity:0.8;fill:#25252d;fill-opacity:1;stroke:none;stroke-width:2"
+       d="m 38,6 c -3.324,0 -6,2.676 -6,6 v 6 H 44 V 6 Z"
+       transform="translate(-19,904.36219)"
+       id="path906" />
+  </g>
+  <g
      id="mask-topright"
-     transform="matrix(-1,0,0,1,278,-2.0170001e-6)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#mask-topleft"
+     transform="matrix(-1.1999999,0,0,1.1999998,176.6,-1086.4344)">
+    <path
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.2"
+       d="m 124,6 c -3.878,0 -7,3.122 -7,7 v 4 h 11 V 6 Z"
+       transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)"
+       id="path899" />
+  </g>
+  <g
      id="mask-bottomleft"
-     transform="matrix(1,0,0,-1,-5.28e-7,56.000002)"
-     width="100%"
-     height="100%" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#mask-topleft"
+     transform="matrix(1.1999999,0,0,-1.1999998,101.4,1142.4344)">
+    <path
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.2"
+       d="m 124,6 c -3.878,0 -7,3.122 -7,7 v 4 h 11 V 6 Z"
+       transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)"
+       id="path903" />
+  </g>
+  <g
      id="mask-bottomright"
-     transform="rotate(-180,139,28.000001)"
-     width="100%"
-     height="100%" />
+     transform="matrix(-1.1999999,0,0,-1.1999998,176.6,1142.4344)">
+    <path
+       style="opacity:0.97;fill:#000000;fill-opacity:1;stroke-width:2.2"
+       d="m 124,6 c -3.878,0 -7,3.122 -7,7 v 4 h 11 V 6 Z"
+       transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)"
+       id="path907" />
+  </g>
   <use
      x="0"
      y="0"
