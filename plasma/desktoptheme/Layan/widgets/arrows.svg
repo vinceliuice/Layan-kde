@@ -1,20 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" version="1.1" viewBox="0 0 11.64 11.64">
- <g transform="translate(-11.641649,-261.54584)">
-  <g id="up-arrow" transform="translate(-1.3769874e-5,6.6146114)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44"
+   height="44"
+   version="1.1"
+   viewBox="0 0 11.64 11.64"
+   id="svg24"
+   sodipodi:docname="arrows.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="2.8863636"
+     inkscape:cx="27.164354"
+     inkscape:cy="61.718023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <g
+     id="up-arrow"
+     transform="translate(-11.641663,-254.93123)">
+    <rect
+       style="fill:none"
+       width="3.704"
+       height="3.704"
+       x="254.92999"
+       y="15.61"
+       transform="matrix(0,1,1,0,0,0)"
+       id="rect2" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
+       id="path4" />
   </g>
-  <g id="down-arrow" transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g
+     id="down-arrow"
+     transform="matrix(1,0,0,-1,-11.641663,266.5729)">
+    <rect
+       style="fill:none"
+       width="3.704"
+       height="3.704"
+       x="254.92999"
+       y="15.61"
+       transform="matrix(0,1,1,0,0,0)"
+       id="rect7" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
+       id="path9" />
   </g>
-  <g id="right-arrow" transform="matrix(0,1,-1,0,278.21454,249.90418)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g
+     id="right-arrow"
+     transform="rotate(90,139.10728,127.46562)">
+    <rect
+       style="fill:none"
+       width="3.704"
+       height="3.704"
+       x="254.92999"
+       y="15.61"
+       transform="matrix(0,1,1,0,0,0)"
+       id="rect12" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
+       id="path14" />
   </g>
-  <g id="left-arrow" transform="matrix(0,1,1,0,-243.28958,249.90418)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g
+     id="left-arrow"
+     transform="matrix(0,1,1,0,-254.93123,-11.64166)">
+    <rect
+       style="fill:none"
+       width="3.704"
+       height="3.704"
+       x="254.92999"
+       y="15.61"
+       transform="matrix(0,1,1,0,0,0)"
+       id="rect17" />
+    <path
+       style="fill:#dfdfdf"
+       d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"
+       id="path19" />
   </g>
- </g>
 </svg>

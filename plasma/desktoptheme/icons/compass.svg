@@ -1,0 +1,27 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient860">
+   <stop stop-color="#4deb47" offset="0"/>
+   <stop stop-color="#ffa000" offset="1"/>
+  </linearGradient>
+  <linearGradient>
+   <stop stop-color="#5df240" offset="0"/>
+   <stop stop-color="#fff400" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  <linearGradient id="linearGradient848" x2="22" y1="11" y2="11" gradientTransform="matrix(.63636 0 0 .63636 26 1.0273)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient860"/>
+  <linearGradient id="linearGradient877" x1="3" x2="19" y1="11" y2="11" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient860"/>
+ </defs>
+ <g id="16-16-compass">
+  <rect x="25" width="16" height="16" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="2.1333"/>
+  <path class="ColorScheme-Text" d="m33 1.0273c-3.866 0-7 3.1182-7 7s3.134 7 7 7 7-3.1182 7-7-3.134-7-7-7zm0 1.9727c2.7614 0 5 2.2909 5 5.0273s-2.2386 5.0273-5 5.0273-5-2.2909-5-5.0273 2.2386-5.0273 5-5.0273zm3.5 1.5273-3.5 1.1455c-1.2217 0-2.334 1.1455-2.334 2.3545l-1.166 3.5 3.5-1.1455c1.2217 0 2.334-1.1455 2.334-2.3545zm-3.5 2.3545c0.61088 0 1.166 0.50909 1.166 1.1455-1.9e-5 0.63636-0.55518 1.1455-1.166 1.1455-0.61085 0-1.166-0.50909-1.166-1.1455-3e-5 -0.63636 0.55514-1.1455 1.166-1.1455z" fill="url(#linearGradient848)"/>
+ </g>
+ <g id="compass" transform="matrix(2 0 0 2 -58 -36.055)">
+  <rect x="25" width="16" height="16" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="2.1333"/>
+  <path class="ColorScheme-Text" d="m33 1.0273c-3.866 0-7 3.1182-7 7s3.134 7 7 7 7-3.1182 7-7-3.134-7-7-7zm0 1.9727c2.7614 0 5 2.2909 5 5.0273s-2.2386 5.0273-5 5.0273-5-2.2909-5-5.0273 2.2386-5.0273 5-5.0273zm3.5 1.5273-3.5 1.1455c-1.2217 0-2.334 1.1455-2.334 2.3545l-1.166 3.5 3.5-1.1455c1.2217 0 2.334-1.1455 2.334-2.3545zm-3.5 2.3545c0.61088 0 1.166 0.50909 1.166 1.1455-1.9e-5 0.63636-0.55518 1.1455-1.166 1.1455-0.61085 0-1.166-0.50909-1.166-1.1455-3e-5 -0.63636 0.55514-1.1455 1.166-1.1455z" fill="url(#linearGradient848)"/>
+ </g>
+ <g id="22-22-compass" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="2">
+  <circle cx="11" cy="11" r="11" fill="#a2c725" opacity=".25"/>
+  <path d="m16.657 5.3431a8 8 0 0 0-11.314 0 8 8 0 0 0 0 11.314 8 8 0 0 0 11.314 0 8 8 0 0 0 0-11.314zm-1.4142 1.4142a6 6 0 0 1 0 8.4853 6 6 0 0 1-8.4853 0 6 6 0 0 1 0-8.4853 6 6 0 0 1 8.4853 0zm0 0-3.2731 1.4032a3 3 0 0 0-3.0908 0.71816 3 3 0 0 0-0.71816 3.0881l-1.4032 3.2759 3.2731-1.4032a3 3 0 0 0 3.0908-0.71816 3 3 0 0 0 0.71816-3.0881zm-3.5355 3.5355a1 1 0 0 1 0 1.4142 1 1 0 0 1-1.4142 0 1 1 0 0 1 0-1.4142 1 1 0 0 1 1.4142 0z" fill="url(#linearGradient877)"/>
+ </g>
+</svg>

@@ -13,7 +13,7 @@
    version="1.0"
    id="svg414"
    sodipodi:docname="button.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata418">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="702"
      id="namedview416"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="127.38868"
-     inkscape:cy="50.102115"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="224.09722"
+     inkscape:cy="109.76907"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg414"
      inkscape:snap-bbox="true"
@@ -53,40 +53,14 @@
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1331" />
   </sodipodi:namedview>
   <defs
      id="defs18">
-    <linearGradient
-       id="b">
-      <stop
-         stop-color="#fafafa"
-         offset="0"
-         id="stop2" />
-      <stop
-         stop-color="#fafafa"
-         offset="1"
-         id="stop4" />
-      <stop
-         stop-color="#afb4b9"
-         stop-opacity=".31373"
-         offset="1"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="e">
-      <stop
-         stop-color="#0c6395"
-         offset="0"
-         id="stop9" />
-      <stop
-         stop-color="#3daeef"
-         offset="1"
-         id="stop11" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
@@ -133,41 +107,6 @@
         color:#3daee9;
         stop-color:#3daee9;
       }</style>
-    <linearGradient
-       id="a"
-       x1="216"
-       x2="216"
-       y1="107"
-       y2="110"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#e" />
-    <linearGradient
-       id="d"
-       x1="160"
-       x2="160"
-       y1="-159"
-       y2="-138"
-       gradientTransform="translate(-879.81 948.58)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#b" />
-    <linearGradient
-       id="c"
-       x1="160"
-       x2="160"
-       y1="-159"
-       y2="-138"
-       gradientTransform="translate(-823.81 948.58)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#b" />
-    <linearGradient
-       gradientTransform="translate(-131,118)"
-       id="linearGradient1023"
-       x1="180"
-       x2="180"
-       y1="59"
-       y2="21"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient989" />
     <linearGradient
        id="linearGradient989">
       <stop
@@ -886,10 +825,10 @@
   </g>
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474444"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-hover-hint-left-margin"
      width="1.9999999"
-     height="5.9999962"
+     height="4"
      x="-105"
      y="236" />
   <g
@@ -980,23 +919,23 @@
   <rect
      y="80.000023"
      x="258"
-     height="5.9999743"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474217" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
   <rect
      y="276"
      x="-104.00002"
-     height="6"
+     height="4"
      width="1.9999999"
      id="toolbutton-hover-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474504"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      transform="rotate(-90)" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474146"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-hover-hint-bottom-margin"
      width="1.9999999"
-     height="5.9999695"
+     height="4"
      x="258"
      y="120.00003" />
   <g
@@ -1039,10 +978,10 @@
   </g>
   <rect
      transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.2247448"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-pressed-hint-left-margin"
      width="1.9999999"
-     height="6"
+     height="4"
      x="-104"
      y="291" />
   <g
@@ -1133,23 +1072,23 @@
   <rect
      y="80"
      x="313"
-     height="5.9998779"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.2247324" />
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
   <rect
      y="331.00003"
      x="-103"
-     height="5.999969"
+     height="4"
      width="1.9999999"
      id="toolbutton-pressed-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22474182"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      transform="rotate(-90)" />
   <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22475231"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="toolbutton-pressed-hint-bottom-margin"
      width="1.9999999"
-     height="6.0000763"
+     height="4"
      x="313"
      y="119.99992" />
   <rect

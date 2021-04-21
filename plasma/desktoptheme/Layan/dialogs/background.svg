@@ -13,7 +13,7 @@
    version="1"
    id="svg121"
    sodipodi:docname="background.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata125">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,20 +35,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
      id="namedview123"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="3.337544"
-     inkscape:cx="33.633793"
-     inkscape:cy="47.412944"
+     inkscape:cx="68.162189"
+     inkscape:cy="24.356884"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg121"
      inkscape:snap-nodes="false"
@@ -70,39 +70,6 @@
          offset="1"
          id="stop4" />
     </linearGradient>
-    <linearGradient
-       id="d"
-       x1="83.326836"
-       x2="83.326836"
-       y1="-965.03333"
-       y2="-952.70001"
-       gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
-    <radialGradient
-       id="b"
-       cx="5.3529"
-       cy="50.292"
-       r="1.6471"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
-    <radialGradient
-       id="h"
-       cx="74.588"
-       cy="25.412"
-       r="1.6471"
-       gradientTransform="matrix(24.893,-2.8154e-5,2.8154e-5,24.893,-1790.2,-599.07)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
-    <linearGradient
-       id="c"
-       x1="83.326836"
-       x2="83.326836"
-       y1="-965.03333"
-       y2="-952.70001"
-       gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
     <radialGradient
        id="g"
        cx="74.929764"
@@ -113,22 +80,6 @@
        xlink:href="#a"
        fx="74.929764"
        fy="25.070358" />
-    <radialGradient
-       id="f"
-       cx="74.588"
-       cy="25.412"
-       r="1.6471"
-       gradientTransform="matrix(1.148e-5,-5.8571,5.8571,1.148e-5,-139.84,490.81)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
-    <radialGradient
-       id="e"
-       cx="74.588"
-       cy="25.412"
-       r="1.6471"
-       gradientTransform="matrix(-8.4011e-6,-5.8571,5.8571,-8.4011e-6,-139.84,490.81)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#a" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#a"
@@ -239,7 +190,7 @@
      transform="matrix(-1,0,0,0.84,309,-186.88)"
      id="shadow-left">
     <rect
-       style="opacity:0.5;fill:url(#linearGradient950)"
+       style="opacity:0.35;fill:url(#linearGradient950)"
        id="rect944"
        height="30"
        width="50"
@@ -259,7 +210,7 @@
      transform="matrix(0,1,0.84,0,-186.88,-209)"
      id="shadow-bottom">
     <rect
-       style="opacity:0.5;fill:url(#linearGradient932)"
+       style="opacity:0.35;fill:url(#linearGradient932)"
        id="rect926"
        height="30"
        width="50"
@@ -279,7 +230,7 @@
      transform="matrix(1,0,0,-0.84,-209,286.88)"
      id="shadow-right">
     <rect
-       style="opacity:0.5;fill:url(#linearGradient914)"
+       style="opacity:0.35;fill:url(#linearGradient914)"
        id="rect908"
        height="30"
        width="50"
@@ -303,7 +254,7 @@
        id="g94"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#g);stroke-width:4.75001144;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#g);stroke-width:4.75001144;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
          d="M -9 -9 L -9 29 L 21 29 A 8 8 0 0 1 29 21 L 29 -9 L -9 -9 z "
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path92" />
@@ -313,7 +264,7 @@
      transform="matrix(0,-1,-0.84,0,286.88,309)"
      id="shadow-top">
     <rect
-       style="opacity:0.5;fill:url(#linearGradient957)"
+       style="opacity:0.35;fill:url(#linearGradient957)"
        id="rect81"
        height="30"
        width="50"
@@ -347,7 +298,7 @@
        id="g900"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient904);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient904);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path898" />
@@ -361,7 +312,7 @@
        id="g918"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient922);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient922);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path916" />
@@ -375,7 +326,7 @@
        id="g936"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient940);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient940);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path934" />
