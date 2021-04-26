@@ -11,7 +11,7 @@
    id="svg1604"
    width="450"
    height="1e3"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="Layan.svg"
    version="1">
   <metadata
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,22 +33,23 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="214.6237"
-     inkscape:cy="938.5216"
+     inkscape:cx="72.879181"
+     inkscape:cy="6.4424674"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="708"
+     inkscape:window-height="702"
      inkscape:window-maximized="1"
      inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:zoom="7.552"
+     inkscape:window-y="0"
+     inkscape:zoom="2"
      objecttolerance="10"
      pagecolor="#323232"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        id="grid2506"
        type="xygrid" />
@@ -338,14 +340,6 @@
          offset="1" />
     </linearGradient>
     <radialGradient
-       id="radialGradient4150"
-       cx="5.3529"
-       cy="50.292"
-       r="1.6471"
-       gradientUnits="userSpaceOnUse"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4465-3" />
-    <radialGradient
        id="radialGradient4170"
        cx="10.14"
        cy="52.481"
@@ -441,6 +435,16 @@
        cx="9.843"
        cy="52.778"
        r="9" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2243"
+       id="linearGradient1905"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,24,-24)"
+       x1="-55"
+       y1="35"
+       x2="-55"
+       y2="42" />
   </defs>
   <g
      id="button-default-indicator"
@@ -1499,11 +1503,12 @@
      transform="translate(45)">
     <path
        id="path1338-9"
-       d="m88 42v26h2v-26z"
-       fill="url(#linearGradient2315)" />
+       d="m 88,42 v 26 h 2 V 42 Z"
+       fill="url(#linearGradient2315)"
+       style="fill:url(#linearGradient1905)" />
     <path
        id="path1340-3"
-       d="m83 42v26h5v-26z"
+       d="m 83,42 v 26 h 5 V 42 Z"
        fill="#57585d" />
   </g>
   <rect
@@ -5943,4 +5948,578 @@
      transform="matrix(-1,0,0,1,462,0)"
      width="100%"
      height="100%" />
+  <g
+     id="flatbutton-normal-topleft"
+     transform="matrix(0.9447,0,0,0.94482,-9.996,-54)"
+     stroke-linecap="square">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill"
+       id="rect1784" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.1"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path1786" />
+  </g>
+  <g
+     id="flatbutton-normal-top"
+     transform="matrix(5.0394,0,0,0.94488,-108.669,-54)">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.1"
+       stroke-linecap="square"
+       stroke-width="0.2542"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1789" />
+  </g>
+  <g
+     id="flatbutton-normal-topright"
+     transform="matrix(-0.9447,0,0,0.94482,53.998,-54)"
+     stroke-linecap="square">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill"
+       id="rect1792" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.1"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path1794" />
+  </g>
+  <g
+     id="flatbutton-normal-bottomright"
+     transform="matrix(-0.9447,0,0,-0.94482,53.996,-0.001)"
+     stroke-linecap="square">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill"
+       id="rect1797" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.1"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path1799" />
+  </g>
+  <g
+     id="flatbutton-normal-bottomleft"
+     transform="matrix(0.9447,0,0,-0.94482,-9.996,-0.002)"
+     stroke-linecap="square">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill"
+       id="rect1802" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.1"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path1804" />
+  </g>
+  <g
+     id="flatbutton-normal-bottom"
+     transform="matrix(5.0394,0,0,-0.94488,-108.669,0)">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.1"
+       stroke-linecap="square"
+       stroke-width="0.2542"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1807" />
+  </g>
+  <g
+     id="flatbutton-toggled-topleft"
+     transform="matrix(0.94488,0,0,0.94488,113.001,-54)">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1810" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       fill="#0078d4"
+       stroke-width="0.26458"
+       id="path1812"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-toggled-top"
+     transform="matrix(5.0394,0,0,0.94488,14.3316,-54)">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="#0078d4"
+       id="rect1815"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-toggled-topright"
+     transform="matrix(-0.94488,0,0,0.94488,177.001,-54)">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1818" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       fill="#0078d4"
+       stroke-width="0.26458"
+       id="path1820"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-toggled-bottomright"
+     transform="matrix(-0.94488,0,0,-0.94488,177.001,0)">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1823" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       fill="#0078d4"
+       stroke-width="0.26458"
+       id="path1825"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-toggled-bottomleft"
+     transform="matrix(0.94488,0,0,-0.94488,113.001,0)">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1828" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       fill="#0078d4"
+       stroke-width="0.26458"
+       id="path1830"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-toggled-bottom"
+     transform="matrix(5.0394,0,0,-0.94488,14.3316,0)">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="#0078d4"
+       id="rect1833"
+       style="fill:#7c4dff;fill-opacity:1" />
+  </g>
+  <g
+     id="flatbutton-pressed-topleft"
+     transform="matrix(0.94488,0,0,0.94488,72.001,-54)"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1836"
+       style="fill:#ffffff" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       opacity="0.2"
+       stroke-width="0.26458"
+       id="path1838"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-pressed-top"
+     transform="matrix(5.0394,0,0,0.94488,-26.668,-54)"
+     style="fill:#ffffff">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.2"
+       id="rect1841"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-pressed-topright"
+     transform="matrix(-0.94488,0,0,0.94488,136.001,-54)"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1844"
+       style="fill:#ffffff" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       opacity="0.2"
+       stroke-width="0.26458"
+       id="path1846"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-pressed-bottomright"
+     transform="matrix(-0.94488,0,0,-0.94488,136.001,0)"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1849"
+       style="fill:#ffffff" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       opacity="0.2"
+       stroke-width="0.26458"
+       id="path1851"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-pressed-bottomleft"
+     transform="matrix(0.94488,0,0,-0.94488,72,0)"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       id="rect1854"
+       style="fill:#ffffff" />
+    <path
+       d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
+       opacity="0.2"
+       stroke-width="0.26458"
+       id="path1856"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-pressed-bottom"
+     transform="matrix(5.0394,0,0,-0.94488,-26.668,0)"
+     style="fill:#ffffff">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.2"
+       id="rect1859"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="flatbutton-normal-left"
+     transform="matrix(0.1875,0,0,16,6.626,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.1"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1862" />
+  </g>
+  <g
+     id="flatbutton-normal"
+     transform="matrix(1,0,0,16,-3.999,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.1"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1865" />
+  </g>
+  <g
+     id="flatbutton-normal-right"
+     transform="matrix(0.1875,0,0,16,27.626,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.1"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1868" />
+  </g>
+  <g
+     id="flatbutton-pressed-left"
+     transform="matrix(0.1875,0,0,16,88.625,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1871" />
+  </g>
+  <g
+     id="flatbutton-pressed"
+     transform="matrix(1,0,0,16,78,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1874" />
+  </g>
+  <g
+     id="flatbutton-pressed-right"
+     transform="matrix(0.1875,0,0,16,109.621,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect1877" />
+  </g>
+  <g
+     id="flatbutton-toggled-left"
+     transform="matrix(0.1875,0,0,16,129.621,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       fill="#0078d4"
+       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
+       id="rect1880" />
+  </g>
+  <g
+     id="flatbutton-toggled"
+     transform="matrix(1,0,0,16,119.001,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       fill="#0078d4"
+       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
+       id="rect1883" />
+  </g>
+  <g
+     id="flatbutton-toggled-right"
+     transform="matrix(0.1875,0,0,16,150.621,525)">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       fill="#0078d4"
+       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
+       id="rect1886" />
+  </g>
+  <g
+     id="flatbutton-focused-topleft"
+     transform="matrix(0.9447,0,0,0.94482,33.003,-54)"
+     stroke-linecap="square"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2539" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.2"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path2541" />
+  </g>
+  <g
+     id="flatbutton-focused-top"
+     transform="matrix(5.0394,0,0,0.94488,-65.668,-54)"
+     style="fill:#ffffff">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.2"
+       stroke-linecap="square"
+       stroke-width="0.2542"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2544" />
+  </g>
+  <g
+     id="flatbutton-focused-topright"
+     transform="matrix(-0.9447,0,0,0.94482,96.997,-54)"
+     stroke-linecap="square"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2547" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.2"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path2549" />
+  </g>
+  <g
+     id="flatbutton-focused-bottomright"
+     transform="matrix(-0.9447,0,0,-0.94482,96.995,-0.001)"
+     stroke-linecap="square"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2552" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.2"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path2554" />
+  </g>
+  <g
+     id="flatbutton-focused-bottomleft"
+     transform="matrix(0.9447,0,0,-0.94482,33.003,-0.002)"
+     stroke-linecap="square"
+     style="fill:#ffffff">
+    <rect
+       x="21.167"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       fill="none"
+       stroke-width="0.037418"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2557" />
+    <path
+       transform="scale(0.26458)"
+       d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
+       opacity="0.2"
+       stroke-width="0.50676"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="path2559" />
+  </g>
+  <g
+     id="flatbutton-focused-bottom"
+     transform="matrix(5.0394,0,0,-0.94488,-65.668,0)"
+     style="fill:#ffffff">
+    <rect
+       x="24.341999"
+       y="15.875"
+       width="3.175"
+       height="3.175"
+       opacity="0.2"
+       stroke-linecap="square"
+       stroke-width="0.2542"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2562" />
+  </g>
+  <g
+     id="flatbutton-focused-left"
+     transform="matrix(0.1875,0,0,16,49.625,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2565" />
+  </g>
+  <g
+     id="flatbutton-focused"
+     transform="matrix(1,0,0,16,39,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2568" />
+  </g>
+  <g
+     id="flatbutton-focused-right"
+     transform="matrix(0.1875,0,0,16,70.625,525)"
+     style="fill:#ffffff">
+    <rect
+       x="18"
+       y="-35"
+       width="16"
+       height="1"
+       opacity="0.2"
+       style="paint-order:markers stroke fill;fill:#ffffff"
+       id="rect2571" />
+  </g>
 </svg>
