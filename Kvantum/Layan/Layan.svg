@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1604"
    width="450"
    height="1e3"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="Layan.svg"
-   version="1">
+   version="1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata1108">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,23 +32,24 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="72.879181"
-     inkscape:cy="6.4424674"
+     inkscape:cx="108.09895"
+     inkscape:cy="-12.993087"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="702"
+     inkscape:window-height="1024"
      inkscape:window-maximized="1"
-     inkscape:window-width="1366"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:zoom="2"
+     inkscape:window-y="28"
+     inkscape:zoom="5.6568542"
      objecttolerance="10"
      pagecolor="#323232"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid2506"
        type="xygrid" />
@@ -6072,10 +6072,8 @@
        id="rect1810" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
-       fill="#0078d4"
-       stroke-width="0.26458"
        id="path1812"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-top"
@@ -6085,9 +6083,8 @@
        y="15.875"
        width="3.175"
        height="3.175"
-       fill="#0078d4"
        id="rect1815"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-topright"
@@ -6101,10 +6098,8 @@
        id="rect1818" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
-       fill="#0078d4"
-       stroke-width="0.26458"
        id="path1820"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-bottomright"
@@ -6118,10 +6113,8 @@
        id="rect1823" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
-       fill="#0078d4"
-       stroke-width="0.26458"
        id="path1825"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-bottomleft"
@@ -6135,10 +6128,8 @@
        id="rect1828" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
-       fill="#0078d4"
-       stroke-width="0.26458"
        id="path1830"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-bottom"
@@ -6148,9 +6139,8 @@
        y="15.875"
        width="3.175"
        height="3.175"
-       fill="#0078d4"
        id="rect1833"
-       style="fill:#7c4dff;fill-opacity:1" />
+       style="fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-pressed-topleft"
@@ -6162,8 +6152,7 @@
        width="3.175"
        height="3.175"
        fill="none"
-       id="rect1836"
-       style="fill:#ffffff" />
+       id="rect1836" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
        opacity="0.2"
@@ -6194,8 +6183,7 @@
        width="3.175"
        height="3.175"
        fill="none"
-       id="rect1844"
-       style="fill:#ffffff" />
+       id="rect1844" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
        opacity="0.2"
@@ -6213,8 +6201,7 @@
        width="3.175"
        height="3.175"
        fill="none"
-       id="rect1849"
-       style="fill:#ffffff" />
+       id="rect1849" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
        opacity="0.2"
@@ -6232,8 +6219,7 @@
        width="3.175"
        height="3.175"
        fill="none"
-       id="rect1854"
-       style="fill:#ffffff" />
+       id="rect1854" />
     <path
        d="m 24.342,15.875 c -1.7589,0 -3.175,1.416 -3.175,3.175 h 3.175 z"
        opacity="0.2"
@@ -6337,8 +6323,7 @@
        y="-35"
        width="16"
        height="1"
-       fill="#0078d4"
-       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
+       style="paint-order:markers stroke fill;fill:#5657f5;fill-opacity:1"
        id="rect1880" />
   </g>
   <g
@@ -6349,9 +6334,8 @@
        y="-35"
        width="16"
        height="1"
-       fill="#0078d4"
-       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
-       id="rect1883" />
+       id="rect1883"
+       style="paint-order:markers stroke fill;fill:#5657f5;fill-opacity:1" />
   </g>
   <g
      id="flatbutton-toggled-right"
@@ -6361,8 +6345,7 @@
        y="-35"
        width="16"
        height="1"
-       fill="#0078d4"
-       style="paint-order:markers stroke fill;fill:#7c4dff;fill-opacity:1"
+       style="paint-order:markers stroke fill;fill:#5657f5;fill-opacity:1"
        id="rect1886" />
   </g>
   <g
@@ -6377,7 +6360,6 @@
        height="3.175"
        fill="none"
        stroke-width="0.037418"
-       style="paint-order:markers stroke fill;fill:#ffffff"
        id="rect2539" />
     <path
        transform="scale(0.26458)"
@@ -6414,7 +6396,6 @@
        height="3.175"
        fill="none"
        stroke-width="0.037418"
-       style="paint-order:markers stroke fill;fill:#ffffff"
        id="rect2547" />
     <path
        transform="scale(0.26458)"
@@ -6436,7 +6417,6 @@
        height="3.175"
        fill="none"
        stroke-width="0.037418"
-       style="paint-order:markers stroke fill;fill:#ffffff"
        id="rect2552" />
     <path
        transform="scale(0.26458)"
@@ -6458,15 +6438,14 @@
        height="3.175"
        fill="none"
        stroke-width="0.037418"
-       style="paint-order:markers stroke fill;fill:#ffffff"
        id="rect2557" />
     <path
-       transform="scale(0.26458)"
        d="M 92,60 C 85.352,60 80,65.352 80,72 H 92 Z"
        opacity="0.2"
        stroke-width="0.50676"
        style="paint-order:markers stroke fill;fill:#ffffff"
-       id="path2559" />
+       id="path2559"
+       transform="scale(0.26458)" />
   </g>
   <g
      id="flatbutton-focused-bottom"

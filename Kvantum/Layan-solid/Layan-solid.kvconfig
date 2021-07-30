@@ -143,14 +143,19 @@ frame.expansion=0
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
+interior.element=flatbutton
+frame=true
+frame.element=flatbutton
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
+text.iconspacing=0
 text.normal.color=#dfdfdf
 text.focus.color=#dfdfdf
 text.press.color=#ffffff
 text.toggle.color=white
 text.bold=false
-indicator.element=arrow
-indicator.size=0
-frame.expansion=34
 
 [ToolbarButton]
 frame.element=tbutton
