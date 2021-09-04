@@ -1,5 +1,7 @@
 [Desktop Entry]
 Name=Layan
+Comment=Layan theme for plasma
+
 X-KDE-PluginInfo-Author=Vinceliuice
 X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
 X-KDE-PluginInfo-Name=Layan
@@ -21,3 +23,6 @@ defaultWallpaperTheme=Layan
 defaultFileSuffix=.png
 defaultWidth=2560
 defaultHeight=1440
+
+[AdaptiveTransparency]
+enabled=true

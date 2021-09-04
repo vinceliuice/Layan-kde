@@ -158,7 +158,12 @@ text.toggle.color=white
 text.bold=false
 
 [ToolbarButton]
+frame=true
 frame.element=tbutton
+frame.top=6
+frame.bottom=10
+frame.left=7
+frame.right=7
 interior.element=tbutton
 indicator.element=tarrow
 text.normal.color=#dfdfdf
@@ -166,7 +171,6 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=false
-frame.expansion=34
 
 [Dock]
 inherits=PanelButtonCommand
