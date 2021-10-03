@@ -8,7 +8,7 @@ ColorScheme=Layan
 Theme=Tela
 
 [kdeglobals][KDE]
-widgetStyle=kvantum
+widgetStyle=kvantum-dark
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop

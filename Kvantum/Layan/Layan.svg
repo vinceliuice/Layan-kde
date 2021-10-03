@@ -3,7 +3,7 @@
    id="svg1604"
    width="450"
    height="1e3"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Layan.svg"
    version="1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,8 +32,8 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg1604"
-     inkscape:cx="91.875"
-     inkscape:cy="61.3125"
+     inkscape:cx="131.875"
+     inkscape:cy="603.5"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="1010"
@@ -41,7 +41,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="8"
+     inkscape:zoom="4"
      objecttolerance="10"
      pagecolor="#323232"
      showgrid="true"
@@ -1769,24 +1769,20 @@
      style="opacity:0.15;fill:#ffffff;fill-rule:evenodd" />
   <path
      id="menuitem-normal-topleft"
-     d="m 185,590 h 4 v 4 h -4 z"
      style="opacity:0.15;fill:#ffffff;fill-rule:evenodd;paint-order:normal"
-     inkscape:connector-curvature="0" />
+     d="M 189 590 C 186.784 590 185 591.784 185 594 L 189 594 L 189 590 z " />
   <path
      id="menuitem-normal-topright"
-     d="m 197,590 h 4 v 4 h -4 z"
      style="opacity:0.15;fill:#ffffff;fill-rule:evenodd;paint-order:normal"
-     inkscape:connector-curvature="0" />
+     d="M 197 590 L 197 594 L 201 594 C 201 591.784 199.216 590 197 590 z " />
   <path
      id="menuitem-normal-bottomleft"
-     d="m 185,602 h 4 v 4 h -4 z"
      style="opacity:0.15;fill:#ffffff;fill-rule:evenodd;paint-order:normal"
-     inkscape:connector-curvature="0" />
+     d="M 185 602 C 185 604.216 186.784 606 189 606 L 189 602 L 185 602 z " />
   <path
      id="menuitem-normal-bottomright"
-     d="m 197,602 h 4 v 4 h -4 z"
      style="opacity:0.15;fill:#ffffff;fill-rule:evenodd;paint-order:normal"
-     inkscape:connector-curvature="0" />
+     d="M 197 602 L 197 606 C 199.216 606 201 604.216 201 602 L 197 602 z " />
   <g
      style="fill-rule:evenodd"
      transform="translate(-37.75,-310.44775)"

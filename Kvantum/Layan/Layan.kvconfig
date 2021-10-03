@@ -11,8 +11,8 @@ toolbar_item_spacing=0
 toolbar_interior_spacing=2
 spread_progressbar=true
 composite=true
-menu_shadow_depth=7
-spread_menuitems=true
+menu_shadow_depth=10
+spread_menuitems=false
 tooltip_shadow_depth=6
 splitter_width=1
 scroll_width=9
@@ -426,10 +426,10 @@ frame=false
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=6
-frame.bottom=6
-frame.left=6
-frame.right=6
+frame.top=10
+frame.bottom=10
+frame.left=10
+frame.right=10
 frame.element=menu
 interior.element=menu
 text.normal.color=#dfdfdf
@@ -448,10 +448,10 @@ text.margin.top=0
 text.margin.bottom=0
 text.margin.left=6
 text.margin.right=6
-frame.top=0
-frame.bottom=0
-frame.left=6
-frame.right=6
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 frame.expansion=0
 
 [MenuBar]
