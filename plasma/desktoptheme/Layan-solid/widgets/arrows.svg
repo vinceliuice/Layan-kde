@@ -1,20 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" version="1.1" viewBox="0 0 11.64 11.64">
- <g transform="translate(-11.641649,-261.54584)">
-  <g id="up-arrow" transform="translate(-1.3769874e-5,6.6146114)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+<svg width="44" height="44" version="1.1" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+ </defs>
+ <g transform="translate(-11.642 -261.55)" stroke-width=".26458">
+  <g id="up-arrow" transform="matrix(3.7795 0 0 3.7795 -32.358 -701.97)">
+   <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.7042" height="3.7042" fill="none"/>
+   <path class="ColorScheme-Text" d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="currentColor" fill-rule="evenodd"/>
   </g>
-  <g id="down-arrow" transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g id="down-arrow" transform="matrix(3.7795 0 0 -3.7795 -32.358 1269.1)">
+   <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.7042" height="3.7042" fill="none"/>
+   <path class="ColorScheme-Text" d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="currentColor" fill-rule="evenodd"/>
   </g>
-  <g id="right-arrow" transform="matrix(0,1,-1,0,278.21454,249.90418)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g id="right-arrow" transform="matrix(0 3.7795 -3.7795 0 1019.2 217.55)">
+   <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.7042" height="3.7042" fill="none"/>
+   <path class="ColorScheme-Text" d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="currentColor"/>
   </g>
-  <g id="left-arrow" transform="matrix(0,1,1,0,-243.28958,249.90418)">
-   <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-   <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  <g id="left-arrow" transform="matrix(0 3.7795 3.7795 0 -951.88 217.55)">
+   <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.7042" height="3.7042" fill="none"/>
+   <path class="ColorScheme-Text" d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="currentColor"/>
   </g>
  </g>
 </svg>
