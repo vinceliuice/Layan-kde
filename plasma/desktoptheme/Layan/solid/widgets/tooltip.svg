@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg202"
    sodipodi:docname="tooltip.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -39,9 +39,9 @@
      inkscape:window-height="1010"
      id="namedview204"
      showgrid="true"
-     inkscape:zoom="4.813397"
-     inkscape:cx="41.13519"
-     inkscape:cy="7.5830022"
+     inkscape:zoom="38.507176"
+     inkscape:cx="57.24907"
+     inkscape:cy="8.8295231"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -254,6 +254,14 @@
        id="rect4152"
        transform="matrix(0,-1,-1,0,0,0)"
        style="fill:#25252d;fill-opacity:1" />
+    <rect
+       y="-50.999985"
+       x="-910.86218"
+       height="32"
+       width="0.50000095"
+       id="rect1016"
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.288675;opacity:0.08" />
   </g>
   <g
      id="topleft"
@@ -263,6 +271,11 @@
        transform="translate(-19,904.36219)"
        id="rect4159"
        style="fill:#25252d;fill-opacity:1" />
+    <path
+       id="path897"
+       style="fill:#ffffff;fill-opacity:1;opacity:0.08"
+       d="M 38 6 C 34.676 6 32 8.676 32 12 L 32 13 C 32 9.676 34.676 7 38 7 L 44 7 L 44 6 L 38 6 z "
+       transform="translate(-19,904.36219)" />
   </g>
   <g
      id="bottom"
@@ -532,6 +545,11 @@
        transform="translate(-19,904.36219)"
        id="path902"
        style="fill:#25252d;fill-opacity:1" />
+    <path
+       id="path957"
+       style="fill:#ffffff;fill-opacity:1;opacity:0.08"
+       d="M 64 6 L 64 7 L 70 7 C 73.324 7 76 9.676 76 13 L 76 12 C 76 8.676 73.324 6 70 6 L 64 6 z "
+       transform="matrix(-1,0,0,1,89,904.36219)" />
   </g>
   <g
      id="bottomleft"

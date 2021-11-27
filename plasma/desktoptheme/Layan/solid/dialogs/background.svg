@@ -5,7 +5,7 @@
    version="1"
    id="svg121"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -37,15 +37,15 @@
      inkscape:window-width="1920"
      inkscape:window-height="1010"
      id="namedview123"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.36"
-     inkscape:cx="63.135593"
-     inkscape:cy="-6.1440678"
+     inkscape:zoom="18.88"
+     inkscape:cx="67.372882"
+     inkscape:cy="30.773305"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -285,10 +285,15 @@
      id="top"
      transform="matrix(-0.84,0,0,1.1431836,230.6,-267.08435)">
     <path
-       d="m 190,252 h 50 v 6.9999 h -50 z"
+       d="m 190,252 h 50 v 6.998 h -50 z"
        id="path58"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#25252d;fill-opacity:1" />
+       style="opacity:1;fill:#25252d;fill-opacity:1;stroke-width:0.999864" />
+    <path
+       d="m 190,252 h 50 v 0.87475 h -50 z"
+       id="path945"
+       inkscape:connector-curvature="0"
+       style="opacity:0.08;fill:#ffffff;fill-opacity:1;stroke-width:0.353505" />
   </g>
   <g
      transform="matrix(0,-1.1176497,-1.1176497,0,222.93312,112.82072)"
@@ -457,22 +462,22 @@
        style="opacity:1;fill:#25252d;fill-opacity:1" />
   </g>
   <g
-     style="fill:#050505;fill-opacity:0.85882"
-     id="topright"
-     transform="matrix(-2,0,0,2,85,-74.879)">
+     id="topright">
     <path
-       d="m 7,47.939 a 4,4 0 0 0 -4,4 h 4 z"
-       style="color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#25252d;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       d="m 71,20.999 a 8,8 0 0 1 8,8 h -8 z"
+       style="color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#25252d;fill-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
        id="path61"
        inkscape:connector-curvature="0" />
+    <path
+       id="path1252"
+       style="color:#000000;opacity:0.08;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       d="M 71 20.998047 L 71 21.998047 A 8 8 0 0 1 78.935547 28.998047 L 79 28.998047 A 8 8 0 0 0 71 20.998047 z " />
   </g>
   <g
-     style="fill:#050505;fill-opacity:0.85882"
-     id="bottomleft"
-     transform="matrix(2,0,0,-2,15,174.878)">
+     id="bottomleft">
     <path
-       d="m 7,47.939 a 4,4 0 0 0 -4,4 h 4 z"
-       style="color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#25252d;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       d="m 29,79 a 8,8 0 0 1 -8,-8 h 8 z"
+       style="color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#25252d;fill-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
        id="path70"
        inkscape:connector-curvature="0" />
   </g>
@@ -532,6 +537,11 @@
        style="color:#000000;opacity:1;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#25252d;fill-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
        id="path64"
        inkscape:connector-curvature="0" />
+    <path
+       id="path904"
+       style="color:#000000;opacity:0.08;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:2;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       d="M 29 21 A 8 8 0 0 0 21 29 L 21.068359 29 A 8 8 0 0 1 29 22 L 29 21 z "
+       transform="matrix(0,0.5,0.5,0,-7.5,37.439)" />
   </g>
   <rect
      style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#37a4f5;stroke-width:1.41421342;color-rendering:auto;image-rendering:auto;shape-rendering:auto"

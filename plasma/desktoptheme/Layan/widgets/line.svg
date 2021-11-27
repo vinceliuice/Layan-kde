@@ -1,6 +1,38 @@
-<svg width="47" height="45" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="47"
+   height="45"
+   version="1.0"
+   id="svg21"
+   sodipodi:docname="line.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#525252"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="14.222222"
+     inkscape:cx="23.484375"
+     inkscape:cy="22.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vertical-line" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
@@ -30,17 +62,41 @@
       .ColorScheme-ButtonFocus{
         color:#3daee9;
       }</style>
- </defs>
- <g transform="translate(-28,-14)">
-  <g id="vertical-line" transform="translate(-4.9688 .40625)">
-   <path class="ColorScheme-Text" d="m32.969 13.594v40h3v-40h-3z" color="#31363b" fill="currentColor" fill-opacity=".3" opacity=".01"/>
-   <path class="ColorScheme-Background" d="m33.969 13.594v40h1v-40h-1z" color="#eff0f1" fill="currentColor" fill-opacity=".1"/>
-   <path class="ColorScheme-Text" d="m33.969 13.594v40h1v-40h-1z" color="#31363b" fill-opacity=".15"/>
+  </defs>
+  <g
+     transform="translate(-28,-14)"
+     id="g19">
+    <g
+       id="vertical-line"
+       transform="translate(-4.9688 .40625)">
+      <path
+         class="ColorScheme-Text"
+         d="m32.969 13.594v40h3v-40h-3z"
+         color="#31363b"
+         fill="currentColor"
+         fill-opacity=".3"
+         opacity=".01"
+         id="path5" />
+      <path
+         d="m33.969 13.594v40h1v-40h-1z"
+         id="path9"
+         style="fill:#ffffff;opacity:0.08" />
+    </g>
+    <g
+       id="horizontal-line"
+       transform="translate(-.69097 .471)">
+      <path
+         class="ColorScheme-Text"
+         d="m75.691 55.529h-40v3h40v-3z"
+         color="#31363b"
+         fill="currentColor"
+         fill-opacity=".3"
+         opacity=".01"
+         id="path12" />
+      <path
+         d="m75.691 56.529h-40v1h40v-1z"
+         id="path16"
+         style="fill:#ffffff;opacity:0.08" />
+    </g>
   </g>
-  <g id="horizontal-line" transform="translate(-.69097 .471)">
-   <path class="ColorScheme-Text" d="m75.691 55.529h-40v3h40v-3z" color="#31363b" fill="currentColor" fill-opacity=".3" opacity=".01"/>
-   <path class="ColorScheme-Background" d="m75.691 56.529h-40v1h40v-1z" color="#eff0f1" fill="currentColor" fill-opacity=".1"/>
-   <path class="ColorScheme-Text" d="m75.691 56.529h-40v1h40v-1z" color="#31363b" fill-opacity=".15"/>
-  </g>
- </g>
 </svg>
