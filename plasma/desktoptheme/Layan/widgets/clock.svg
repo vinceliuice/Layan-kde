@@ -5,7 +5,7 @@
    version="1.0"
    id="svg100"
    sodipodi:docname="clock.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,9 +37,9 @@
      inkscape:window-height="1010"
      id="namedview102"
      showgrid="false"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="90.249996"
-     inkscape:cy="2.4999999"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-2.9999998"
+     inkscape:cy="48.499998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -104,7 +104,7 @@
        cy="100"
        r="98"
        id="circle16"
-       style="opacity:0.9;fill:#25252d;fill-opacity:1" />
+       style="opacity:0.95;fill:#31313f;fill-opacity:1" />
     <g
        id="g1810"
        style="opacity:0.75">

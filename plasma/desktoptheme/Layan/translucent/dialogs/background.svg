@@ -37,20 +37,20 @@
      inkscape:window-width="1920"
      inkscape:window-height="1010"
      id="namedview123"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="26.700352"
-     inkscape:cx="65.092775"
-     inkscape:cy="24.980944"
+     inkscape:zoom="3.337544"
+     inkscape:cx="36.254204"
+     inkscape:cy="34.456475"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg121"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
@@ -59,6 +59,23 @@
   </sodipodi:namedview>
   <defs
      id="defs14">
+    <linearGradient
+       id="linearGradient1058">
+      <stop
+         stop-opacity=".5098"
+         offset="0"
+         id="stop1054"
+         style="stop-opacity:1" />
+      <stop
+         stop-opacity=".5098"
+         offset="0.48387113"
+         id="stop1060"
+         style="stop-color:#000000;stop-opacity:0.5" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop1056" />
+    </linearGradient>
     <linearGradient
        id="a">
       <stop
@@ -75,21 +92,21 @@
        cx="74.929764"
        cy="25.070358"
        r="1.6471"
-       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       gradientTransform="matrix(-18.820983,3.1450497e-5,3.29651e-5,18.820946,1439.251,-442.85025)"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        fx="74.929764"
        fy="25.070358" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="linearGradient957"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
        x1="83.326836"
        y1="-965.03333"
        x2="83.326836"
-       y2="-952.70001" />
+       y2="-954.70001" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#a"
@@ -100,10 +117,10 @@
        r="1.6471" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="radialGradient904"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       gradientTransform="matrix(-18.819679,-0.00131061,-0.00131144,18.820946,1439.187,-442.74969)"
        cx="74.929764"
        cy="25.070358"
        fx="74.929764"
@@ -119,20 +136,20 @@
        r="1.6471" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="linearGradient914"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
        x1="83.326836"
        y1="-965.03333"
        x2="83.326836"
-       y2="-952.70001" />
+       y2="-954.70001" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="radialGradient922"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       gradientTransform="matrix(-18.821006,2.8743296e-5,2.6056641e-5,18.820937,1439.2529,-442.84982)"
        cx="74.929764"
        cy="25.070358"
        fx="74.929764"
@@ -148,20 +165,20 @@
        r="1.6471" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="linearGradient932"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
        x1="83.326836"
        y1="-965.03333"
        x2="83.326836"
-       y2="-952.70001" />
+       y2="-954.70001" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="radialGradient940"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-22.463762,2.0567614e-5,2.0567566e-5,22.46371,1712.2039,-534.17482)"
+       gradientTransform="matrix(-18.820988,2.3789195e-5,2.4921639e-5,18.820946,1439.2516,-442.84967)"
        cx="74.929764"
        cy="25.070358"
        fx="74.929764"
@@ -177,20 +194,20 @@
        r="1.6471" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
+       xlink:href="#linearGradient1058"
        id="linearGradient950"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.71429,0,0,3,-317.71,3175.1)"
        x1="83.326836"
        y1="-965.03333"
        x2="83.326836"
-       y2="-952.70001" />
+       y2="-954.70001" />
   </defs>
   <g
      transform="matrix(-1,0,0,0.84,309,-186.88)"
      id="shadow-left">
     <rect
-       style="opacity:0.35;fill:url(#linearGradient950)"
+       style="opacity:0.15;fill:url(#linearGradient950);fill-opacity:1"
        id="rect944"
        height="30"
        width="50"
@@ -210,7 +227,7 @@
      transform="matrix(0,1,0.84,0,-186.88,-209)"
      id="shadow-bottom">
     <rect
-       style="opacity:0.35;fill:url(#linearGradient932)"
+       style="opacity:0.15;fill:url(#linearGradient932);fill-opacity:1"
        id="rect926"
        height="30"
        width="50"
@@ -230,7 +247,7 @@
      transform="matrix(1,0,0,-0.84,-209,286.88)"
      id="shadow-right">
     <rect
-       style="opacity:0.35;fill:url(#linearGradient914)"
+       style="opacity:0.15;fill:url(#linearGradient914);fill-opacity:1"
        id="rect908"
        height="30"
        width="50"
@@ -254,7 +271,7 @@
        id="g94"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#g);stroke-width:4.75001144;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.15;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#g);stroke-width:4.75001144;color-rendering:auto;image-rendering:auto;shape-rendering:auto;fill-opacity:1"
          d="M -9 -9 L -9 29 L 21 29 A 8 8 0 0 1 29 21 L 29 -9 L -9 -9 z "
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path92" />
@@ -264,7 +281,7 @@
      transform="matrix(0,-1,-0.84,0,286.88,309)"
      id="shadow-top">
     <rect
-       style="opacity:0.35;fill:url(#linearGradient957)"
+       style="opacity:0.15;fill:url(#linearGradient957)"
        id="rect81"
        height="30"
        width="50"
@@ -303,7 +320,7 @@
        id="g900"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient904);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.15;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient904);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto;fill-opacity:1"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path898" />
@@ -317,7 +334,7 @@
        id="g918"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient922);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.15;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient922);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto;fill-opacity:1"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path916" />
@@ -331,7 +348,7 @@
        id="g936"
        transform="matrix(0,4.25,-4.25,0,295.74,106.19)">
       <path
-         style="color:#000000;opacity:0.35;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient940);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         style="color:#000000;opacity:0.15;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:url(#radialGradient940);stroke-width:4.75001;color-rendering:auto;image-rendering:auto;shape-rendering:auto;fill-opacity:1"
          d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
          transform="matrix(0,0.21052582,0.21052582,0,0.89471333,45.833751)"
          id="path934" />
