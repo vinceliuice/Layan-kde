@@ -21,14 +21,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="2.59375"
-     inkscape:cx="7.3253013"
-     inkscape:cy="126.45783"
-     inkscape:window-width="1486"
-     inkscape:window-height="946"
-     inkscape:window-x="227"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
+     inkscape:zoom="7.3362328"
+     inkscape:cx="57.250091"
+     inkscape:cy="161.25442"
+     inkscape:window-width="1440"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg86">
     <inkscape:grid
        type="xygrid"
@@ -217,7 +217,7 @@
        width="14"
        height="32"
        id="rect1128"
-       style="opacity:0.2;fill:url(#linearGradient1136)" />
+       style="opacity:0.15;fill:url(#linearGradient1136)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -239,7 +239,7 @@
        width="14"
        height="32"
        id="rect1138"
-       style="opacity:0.2;fill:url(#linearGradient1146)" />
+       style="opacity:0.15;fill:url(#linearGradient1146)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -261,7 +261,7 @@
        width="14"
        height="32"
        id="rect1148"
-       style="opacity:0.2;fill:url(#linearGradient1156)" />
+       style="opacity:0.15;fill:url(#linearGradient1156)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -281,7 +281,7 @@
        id="g17">
       <path
          id="path15"
-         style="opacity:0.2;fill:url(#radialGradient1018)"
+         style="opacity:0.15;fill:url(#radialGradient1018)"
          d="M 10,-12 V 12 H 24 C 24,6.46 28.46,2 34,2 v -14 z"
          transform="translate(-15,904.36)" />
     </g>
@@ -314,7 +314,7 @@
        width="14"
        height="32"
        id="rect25"
-       style="opacity:0.2;fill:url(#linearGradient931)" />
+       style="opacity:0.15;fill:url(#linearGradient931)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -424,7 +424,7 @@
        id="g1252">
       <path
          id="path1250"
-         style="opacity:0.2;fill:url(#radialGradient1018)"
+         style="opacity:0.15;fill:url(#radialGradient1018)"
          d="M 10,-12 V 12 H 24 C 24,6.46 28.46,2 34,2 v -14 z"
          transform="translate(-15,904.36)" />
     </g>
@@ -443,7 +443,7 @@
        id="g1240">
       <path
          id="path1238"
-         style="opacity:0.2;fill:url(#radialGradient1018)"
+         style="opacity:0.15;fill:url(#radialGradient1018)"
          d="M 10,-12 V 12 H 24 C 24,6.46 28.46,2 34,2 v -14 z"
          transform="translate(-15,904.36)" />
     </g>
@@ -619,7 +619,7 @@
        width="14"
        height="32"
        id="rect1804"
-       style="opacity:0.2;fill:url(#linearGradient1810)" />
+       style="opacity:0.15;fill:url(#linearGradient1810)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -641,7 +641,7 @@
        width="14"
        height="32"
        id="rect1796"
-       style="opacity:0.2;fill:url(#linearGradient1802)" />
+       style="opacity:0.15;fill:url(#linearGradient1802)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -663,7 +663,7 @@
        width="14"
        height="32"
        id="rect1788"
-       style="opacity:0.2;fill:url(#linearGradient1794)" />
+       style="opacity:0.15;fill:url(#linearGradient1794)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -683,7 +683,7 @@
        id="g17-5">
       <path
          id="path15-3"
-         style="opacity:0.2;fill:url(#radialGradient1259-7)"
+         style="opacity:0.15;fill:url(#radialGradient1259-7)"
          d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
          transform="translate(-13,797.35999)" />
     </g>
@@ -709,7 +709,7 @@
        width="14"
        height="32"
        id="rect25-9"
-       style="opacity:0.2;fill:url(#linearGradient1956)" />
+       style="opacity:0.15;fill:url(#linearGradient1956)" />
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
@@ -795,7 +795,7 @@
        id="g1814">
       <path
          id="path1812"
-         style="opacity:0.2;fill:url(#radialGradient1259-7)"
+         style="opacity:0.15;fill:url(#radialGradient1259-7)"
          d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
          transform="translate(-13,797.35999)" />
     </g>
@@ -814,7 +814,7 @@
        id="g1824">
       <path
          id="path1822"
-         style="opacity:0.2;fill:url(#radialGradient1259-7)"
+         style="opacity:0.15;fill:url(#radialGradient1259-7)"
          d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
          transform="translate(-13,797.35999)" />
     </g>
