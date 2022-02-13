@@ -1,0 +1,13 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="22-22-edit-delete">
+  <rect width="22" height="22" fill="currentColor" opacity=".001"/>
+  <path d="m11 4c-3.863 0-7 3.137-7 7s3.137 7 7 7 7-3.137 7-7-3.137-7-7-7zm0 2c1.0194 0 1.959 0.28763 2.75 0.8125l-6.9375 6.9375c-0.52487-0.79102-0.8125-1.7306-0.8125-2.75 0-2.7593 2.2408-5 5-5zm4.1875 2.25c0.52487 0.79102 0.8125 1.7306 0.8125 2.75 0 2.7592-2.2408 5-5 5-1.0194 0-1.959-0.28763-2.75-0.8125z" fill="#ed333b"/>
+ </g>
+ <g id="edit-delete">
+  <rect x="32" width="32" height="32" fill="currentColor" opacity=".001" stroke-width="1.4546"/>
+  <path d="m48 4a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12 12 12 0 0 0-12-12zm0 2a10 10 0 0 1 6.3262 2.2598l-14.049 14.049a10 10 0 0 1-2.2773-6.3086 10 10 0 0 1 10-10zm7.7402 3.6738a10 10 0 0 1 2.2598 6.3262 10 10 0 0 1-10 10 10 10 0 0 1-6.3086-2.2773l14.049-14.049z" fill="#ed333b"/>
+ </g>
+</svg>

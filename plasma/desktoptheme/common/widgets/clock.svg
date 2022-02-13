@@ -1,0 +1,114 @@
+<svg width="200" height="200" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient4671" cx="1255.9" cy="382.73" r="96.606" gradientTransform="matrix(1.0765,0,0,1.0765,-1252,-310.02)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#232629" offset="0"/>
+   <stop stop-color="#232629" stop-opacity=".52349" offset=".9"/>
+   <stop stop-color="#232629" stop-opacity=".10738" offset=".96"/>
+   <stop stop-color="#232629" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="ClockFace">
+  <path d="m99.572-2a104 104 0 0 0-103.57 104 104 104 0 0 0 104 104 104 104 0 0 0 104-104 104 104 0 0 0-104-104 104 104 0 0 0-0.42773 0zm0.42773 4a98 98 0 0 1 98 98 98 98 0 0 1-98 98 98 98 0 0 1-98-98 98 98 0 0 1 98-98z" fill="url(#radialGradient4671)"/>
+  <circle cx="100" cy="101" r="98" fill="#000000" opacity=".15"/>
+  <circle cx="100" cy="100" r="98" fill="#31313f" opacity=".95"/>
+  <g opacity=".75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3068">
+   <circle cx="100" cy="14" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle cx="100" cy="186" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(90)" cx="100" cy="-186" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(90)" cx="100" cy="-14" r="4" fill="#5657f5" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(30)" cx="136.6" cy="-49.397" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(30)" cx="136.6" cy="122.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(60)" cx="136.6" cy="-122.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(60)" cx="136.6" cy="49.397" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(120)" cx="36.603" cy="-222.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(120)" cx="36.603" cy="-50.603" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(150)" cx="-36.603" cy="-222.6" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(150)" cx="-36.603" cy="-50.603" r="4" fill="#ffffff" opacity="1" style="paint-order:fill markers stroke"/>
+  </g>
+  <g fill="#ffffff" opacity=".35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3267">
+   <circle transform="rotate(6.3717)" cx="110.48" cy="2.2844" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(6.3717)" cx="110.48" cy="174.28" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(11.921)" cx="118.5" cy="-8.8122" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(11.921)" cx="118.5" cy="163.19" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(17.69)" cx="125.66" cy="-21.115" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(17.69)" cx="125.66" cy="150.88" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(23.363)" cx="131.46" cy="-33.853" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(23.363)" cx="131.46" cy="138.15" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(36.372)" cx="139.82" cy="-64.784" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(36.372)" cx="139.82" cy="107.22" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(41.921)" cx="141.22" cy="-78.403" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(41.921)" cx="141.22" cy="93.597" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(47.69)" cx="141.27" cy="-92.637" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(47.69)" cx="141.27" cy="79.363" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(53.363)" cx="139.92" cy="-106.57" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(53.363)" cx="139.92" cy="65.432" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(66.372)" cx="131.7" cy="-137.54" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(66.372)" cx="131.7" cy="34.464" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(71.921)" cx="126.1" cy="-150.03" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(71.921)" cx="126.1" cy="21.971" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(77.69)" cx="119.02" cy="-162.38" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(77.69)" cx="119.02" cy="9.6192" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(83.363)" cx="110.89" cy="-173.77" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(83.363)" cx="110.89" cy="-1.7711" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(96.372)" cx="88.284" cy="-196.48" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(96.372)" cx="88.284" cy="-24.48" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(101.92)" cx="77.188" cy="-204.5" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(101.92)" cx="77.188" cy="-32.499" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(107.69)" cx="64.885" cy="-211.66" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(107.69)" cx="64.885" cy="-39.658" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(113.36)" cx="52.147" cy="-217.46" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(113.36)" cx="52.147" cy="-45.456" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(126.37)" cx="21.216" cy="-225.82" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(126.37)" cx="21.216" cy="-53.821" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(131.92)" cx="7.597" cy="-227.22" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(131.92)" cx="7.597" cy="-55.217" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(137.69)" cx="-6.6372" cy="-227.27" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(137.69)" cx="-6.6372" cy="-55.266" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(143.36)" cx="-20.568" cy="-225.92" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(143.36)" cx="-20.568" cy="-53.918" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(156.37)" cx="-51.536" cy="-217.7" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(156.37)" cx="-51.536" cy="-45.697" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(161.92)" cx="-64.029" cy="-212.1" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(161.92)" cx="-64.029" cy="-40.096" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(167.69)" cx="-76.381" cy="-205.02" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(167.69)" cx="-76.381" cy="-33.021" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(173.36)" cx="-87.771" cy="-196.89" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+   <circle transform="rotate(173.36)" cx="-87.771" cy="-24.888" r="1" opacity="1" style="paint-order:fill markers stroke"/>
+  </g>
+  <path d="M 100,2 A 98,98 0 0 0 2,100 98,98 0 0 0 2.0351562,100.5 98,98 0 0 1 100,3 98,98 0 0 1 197.98242,100.25391 98,98 0 0 0 198,100 98,98 0 0 0 100,2 Z" fill="#ffffff" opacity=".06"/>
+  <g fill="#4849c3" fill-opacity=".99608" stroke-linecap="square" stroke-width="1.496" aria-label="12">
+   <path d="m94.79 37.941h1.1649v-11.793h-3.1755v1.0691h2.0106z"/>
+   <path d="m99.673 37.941h7.484v-1.0691h-5.8883l3.7819-3.6223c1.6596-1.5798 2.1702-2.4574 2.1702-3.7181 0-2.0904-1.5638-3.5904-3.7181-3.5904-1.6436 0-2.9362 0.8617-3.4787 2.2979-0.20744 0.55851-0.25531 0.89361-0.25531 1.7234h1.1649c0-0.73404 0.0957-1.1968 0.30319-1.6277 0.41489-0.82978 1.2447-1.3245 2.25-1.3245 1.484 0 2.5532 1.0213 2.5532 2.4574 0 0.70213-0.25531 1.3085-0.82978 1.9787-0.35106 0.41489-0.44681 0.51064-1.4042 1.4362l-4.133 3.9894z"/>
+  </g>
+  <g fill="#4849c3" fill-opacity=".99608" stroke-linecap="square" stroke-width="1.496" aria-label="6">
+   <path d="m100.3 162.06-2.9202 4.3404c-1.133 1.6915-1.4043 2.3777-1.4043 3.5745 0 2.3298 1.7394 4.0851 4.0691 4.0851 2.2979 0 3.9734-1.7553 3.9734-4.1808 0-2.266-1.6596-4.0532-3.75-4.0532-0.51064 0-0.84574 0.0798-1.3883 0.3351l2.7766-4.101zm-0.28723 4.8351c1.6436 0 2.8245 1.2606 2.8245 3.0319 0 1.7872-1.1649 3.0638-2.7925 3.0638-1.6755 0-2.8883-1.3085-2.8883-3.0957 0-1.7074 1.2287-3 2.8564-3z"/>
+  </g>
+  <g fill="#4849c3" fill-opacity=".99608" stroke-linecap="square" stroke-width="1.496" aria-label="3">
+   <path d="m168.97 97.04c0.016-1.3245 0.67021-2.0745 1.8191-2.0745 1.0532 0 1.7872 0.76596 1.7872 1.8511 0 1.1489-0.78191 1.867-2.0106 1.867-0.0957 0-0.11171 0-0.57447-0.03192v1.0532c0.78191 0.01596 1.0532 0.03191 1.3723 0.09574 1.1808 0.28723 1.9947 1.3404 1.9947 2.5851 0 1.5-1.1011 2.6489-2.5532 2.6489-0.89362 0-1.6596-0.41489-2.1542-1.1489-0.28723-0.43085-0.39894-0.84574-0.46277-1.6755h-1.1649c0.0319 0.8617 0.17554 1.4521 0.51064 2.0426 0.65425 1.1489 1.8989 1.8511 3.3191 1.8511 2.0585 0 3.6862-1.6596 3.6862-3.7819 0-1.4202-0.67021-2.5053-1.9947-3.1755 0.82979-0.57447 1.2128-1.2926 1.2128-2.266 0-1.7553-1.2128-2.984-2.9681-2.984-1.7713 0-2.9202 1.2128-2.984 3.1436z"/>
+  </g>
+  <g fill="#4849c3" fill-opacity=".99608" stroke-linecap="square" stroke-width="1.496" aria-label="9">
+   <path d="m29.178 106 2.9202-4.3404c1.133-1.6915 1.4043-2.3776 1.4043-3.5745 0-2.3298-1.7394-4.0851-4.0691-4.0851-2.2979 0-3.9734 1.7553-3.9734 4.1808 0 2.2659 1.6596 4.0532 3.7659 4.0532 0.49468 0 0.84574-0.0798 1.3723-0.3351l-2.7766 4.101zm0.25532-10.931c1.6596 0 2.8883 1.3085 2.8883 3.0957 0 1.7074-1.2447 3-2.8564 3-1.6436 0-2.8245-1.2606-2.8245-3.0319 0-1.7872 1.1649-3.0638 2.7925-3.0638z"/>
+  </g>
+ </g>
+ <g id="SecondHand" transform="rotate(90,192,25)">
+  <rect x="247" y="64" width="81" height="8" rx="0" ry="0" fill="none" style="paint-order:fill markers stroke"/>
+  <g transform="translate(161,-9)" fill="#5657f5">
+   <rect x="86" y="76.5" width="76" height="1" rx=".5" ry=".5" style="paint-order:fill markers stroke"/>
+   <circle cx="90" cy="77" r="2" style="paint-order:fill markers stroke"/>
+  </g>
+ </g>
+ <g id="MinuteHand">
+  <g transform="translate(23,2)" fill="#ffffff">
+   <path d="m100 96a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3333" style="paint-order:fill markers stroke"/>
+   <path transform="translate(-23,-2)" d="m123 105-2 7 1 63a1 1 0 0 0 1 1 1 1 0 0 0 1-1l1-63-2-7z"/>
+  </g>
+  <rect x="117" y="96" width="12" height="85" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8439" style="paint-order:fill markers stroke"/>
+ </g>
+ <g id="HourHand" transform="translate(-56,27)">
+  <g transform="rotate(90,126.5,99.5)" fill="#ffffff">
+   <path transform="rotate(-90,85,85)" d="m93 103-2 7 1 44a1 1 0 0 0 1 1 1 1 0 0 0 1-1l1-44-2-7z"/>
+   <path d="m100 73a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3333" style="paint-order:fill markers stroke"/>
+  </g>
+  <rect x="140" y="64" width="18" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.043" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

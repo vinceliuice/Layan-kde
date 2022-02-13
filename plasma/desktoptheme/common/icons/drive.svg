@@ -1,0 +1,23 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="16-16-drive-harddisk">
+  <rect x="-20" y="6" width="16" height="16" ry="0" opacity="0"/>
+  <path class="ColorScheme-Text" d="m-17 7c-1 0-1 1-1 1v12s0 1 1 1h10s1 0 1-1v-12s0-1-1-1zm5 2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4h-4v-4c0-2.2091 1.7909-4 4-4zm0 2c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z" fill="currentColor"/>
+ </g>
+ <g id="22-22-drive-harddisk">
+  <path d="m6 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm0 2h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 0h1v2h-1zm2 1h1v1h-1zm-3 2a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5zm5 10a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m0 0h22v22h-22z" opacity="0"/>
+  <g class="ColorScheme-Text" fill="currentColor">
+   <circle cx="11" cy="12" r="2"/>
+  </g>
+ </g>
+ <g id="drive-harddisk" transform="translate(33.119 -40.05)">
+  <path d="m0 38h32v32h-32z" opacity="0" stroke-width="1.4546"/>
+  <g transform="translate(-32)" class="ColorScheme-Text" fill="currentColor" stroke-linecap="square" stroke-linejoin="round">
+   <path d="m40 40c-1.662 0-3 1.338-3 3v22c0 1.662 1.338 3 3 3h16c1.662 0 3-1.338 3-3v-22c0-1.662-1.338-3-3-3zm0 3h1v3h-1zm2 0h1v3h-1zm2 0h1v3h-1zm2 0h1v3h-1zm2 0h1v3h-1zm3 1h1v2h-1zm-3 5a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8zm8 15a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" stroke-width="2"/>
+   <circle cx="48" cy="57" r="3" stroke-width=".8"/>
+  </g>
+ </g>
+</svg>

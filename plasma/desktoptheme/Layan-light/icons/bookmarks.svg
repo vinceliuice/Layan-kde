@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="bookmarks.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.625"
+     inkscape:cx="15.304348"
+     inkscape:cy="15.768116"
+     inkscape:window-width="1440"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient861"
+       x2="1"
+       gradientTransform="matrix(196.45 0 0 -196.45 1608.9 341.08)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff5245"
+         offset="0"
+         id="stop857"
+         style="stop-color:#e51000;stop-opacity:1" />
+      <stop
+         stop-color="#fcf12f"
+         offset="1"
+         id="stop859"
+         style="stop-color:#e2d603;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x2="1"
+       gradientTransform="matrix(196.45 0 0 -196.45 1608.9 341.08)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff5245"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#fcf12f"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+    <linearGradient
+       id="e"
+       x1="919.71002"
+       x2="1108.6"
+       y1="1446.5"
+       y2="1300.7"
+       gradientTransform="matrix(0.14006,0,0,-0.14006,-127.72,207.95)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient861" />
+    <linearGradient
+       id="f"
+       x1="989.72"
+       x2="1139.4"
+       y1="1480.2"
+       y2="1297.4"
+       gradientTransform="matrix(.14006 0 0 -.14006 -127.72 207.95)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient861" />
+  </defs>
+  <g
+     id="bookmarks">
+    <rect
+       x="4.2725e-7"
+       y="1.5507e-8"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       opacity="0"
+       stroke-width="2"
+       style="paint-order:fill markers stroke"
+       id="rect12" />
+    <path
+       d="m22.867 14.168c-0.87357-1.0184-2.1458-1.612-3.5069-1.612-2.5504 0-4.6258 2.0753-4.6258 4.626 0 1.0148 0.36696 1.8399 0.72202 2.6377l0.01947 0.04272c1.4623 3.0461 3.9907 5.634 7.1198 7.2863l0.19819 0.10449 0.19987-0.10126c3.1413-1.5981 5.7024-4.1901 7.2201-7.3148l0.12914-0.28783c0.32326-0.71782 0.65745-1.4596 0.65745-2.3673 0-2.5507-2.0753-4.626-4.6261-4.626h-0.0048c-1.3467 0-2.6263 0.58868-3.5024 1.612"
+       fill="url(#f)"
+       id="path14" />
+    <path
+       d="m11.672 2c-3.25 0-5.8926 2.6445-5.8926 5.8945 0 2.4853 1.5474 4.6122 3.7285 5.4766-4.8504 1.0033-8.5078 5.3081-8.5078 10.451 0 1.2503 0.87692 1.6648 1.582 1.998l0.041016 0.01758c2.843 1.003 6.954 1.2715 8.9355 1.2715 1.5457 0 4.1335-0.19678 6.5137-0.65234-1.8458-1.6057-3.356-3.5529-4.4004-5.7285l-0.0078-0.01758-0.03125-0.07031-0.0039-0.0078c-0.3552-0.79812-0.89453-1.9542-0.89453-3.4512 0-1.4031 0.4473-2.7073 1.2031-3.7832 0 0 0.05103-0.06732 0.0918-0.12109 0.65118-0.88372 1.5149-1.6005 2.5137-2.0762 0.64445-0.94338 1.0234-2.0799 1.0234-3.3067 0-3.25-2.6443-5.8945-5.8945-5.8945z"
+       fill="url(#e)"
+       id="path16"
+       style="fill-opacity:1.0" />
+  </g>
+</svg>

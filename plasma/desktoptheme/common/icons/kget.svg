@@ -1,0 +1,13 @@
+<svg id="svg7384" width="22" height="22" enable-background="new" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="kget.svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview10" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:bbox-nodes="true" inkscape:current-layer="svg7384" inkscape:cx="4.359619" inkscape:cy="14.316089" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:window-height="714" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="0" inkscape:window-y="26" inkscape:zoom="10.727273" objecttolerance="10" pagecolor="#323232" showgrid="true">
+  <inkscape:grid id="grid824" type="xygrid"/>
+ </sodipodi:namedview>
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+ </defs>
+ <g id="kget">
+  <path id="path826" d="m11 2a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm-2 3h4v7h3l-5 6-5-6h3v-7z" fill="#363636"/>
+  <path id="rect4139" d="m0.25 0h21.5c0.1385 0 0.25 0.1115 0.25 0.25v21.5c0 0.1385-0.11151 0.25-0.25 0.25h-21.5c-0.1385 0-0.25-0.1115-0.25-0.25v-21.5c0-0.1385 0.11151-0.25 0.25-0.25z" opacity="0" inkscape:connector-curvature="0"/>
+  <path id="path5972" class="ColorScheme-Text" d="m9 10v2h-3l5 6 5-6h-3v-2s-1 0.58263-2 0c-1-0.58263-1.4149-0.2447-2 0z" color="#363636" fill="currentColor" opacity=".15" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccczc"/>
+ </g>
+</svg>

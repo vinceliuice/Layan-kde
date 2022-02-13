@@ -1,0 +1,50 @@
+<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+ </defs>
+ <g id="22-22-phone">
+  <rect id="rect836" x="6" y="2" width="10" height="18" rx="1" ry="1" fill="#363636" opacity=".25"/>
+  <path id="path15" d="m0 0h22v22h-22z" opacity="0"/>
+  <path id="rect834" d="m7 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <path id="rect844" d="m8.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" fill="#363636" opacity=".5"/>
+ </g>
+ <g id="16-16-phone">
+  <path id="rect872" d="m5 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <rect id="rect874" x="4" y="28" width="8" height="12" rx="1" ry="1" fill="#363636" opacity=".25"/>
+  <rect id="rect10" y="26" width="16" height="16" rx="0" ry="0" opacity="0"/>
+  <rect id="rect882" x="6" y="27" width="4" height="2" rx="1" ry="1" fill="#363636"/>
+  <path id="rect884" d="m6.6375 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" fill="#363636" opacity=".5"/>
+ </g>
+ <g id="phone">
+  <path id="rect894" d="m10-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <rect id="rect896" x="9" y="-30" width="14" height="24" rx="0" ry="1" fill="#363636" opacity=".25"/>
+  <rect id="rect5" y="-34" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <rect id="rect903" x="13" y="-31" width="6" height="2" rx="1" ry="1" fill="#363636"/>
+  <rect id="rect905" x="12" y="-8" width="8" height="1" rx=".537" ry="1" fill="#363636" opacity=".5"/>
+ </g>
+ <g id="phone-battery">
+  <path id="path897" d="m47-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <rect id="rect899" x="46" y="-30" width="14" height="24" rx="0" ry="1" fill="#363636" opacity=".25"/>
+  <rect id="rect901" x="37" y="-34" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <rect id="rect904" x="50" y="-31" width="6" height="2" rx="1" ry="1" fill="#363636"/>
+  <rect id="rect906" x="49" y="-8" width="8" height="1" rx=".537" ry="1" fill="#363636" opacity=".5"/>
+  <g id="g4600" transform="rotate(-90,-121.98,269.52)">
+   <path id="path4472" transform="translate(214.54,404.5)" d="m-48 37a3 3 0 0 0-2.826 2h-1.174v2h1.176a3 3 0 0 0 2.824 2v-1h2v-1h-2v-2h2v-1h-2z" fill="#4caf50"/>
+  </g>
+ </g>
+ <g id="22-22-phone-battery">
+  <rect id="rect875" x="43" y="2" width="10" height="18" rx="1" ry="1" fill="#363636" opacity=".25"/>
+  <path id="path877" d="m37 0h22v22h-22z" opacity="0"/>
+  <path id="path879" d="m44 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <path id="path881" d="m45.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" fill="#363636" opacity=".5"/>
+  <path id="path4600" d="m45 10a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z" fill="#4caf50"/>
+ </g>
+ <g id="16-16-phone-battery">
+  <path id="path885" d="m42 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#363636"/>
+  <rect id="rect887" x="41" y="28" width="8" height="12" rx="1" ry="1" fill="#363636" opacity=".25"/>
+  <rect id="rect889" x="37" y="26" width="16" height="16" rx="0" ry="0" opacity="0"/>
+  <rect id="rect891" x="43" y="27" width="4" height="2" rx="1" ry="1" fill="#363636"/>
+  <path id="path893" d="m43.637 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" fill="#363636" opacity=".5"/>
+  <path id="path936" d="m42 33a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z" fill="#4caf50"/>
+ </g>
+</svg>

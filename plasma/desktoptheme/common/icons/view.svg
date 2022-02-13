@@ -1,0 +1,22 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#d935f9" offset="0"/>
+   <stop stop-color="#ff3c7d" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+  <linearGradient id="d" x1="2.4915" x2="29.373" y1="2.3051" y2="27.797" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="1" x2="31" y1="16" y2="16" gradientTransform="matrix(.86667 0 0 .86667 2.1333 2.1333)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="11.339" x2="23.577" y1="6.8216" y2="21.466" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g id="view-refresh" transform="matrix(0 -1 -1 0 -218.84 494.56)" enable-background="new">
+  <rect transform="scale(-1)" x="-481" y="258.97" width="16" height="16" color="#bebebe" fill="none"/>
+  <path transform="matrix(0 -1 -1 0 1079 -14.938)" d="m252.06 598.02-3.5625 2.9824 3.5606 3.0176v-2c2.2091 0 4 1.7909 4 4s-1.7909 4-4 4-4-1.7909-4-4c0-6e-3 -4e-3 -0.0113-4e-3 -0.0176h-1.9922c-1.1e-4 6e-3 -4e-3 0.0113-4e-3 0.0176 0 0.0333 4e-3 0.0665 8e-3 0.0996 0.0538 3.2672 2.7141 5.9004 5.9941 5.9004 3.3137 0 6-2.6863 6-6s-2.6863-6-6-6v-2z" fill="#eaeaea"/>
+ </g>
+ <g id="view-history">
+  <rect width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
+  <path d="m16 1a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 2a13 13 0 0 1 13 13 13 13 0 0 1-13 13 13 13 0 0 1-13-13 13 13 0 0 1 13-13z" fill="url(#d)" stroke-width="1.0714"/>
+  <circle cx="16" cy="16" r="13" fill="url(#c)" opacity=".35" stroke-width=".92857"/>
+  <path d="m16 6c-0.554 0-1 0.446-1 1v9c0 0.011719 0.005463 0.021584 0.005859 0.033203-0.009026 0.26678 0.082596 0.53572 0.28711 0.74024l4.9492 4.9492c0.39174 0.39174 1.0223 0.39174 1.4141 0s0.39174-1.0223 0-1.4141l-4.6562-4.6562v-8.6523c0-0.554-0.446-1-1-1z" fill="url(#b)" stroke-width=".95743"/>
+ </g>
+</svg>

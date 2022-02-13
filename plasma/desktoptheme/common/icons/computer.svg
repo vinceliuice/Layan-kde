@@ -1,0 +1,63 @@
+<svg id="svg60" width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs14">
+  <linearGradient id="a">
+   <stop id="stop2" stop-color="#4227ff" offset="0"/>
+   <stop id="stop4" stop-color="#bd25ff" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#363636; }</style>
+  <linearGradient id="h" x1="85" x2="115" y1="-33" y2="-13" gradientTransform="matrix(1.1667,0,0,1.3333,-16.5,8.6667)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="84" x2="112" y1="-17" y2="-10" gradientTransform="matrix(1.1429,0,0,1,-14.143,3)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="i" x1="90.724" x2="106.59" y1="-4.0803" y2="-17.91" gradientTransform="matrix(1,0,0,-1,11,-19)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="87" x2="111" y1="-27" y2="-27" gradientTransform="matrix(1.1667,0,0,1.125,-16.5,5.375)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="97" x2="125" y1="-19" y2="-19" gradientTransform="matrix(1,0,0,1.1111,0,1.1111)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="94.627" x2="128.4" y1="-32.864" y2="-6.7627" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g id="computer-laptop" transform="translate(-38,-4)">
+  <rect id="rect40" x="83" y="-39" width="32" height="32" rx="0" ry="0" opacity="0" style="paint-order:fill markers stroke"/>
+  <g id="g48">
+   <path id="path42" d="m85-36c-1.108 0-2 0.892-2 2v18c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-18c0-1.108-0.892-2-2-2zm1 2h26c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-26c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z" fill="url(#h)" stroke-width="1.2221"/>
+   <path id="path44" d="m83-12v1c0 0.554 0.50971 1 1.1429 1h29.714c0.63314 0 1.1429-0.446 1.1429-1v-1z" fill="url(#g)" stroke-width=".50597"/>
+   <rect id="rect46" x="85" y="-34" width="28" height="18" ry="1" fill="url(#c)" opacity=".15" stroke-width="1.1593"/>
+  </g>
+ </g>
+ <g id="computer" transform="translate(-97,-9)">
+  <path id="path51" d="m97-32c-1.108 0-2 0.892-2 2v20c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-20c0-1.108-0.892-2-2-2zm1 2h26c0.554 0 1 0.446 1 1v18c0 0.554-0.446 1-1 1h-26c-0.554 0-1-0.446-1-1v-18c0-0.554 0.446-1 1-1z" fill="url(#d)" stroke-width="1.3701"/>
+  <rect id="rect53" x="95" y="-34" width="32" height="32" rx="0" ry="0" opacity="0" style="paint-order:fill markers stroke"/>
+  <path id="path55" d="m103-4v-1c0-0.554 0.446-1 1-1h14c0.554 0 0.97304 0.44666 1 1v1z" fill="url(#i)" stroke-width=".47329"/>
+  <rect id="rect57" x="97" y="-30" width="28" height="20" ry="1" fill="url(#b)" opacity=".15" stroke-width="1.222"/>
+ </g>
+ <g id="22-22-computer">
+  <rect id="rect23" transform="scale(-1,1)" x="-22" width="22" height="22" opacity="0"/>
+  <g id="g30" class="ColorScheme-Text" fill="currentColor">
+   <path id="rect878" d="m3 3c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-11c0-1.108-0.892-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v11c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1z"/>
+   <rect id="rect880" x="5" y="19" width="12" height="1" rx="0" ry=".5"/>
+   <rect id="rect882" x="2" y="4" width="18" height="13" rx="1" ry="0" opacity=".35"/>
+  </g>
+ </g>
+ <g id="22-22-computer-laptop" transform="translate(51)">
+  <rect id="rect893" transform="scale(-1,1)" x="-22" width="22" height="22" opacity="0"/>
+  <g id="g37" class="ColorScheme-Text" fill="currentColor">
+   <path id="path895" d="m3 3c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2v-11c0-1.108-0.892-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v11c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-11c0-0.554 0.446-1 1-1z"/>
+   <rect id="rect897" x="-8.4377e-15" y="18" width="22" height="1" rx="0" ry=".5"/>
+   <rect id="rect899" x="2" y="4" width="18" height="13" rx="1" ry="0" opacity=".35"/>
+  </g>
+ </g>
+ <g id="16-16-computer">
+  <rect id="rect16" transform="scale(-1,1)" x="-18" y="28" width="16" height="16" fill="none"/>
+  <rect id="rect18" transform="scale(-1,1)" x="-18" y="28" width="16" height="16" opacity="0"/>
+  <g id="g45" class="ColorScheme-Text" fill="currentColor">
+   <path id="rect906" d="m3 29c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-14zm0 1h14v10h-14v-10z"/>
+   <rect id="rect908" x="6" y="42" width="8" height="1" rx="0" ry=".5"/>
+   <rect id="rect910" x="3" y="30" width="14" height="10" rx="0" ry="0" opacity=".35"/>
+  </g>
+ </g>
+ <g id="16-16-computer-laptop" transform="translate(49)">
+  <rect id="rect922" transform="scale(-1,1)" x="-18" y="28" width="16" height="16" fill="none"/>
+  <rect id="rect924" transform="scale(-1,1)" x="-18" y="28" width="16" height="16" opacity="0"/>
+  <g id="g53" class="ColorScheme-Text" fill="currentColor">
+   <path id="path926" d="m3 29c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1zm0 1h14v10h-14z"/>
+   <rect id="rect928" x="2" y="41" width="16" height="1" rx="0" ry=".5"/>
+   <rect id="rect930" x="3" y="30" width="14" height="10" rx="0" ry="0" opacity=".35"/>
+  </g>
+ </g>
+</svg>

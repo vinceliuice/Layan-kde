@@ -1,0 +1,25 @@
+<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <g id="22-22-kdeconnect">
+  <path d="m7 0c-1.662 0-3 1.338-3 3v16c0 1.662 1.338 3 3 3h8c1.662 0 3-1.338 3-3v-16c0-1.662-1.338-3-3-3h-8zm0 2h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.4155 0 0.77047 0.25022 0.92188 0.60938 0.050469 0.11972 0.078125 0.25212 0.078125 0.39062v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.1385 0.027656-0.27091 0.078125-0.39062 0.15141-0.35916 0.50638-0.60938 0.92188-0.60938z" class="ColorScheme-Text" fill="currentColor" stroke-linecap="square" style="paint-order:markers stroke fill"/>
+  <rect x="6" y="2" width="10" height="18" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
+  <path d="m0 0h22v22h-22z" opacity="0"/>
+  <path d="m8.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
+ </g>
+ <g id="16-16-kdeconnect">
+  <path d="m5 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2h-6zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="4" y="28" width="8" height="12" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25"/>
+  <rect y="26" width="16" height="16" rx="0" ry="0" opacity="0"/>
+  <rect x="6" y="27" width="4" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m6.6375 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
+ </g>
+ <g id="kdeconnect">
+  <rect x="9" y="-31" width="14" height="26" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".25" stroke-width="1.0408"/>
+  <rect y="-34" width="32" height="32" rx="0" ry="0" opacity="0"/>
+  <rect x="13" y="-32" width="6" height="2" rx="1" ry="1" class="ColorScheme-Text" fill="currentColor"/>
+  <rect x="12" y="-7" width="8" height="1" rx=".537" ry="1" class="ColorScheme-Text" fill="currentColor" opacity=".5"/>
+  <path d="m10.006-33c-1.6654 0-3.0059 1.3404-3.0059 3.0059v23.988c0 1.6654 1.3404 3.0059 3.0059 3.0059h11.988c1.6654 0 3.0059-1.3404 3.0059-3.0059v-23.988c0-1.6654-1.3404-3.0059-3.0059-3.0059h-11.988zm-0.005859 2h12c0.554 0 1 0.446 1 1v24c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-24c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor" stroke-linecap="square" stroke-width="1.0351" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

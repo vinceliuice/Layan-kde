@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   version="1"
+   id="svg128"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview130"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.76"
+     inkscape:cx="98.188407"
+     inkscape:cy="24.637681"
+     inkscape:window-width="1440"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128" />
+  <defs
+     id="defs21">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+    </style>
+    <linearGradient
+       id="linearGradient1058">
+      <stop
+         offset="0"
+         id="stop3" />
+      <stop
+         stop-color="#000000"
+         stop-opacity=".5"
+         offset=".48387"
+         id="stop5" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="a">
+      <stop
+         stop-opacity=".5098"
+         offset="0"
+         id="stop10" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <radialGradient
+       id="g"
+       cx="74.93"
+       cy="25.07"
+       r="1.6471"
+       gradientTransform="matrix(-18.821 3.145e-5 3.2965e-5 18.821 1439.3 -442.85)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1058" />
+    <linearGradient
+       id="linearGradient957"
+       x1="83.327"
+       x2="83.327"
+       y1="-965.03"
+       y2="-954.7"
+       gradientTransform="matrix(.71429 0 0 3 -317.71 3175.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1058" />
+    <radialGradient
+       id="radialGradient963"
+       cx="5.3529"
+       cy="50.292"
+       r="1.6471"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#a" />
+    <radialGradient
+       id="radialGradient904"
+       cx="74.93"
+       cy="25.07"
+       r="1.6471"
+       gradientTransform="matrix(-18.82,-0.0013106,-0.0013114,18.821,1439.2,-442.75)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1058" />
+    <radialGradient
+       id="radialGradient922"
+       cx="74.93"
+       cy="25.07"
+       r="1.6471"
+       gradientTransform="matrix(-18.821 2.8743e-5 2.6057e-5 18.821 1439.3 -442.85)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1058" />
+    <radialGradient
+       id="radialGradient940"
+       cx="74.93"
+       cy="25.07"
+       r="1.6471"
+       gradientTransform="matrix(-18.821 2.3789e-5 2.4922e-5 18.821 1439.3 -442.85)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient1058" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient991"
+       gradientUnits="userSpaceOnUse"
+       cx="5.3529"
+       cy="50.292"
+       r="1.6471" />
+  </defs>
+  <g
+     id="shadow-left"
+     transform="matrix(-1 0 0 .84 309 -186.88)">
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="288"
+       width="50"
+       height="30"
+       fill="url(#linearGradient957)"
+       opacity=".15"
+       id="rect23" />
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="280"
+       width="50"
+       height="8"
+       fill="none"
+       opacity=".5"
+       stroke-width=".5164"
+       id="rect25" />
+  </g>
+  <g
+     id="shadow-bottom"
+     transform="matrix(0 1 .84 0 -186.88 -209)">
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="288"
+       width="50"
+       height="30"
+       fill="url(#linearGradient957)"
+       opacity=".15"
+       id="rect28" />
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="280"
+       width="50"
+       height="8"
+       fill="none"
+       opacity=".5"
+       stroke-width=".5164"
+       id="rect30" />
+  </g>
+  <g
+     id="shadow-right"
+     transform="matrix(1 0 0 -.84 -209 286.88)">
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="288"
+       width="50"
+       height="30"
+       fill="url(#linearGradient957)"
+       opacity=".15"
+       id="rect33" />
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="280"
+       width="50"
+       height="8"
+       fill="none"
+       opacity=".5"
+       stroke-width=".5164"
+       id="rect35" />
+  </g>
+  <g
+     id="shadow-topleft"
+     transform="matrix(-1.1176 0 0 1.1176 112.82 -122.93)">
+    <g
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)"
+       fill="url(#radialGradient963)"
+       id="g40">
+      <path
+         transform="matrix(0 .21053 .21053 0 .89471 45.834)"
+         d="m-9-9v38h30a8 8 0 0 1 8-8v-30h-38z"
+         color="#000000"
+         color-rendering="auto"
+         fill="url(#g)"
+         image-rendering="auto"
+         opacity=".15"
+         shape-rendering="auto"
+         solid-color="#000000"
+         stroke-width="4.75"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path38" />
+    </g>
+  </g>
+  <g
+     id="shadow-top"
+     transform="matrix(0 -1 -.84 0 286.88 309)">
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="288"
+       width="50"
+       height="30"
+       fill="url(#linearGradient957)"
+       opacity=".15"
+       id="rect43" />
+    <rect
+       transform="rotate(-90)"
+       x="-307"
+       y="280"
+       width="50"
+       height="8"
+       fill="none"
+       opacity=".5"
+       stroke-width=".5164"
+       id="rect45" />
+  </g>
+  <g
+     id="top"
+     transform="matrix(-.84 0 0 1.1432 230.6 -267.08)">
+    <path
+       d="m190 252h50v6.998h-50z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path48" />
+    <path
+       d="m190 252h50v0.87475h-50z"
+       fill="#ffffff"
+       opacity=".08"
+       id="path50" />
+  </g>
+  <g
+     id="shadow-topright"
+     transform="matrix(0,-1.1175981,-1.1176,0,222.93,112.81979)">
+    <g
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)"
+       fill="url(#radialGradient963)"
+       id="g55"
+       style="fill:url(#radialGradient991)">
+      <path
+         transform="matrix(0,0.21053,0.21053,0,0.89471,45.834)"
+         d="m -9,-9 v 38 h 30 a 8,8 0 0 1 8,-8 V -9 Z"
+         color="#000000"
+         color-rendering="auto"
+         fill="url(#radialGradient904)"
+         image-rendering="auto"
+         opacity="0.15"
+         shape-rendering="auto"
+         solid-color="#000000"
+         stroke-width="4.75"
+         style="isolation:auto;mix-blend-mode:normal;fill:url(#radialGradient904)"
+         id="path53" />
+    </g>
+  </g>
+  <g
+     id="shadow-bottomright"
+     transform="matrix(1.1176 0 0 -1.1176 -12.823 222.93)">
+    <g
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)"
+       fill="url(#radialGradient963)"
+       id="g60">
+      <path
+         transform="matrix(0 .21053 .21053 0 .89471 45.834)"
+         d="m-9-9v38h30a8 8 0 0 1 8-8v-30z"
+         color="#000000"
+         color-rendering="auto"
+         fill="url(#radialGradient922)"
+         image-rendering="auto"
+         opacity=".15"
+         shape-rendering="auto"
+         solid-color="#000000"
+         stroke-width="4.75"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path58" />
+    </g>
+  </g>
+  <g
+     id="shadow-bottomleft"
+     transform="matrix(0 1.1176 1.1176 0 -122.93 -12.823)">
+    <g
+       transform="matrix(0,4.25,-4.25,0,295.74,106.19)"
+       fill="url(#radialGradient963)"
+       id="g65">
+      <path
+         transform="matrix(0 .21053 .21053 0 .89471 45.834)"
+         d="m-9-9v38h30a8 8 0 0 1 8-8v-30z"
+         color="#000000"
+         color-rendering="auto"
+         fill="url(#radialGradient940)"
+         image-rendering="auto"
+         opacity=".15"
+         shape-rendering="auto"
+         solid-color="#000000"
+         stroke-width="4.75"
+         style="isolation:auto;mix-blend-mode:normal"
+         id="path63" />
+    </g>
+  </g>
+  <g
+     id="mask-left"
+     transform="matrix(0 .84 2 0 -539 -182.36)"
+     fill="#000000">
+    <path
+       d="m254 347h50l1e-5 4h-50z"
+       fill="#000000"
+       id="path68" />
+  </g>
+  <rect
+     id="mask-center"
+     x="163"
+     y="31"
+     width="42"
+     height="42"
+     fill="#000000" />
+  <g
+     id="mask-topright"
+     transform="matrix(2,0,0,2,-403,-671)"
+     fill="#000000">
+    <path
+       d="m308 351a4 4 0 0 0-4-4v4z"
+       fill="#000000"
+       id="path72" />
+  </g>
+  <g
+     id="mask-top"
+     transform="matrix(.84 0 0 2 -50.36 -671)"
+     fill="#000000">
+    <path
+       d="m254 347h50l1e-5 4h-50z"
+       fill="#000000"
+       id="path75" />
+  </g>
+  <g
+     id="mask-right"
+     transform="matrix(0 .84 -2 0 907 -182.36)"
+     fill="#000000">
+    <path
+       d="m254 347h50l1e-5 4h-50z"
+       fill="#000000"
+       id="path78" />
+  </g>
+  <g
+     id="mask-topleft"
+     fill="#000000"
+     transform="matrix(0,-1.7500109,1.7500109,0,-452.25378,562.00581)">
+    <path
+       d="m 303.43,347 a 4.5714,4.5714 0 0 1 4.5714,4.5714 H 303.43 Z"
+       fill="#000000"
+       id="path81" />
+  </g>
+  <g
+     id="mask-bottom"
+     transform="matrix(.84 0 0 -2 -50.36 775)"
+     fill="#000000">
+    <path
+       d="m254 347h50l1e-5 4h-50z"
+       fill="#000000"
+       id="path84" />
+  </g>
+  <g
+     id="mask-bottomright"
+     fill="#000000"
+     transform="matrix(0,2,-2,0,1015,-427)">
+    <path
+       d="m 250,401 a 4,4 0 0 1 4,4 h -4 z"
+       fill="#000000"
+       id="path87" />
+  </g>
+  <g
+     id="mask-bottomleft"
+     transform="matrix(-2,0,0,-2,771,883)"
+     fill="#000000">
+    <path
+       d="m308 405a4 4 0 0 0-4-4v4z"
+       fill="#000000"
+       id="path90" />
+  </g>
+  <rect
+     id="hint-stretch-borders"
+     x="7.5"
+     y="2.4414e-6"
+     width="5"
+     height="5"
+     fill="#e4720c" />
+  <g
+     id="right"
+     transform="matrix(-1.1429 0 0 .84 288.14 -188.56)">
+    <path
+       d="m183 259v50l7 1e-5v-50z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path94" />
+  </g>
+  <g
+     id="left"
+     transform="matrix(-1.1429 0 0 .84 303.29 -188.56)">
+    <path
+       d="m247 259v50l-7 1e-5v-50z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path97" />
+  </g>
+  <g
+     id="bottom"
+     transform="matrix(.84 0 0 -1.1429 -130.6 367)">
+    <path
+       d="m190 252h50v6.9999h-50z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path100" />
+  </g>
+  <g
+     id="topright">
+    <path
+       d="m71 20.999a8 8 0 0 1 8 8h-8z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path103" />
+    <path
+       d="m71 20.998v1a8 8 0 0 1 7.9355 7h0.064453a8 8 0 0 0-8-8z"
+       fill="#ffffff"
+       opacity=".08"
+       id="path105" />
+  </g>
+  <g
+     id="bottomleft">
+    <path
+       d="m29 79a8 8 0 0 1-8-8h8z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path108" />
+  </g>
+  <g
+     id="bottomright"
+     transform="matrix(0 -2.0002 -2.0002 0 174.89 85.001)">
+    <path
+       d="m3.0005 51.939a3.9995 3.9995 0 0 1 3.9995-3.9995v3.9995z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path111" />
+  </g>
+  <rect
+     id="center"
+     transform="scale(-1)"
+     x="-71"
+     y="-71"
+     width="42"
+     height="42"
+     class="ColorScheme-ButtonBackground"
+     fill="currentColor" />
+  <rect
+     id="shadow-hint-left-margin"
+     x="-9"
+     y="48"
+     width="30"
+     height="4"
+     fill="#f99133" />
+  <rect
+     id="shadow-hint-right-margin"
+     x="79"
+     y="48"
+     width="30"
+     height="4"
+     fill="#f99133" />
+  <rect
+     id="shadow-hint-top-margin"
+     x="48"
+     y="-9"
+     width="4"
+     height="30"
+     fill="#f99133" />
+  <rect
+     id="shadow-hint-bottom-margin"
+     x="48"
+     y="79"
+     width="4"
+     height="30"
+     fill="#f99133" />
+  <g
+     id="topleft"
+     transform="matrix(0,2,2,0,-74.878,15)">
+    <path
+       d="m7 47.939a4 4 0 0 0-4 4h4z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path119" />
+    <path
+       transform="matrix(0 .5 .5 0 -7.5 37.439)"
+       d="m29 21a8 8 0 0 0-8 8h0.068359a8 8 0 0 1 7.9316-7v-1z"
+       fill="#ffffff"
+       opacity=".08"
+       id="path121" />
+  </g>
+  <rect
+     id="hint-top-margin"
+     x="48"
+     y="21"
+     width="4"
+     height="8"
+     fill="#37a4f5" />
+  <rect
+     id="hint-right-margin"
+     x="71"
+     y="48"
+     width="8"
+     height="4"
+     fill="#37a4f5" />
+  <rect
+     id="hint-left-margin"
+     x="21"
+     y="48"
+     width="8"
+     height="4"
+     fill="#37a4f5" />
+  <rect
+     id="hint-bottom-margin"
+     x="48"
+     y="71"
+     width="4"
+     height="8"
+     fill="#37a4f5" />
+</svg>

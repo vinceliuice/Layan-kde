@@ -24,6 +24,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Layan
+COLOR_VARIANTS=('' '-light')
 
 [[ ! -d ${AURORAE_DIR} ]] && mkdir -p ${AURORAE_DIR}
 [[ ! -d ${SCHEMES_DIR} ]] && mkdir -p ${SCHEMES_DIR}
@@ -34,28 +35,31 @@ THEME_NAME=Layan
 
 install() {
   local name=${1}
+  local color=${2}
 
-  [[ -d ${AURORAE_DIR}/${name} ]] && rm -rf ${AURORAE_DIR}/${name}*
-  [[ -d ${PLASMA_DIR}/${name} ]] && rm -rf ${PLASMA_DIR}/${name}*
-  [[ -f ${SCHEMES_DIR}/${name}.colors ]] && rm -rf ${SCHEMES_DIR}/${name}*.colors
-  [[ -d ${LOOKFEEL_DIR}/com.github.vinceliuice.${name} ]] && rm -rf ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}*
+  [[ ${color} == '-light' ]] && local ELSE_COLOR='Light'
+
+  [[ -d ${AURORAE_DIR}/${name}${color} ]] && rm -rf ${AURORAE_DIR}/${name}${color}
+  [[ -d ${PLASMA_DIR}/${name}${color} ]] && rm -rf ${PLASMA_DIR}/${name}${color}
+  [[ -f ${SCHEMES_DIR}/${name}${ELSE_COLOR}.colors ]] && rm -rf ${SCHEMES_DIR}/${name}${ELSE_COLOR}.colors
+  [[ -d ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}${color} ]] && rm -rf ${LOOKFEEL_DIR}/com.github.vinceliuice.${name}${color}
   [[ -d ${KVANTUM_DIR}/${name} ]] && rm -rf ${KVANTUM_DIR}/${name}*
-  [[ -d ${WALLPAPER_DIR}/${name} ]] && rm -rf ${WALLPAPER_DIR}/${name}*
+  [[ -d ${WALLPAPER_DIR}/${name}${color} ]] && rm -rf ${WALLPAPER_DIR}/${name}${color}
 
-  cp -r ${SRC_DIR}/aurorae/themes/*                                                  ${AURORAE_DIR}
-  cp -r ${SRC_DIR}/color-schemes/*.colors                                            ${SCHEMES_DIR}
+  cp -r ${SRC_DIR}/aurorae/themes/${name}${color}                                    ${AURORAE_DIR}
+  cp -r ${SRC_DIR}/color-schemes/${name}${ELSE_COLOR}.colors                         ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/Kvantum/*                                                         ${KVANTUM_DIR}
-  cp -r ${SRC_DIR}/plasma/desktoptheme/{${name},${name}-solid}                       ${PLASMA_DIR}
-  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}
-  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                         ${PLASMA_DIR}/${name}-solid
-  cp -r ${SRC_DIR}/color-schemes/${name}.colors                                      ${PLASMA_DIR}/${name}/colors
-  cp -r ${SRC_DIR}/color-schemes/${name}.colors                                      ${PLASMA_DIR}/${name}-solid/colors
-  cp -r ${SRC_DIR}/plasma/look-and-feel/*                                            ${LOOKFEEL_DIR}
-  cp -r ${SRC_DIR}/wallpaper/*                                                       ${WALLPAPER_DIR}
+  cp -r ${SRC_DIR}/plasma/desktoptheme/common                                        ${PLASMA_DIR}/${name}${color}
+  cp -r ${SRC_DIR}/plasma/desktoptheme/${name}${color}/*                             ${PLASMA_DIR}/${name}${color}
+  cp -r ${SRC_DIR}/color-schemes/${name}${ELSE_COLOR}.colors                         ${PLASMA_DIR}/${name}${color}/colors
+  cp -r ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}${color}       ${LOOKFEEL_DIR}
+  cp -r ${SRC_DIR}/wallpaper/${name}${color}                                         ${WALLPAPER_DIR}
 }
 
 echo "Installing '${THEME_NAME} kde themes'..."
 
-install "${name:-${THEME_NAME}}"
+for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
+  install "${name:-${THEME_NAME}}" "${color}"
+done
 
 echo "Install finished..."

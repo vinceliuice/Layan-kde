@@ -37,8 +37,10 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install Layan in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/themes/Layan" "${THEME_DIR}"
+  prompt -i "\n * Install Layan themes in ${THEME_DIR}... "
+  rm -rf "${THEME_DIR}/Layan" "${THEME_DIR}/Layan-light"
+  cp -rf "${REO_DIR}/Layan" "${THEME_DIR}"
+  cp -rf "${REO_DIR}/Layan-light" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" viewBox="0 0 54 32">
+<defs id="defs3051">
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text{ color:#363636 }</style>
+</defs>
+<g id="22-22-akregator">
+  <path id="path7" d="M0 10v22h22V10H0z" opacity="1" fill="none"/>
+  <path id="path9" d="M3 13v3a13 13 0 0 1 13 13h3A16 16 0 0 0 3 13zm0 6v3a7 7 0 0 1 7 7h3A10 10 0 0 0 3 19zm2 6a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" class="ColorScheme-Text" fill="currentColor" fill-opacity="1" stroke="none"/>
+</g>
+<g id="akregator">
+  <path id="path12" d="M26 4v4a20 20 0 0 1 20 20h4A24 24 0 0 0 26 4zm0 8v4a12 12 0 0 1 12 12h4a16 16 0 0 0-16-16zm3.5 9a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5z" class="ColorScheme-Text" fill="currentColor" fill-opacity="1" stroke="none"/>
+  <path id="path14" d="M22 0v32h32V0H22z" opacity="1" fill="none"/>
+</g>
+</svg>

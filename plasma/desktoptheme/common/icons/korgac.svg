@@ -1,0 +1,9 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="korgac">
+  <path d="m11 3c-4.432 0-8 3.568-8 8s3.568 8 8 8 8-3.568 8-8-3.568-8-8-8zm-1 2h1v6h5v1h-6v-7z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="M0 0h22v22H0z" fill="none"/>
+ </g>
+</svg>

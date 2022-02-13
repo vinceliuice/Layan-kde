@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg65"
+   sodipodi:docname="media.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview67"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.1534091"
+     inkscape:cx="81.499099"
+     inkscape:cy="19.661261"
+     inkscape:window-width="1440"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg65" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+  </defs>
+  <g
+     id="media-record"
+     transform="translate(22,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect5" />
+    <path
+       class="ColorScheme-Highlight"
+       d="m11 1035.4c-3.311 0-6 2.6888-6 6 0 3.311 2.689 6 6 6s6-2.689 6-6c0-3.3112-2.689-6-6-6z"
+       fill="#f96060"
+       id="path7" />
+  </g>
+  <g
+     id="media-playback-stop"
+     transform="translate(44,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect10" />
+    <path
+       class="ColorScheme-Text"
+       d="m5 1035.4v12h12v-12z"
+       fill="currentColor"
+       id="path12" />
+  </g>
+  <g
+     id="media-skip-forward"
+     transform="translate(66,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect15" />
+    <path
+       class="ColorScheme-Text"
+       d="m19 1037.4v8h-2v-8zm-2 4-7 4v-8zm-7 0-7 4v-8z"
+       fill="currentColor"
+       id="path17" />
+  </g>
+  <g
+     id="media-skip-backward"
+     transform="matrix(-1,0,0,1,110,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect20" />
+    <path
+       class="ColorScheme-Text"
+       d="m19 1037.4v8h-2v-8zm-2 4-7 4v-8zm-7 0-7 4v-8z"
+       fill="currentColor"
+       id="path22" />
+  </g>
+  <g
+     id="media-seek-forward"
+     transform="translate(110,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect25" />
+    <path
+       class="ColorScheme-Text"
+       d="m11 1037.4 7 4-7 4zm0 4-7 4v-8z"
+       fill="currentColor"
+       id="path27" />
+  </g>
+  <g
+     id="media-seek-backward"
+     transform="matrix(-1,0,0,1,154,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect30" />
+    <path
+       class="ColorScheme-Text"
+       d="m11 1037.4 7 4-7 4zm0 4-7 4v-8z"
+       fill="currentColor"
+       id="path32" />
+  </g>
+  <g
+     id="media-eject"
+     transform="translate(-44,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect35" />
+    <path
+       class="ColorScheme-Text"
+       d="m11 1036.4-5 5v1h10v-1zm-5 8v2h10v-2z"
+       display="block"
+       fill="currentColor"
+       id="path37" />
+  </g>
+  <g
+     id="media-playback-pause"
+     transform="translate(-22,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect40" />
+    <path
+       class="ColorScheme-Text"
+       d="m5 1035.4v12h4v-12zm8 0v12h4v-12z"
+       fill="currentColor"
+       id="path42" />
+  </g>
+  <g
+     id="media-playback-start"
+     transform="translate(0,-1030.4)">
+    <rect
+       y="1030.4"
+       width="22"
+       height="22"
+       opacity=".001"
+       id="rect45" />
+    <path
+       class="ColorScheme-Text"
+       d="m6 1035.4v12l11-6-9.8992-5.3996z"
+       fill="currentColor"
+       id="path47" />
+  </g>
+  <g
+     id="media-playback-paused"
+     transform="matrix(1.5,0,0,1.5,-4.6412,-1522.6)">
+    <rect
+       x="3.6667"
+       y="1034"
+       width="14.667"
+       height="14.667"
+       fill-opacity="0"
+       id="rect50" />
+    <path
+       class="ColorScheme-Text"
+       d="m11.667 1039.4h1.3334v4.0002h-1.3334zm-2.6668 0h1.3334v4.0002h-1.3334zm2.0001-3.3334c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335z"
+       fill="currentColor"
+       id="path52" />
+  </g>
+  <g
+     id="media-playback-playing"
+     transform="matrix(1.5,0,0,1.5,19.358,-1522.6)">
+    <rect
+       x="3.667"
+       y="1034"
+       width="14.667"
+       height="14.667"
+       fill-opacity="0"
+       id="rect55" />
+    <path
+       transform="matrix(.66668 0 0 .66668 -12.906 1015.1)"
+       d="m35.857 31.402c-4.4324 0-8 3.5676-8 8s3.5676 8 8 8 8.002-3.5676 8.002-8-3.5696-8-8.002-8zm-2 5 4 3-4 3z"
+       fill="currentColor"
+       id="path57"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="media-playback-stopped"
+     transform="matrix(1.5,0,0,1.5,43.358,-1522.6)">
+    <rect
+       x="3.6673"
+       y="1034"
+       width="14.667"
+       height="14.667"
+       fill-opacity="0"
+       id="rect60" />
+    <path
+       class="ColorScheme-Text"
+       d="m8.9999 1039.4h4.0002v4.0002h-4.0002zm2.0001-3.3334c-2.9548 0-5.3335 2.3787-5.3335 5.3335s2.3788 5.3335 5.3335 5.3335c2.9548 0 5.3335-2.3787 5.3335-5.3335s-2.3788-5.3335-5.3335-5.3335z"
+       fill="currentColor"
+       id="path62" />
+  </g>
+</svg>

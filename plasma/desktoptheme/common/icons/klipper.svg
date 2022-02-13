@@ -1,0 +1,9 @@
+<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="klipper">
+  <rect x="-.002545" y="-.0014856" width="22" height="22" opacity="0" stroke-width=".67691"/>
+  <path d="m11 2a2 2 0 0 0-2 2h-3c-1.662 0-3 1.338-3 3v9c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-9c0-1.662-1.338-3-3-3h-3a2 2 0 0 0-2-2zm0 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm-5 3h1.2656c0.34477 0.59886 0.991 1 1.7344 1h4c0.74336 0 1.3896-0.40114 1.7344-1h1.2656c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1zm1.5 4c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-7zm0 2c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-7zm0 2c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-7z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+</svg>

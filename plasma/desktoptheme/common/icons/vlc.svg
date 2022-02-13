@@ -1,0 +1,14 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#363636}</style>
+ </defs>
+ <g transform="translate(0 -1030.4)">
+  <g id="vlc">
+   <path class="ColorScheme-Text" d="m0 1030.4h22v22h-22z" fill="none" stroke-linejoin="round" stroke-width="3.3"/>
+   <path class="ColorScheme-Text" d="m3 1047.4h16v2h-16z" fill="currentColor" stroke-linejoin="round" stroke-width="3.3"/>
+   <path class="ColorScheme-Text" d="M9.12 1033.361l-4.102 14.867.964.266 3.899-14.133h2.238l3.899 14.133.964-.266-4.101-14.867H9.119z" color-rendering="auto" fill="currentColor" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" text-rendering="auto"/>
+   <path class="ColorScheme-Text" d="m9 1036.4h4l1 3h-6z" fill="currentColor" fill-rule="evenodd"/>
+   <path class="ColorScheme-Text" d="m7.5 1042.4h7l1 3h-9z" fill="currentColor" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

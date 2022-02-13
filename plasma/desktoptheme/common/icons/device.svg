@@ -1,0 +1,27 @@
+<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#333333; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#333333; }</style>
+ </defs>
+ <g id="22-22-device-notifier">
+  <rect width="22" height="22" fill-opacity="0"/>
+  <rect width="22" height="22" opacity="0"/>
+  <rect width="22" height="22" fill-opacity="0"/>
+  <path d="m10 2c-2.77 0-5 2.23-5 5v9h12v-9c0-2.77-2.23-5-5-5h-2zm1 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m7 17v3h8v-3h-8zm1 1h2v1h-2v-1zm4 0h2v1h-2v-1z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="16-16-device-notifier">
+  <rect x="-5e-5" y="25.993" width="16" height="16" opacity="0"/>
+  <rect x="-5e-5" y="25.993" width="16" height="16" fill-opacity="0"/>
+  <path class="ColorScheme-Text" d="m5 38.994v1.999h6v-1.999z" fill="currentColor"/>
+  <path d="m6 27c-1.662 0-3 1.338-3 3v8h10v-8c0-1.662-1.338-3-3-3h-4z" class="ColorScheme-Text" fill="currentColor"/>
+ </g>
+ <g id="device-notifier">
+  <rect y="-34" width="32" height="32" opacity="0"/>
+  <rect y="-34" width="32" height="32" fill-opacity="0"/>
+  <path d="m11-9v4h10v-4h-10zm2 1h2v2h-2v-2zm4 0h2v2h-2v-2z" class="ColorScheme-Text" fill="currentColor"/>
+  <g class="ColorScheme-Text" fill="currentColor">
+   <path d="m14-32c-3.878 0-7 3.122-7 7v5c0 3.878 3.122 7 7 7h4c3.878 0 7-3.122 7-7v-5c0-3.878-3.122-7-7-7h-4zm-1 2h6c0.554 0 1 0.446 1 1s-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1s0.446-1 1-1z"/>
+   <rect x="7" y="-24" width="18" height="13" ry="2"/>
+  </g>
+ </g>
+</svg>
