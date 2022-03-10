@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,16 +19,20 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="1.9516147"
-     inkscape:cx="38.429717"
-     inkscape:cy="24.595019"
-     inkscape:window-width="1104"
-     inkscape:window-height="486"
-     inkscape:window-x="142"
-     inkscape:window-y="139"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg128" />
+     showgrid="true"
+     inkscape:zoom="4"
+     inkscape:cx="53.25"
+     inkscape:cy="152.75"
+     inkscape:window-width="1440"
+     inkscape:window-height="754"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128">
+    <inkscape:grid
+       type="xygrid"
+       id="grid934" />
+  </sodipodi:namedview>
   <defs
      id="defs21">
     <style
@@ -349,11 +353,9 @@
   </g>
   <g
      id="mask-left"
-     transform="matrix(0 .84 2 0 -539 -182.36)"
-     fill="#000000">
+     transform="matrix(0 .84 2 0 -539 -182.36)">
     <path
        d="m254 347h50l1e-5 4h-50z"
-       fill="#000000"
        id="path68" />
   </g>
   <rect
@@ -361,75 +363,60 @@
      x="163"
      y="31"
      width="42"
-     height="42"
-     fill="#000000" />
+     height="42" />
   <g
      id="mask-topright"
-     transform="matrix(2,0,0,2,-403,-671)"
-     fill="#000000">
+     transform="matrix(2,0,0,2,-403,-671)">
     <path
        d="m308 351a4 4 0 0 0-4-4v4z"
-       fill="#000000"
        id="path72" />
   </g>
   <g
      id="mask-top"
-     transform="matrix(.84 0 0 2 -50.36 -671)"
-     fill="#000000">
+     transform="matrix(.84 0 0 2 -50.36 -671)">
     <path
        d="m254 347h50l1e-5 4h-50z"
-       fill="#000000"
        id="path75" />
   </g>
   <g
      id="mask-right"
-     transform="matrix(0 .84 -2 0 907 -182.36)"
-     fill="#000000">
+     transform="matrix(0 .84 -2 0 907 -182.36)">
     <path
        d="m254 347h50l1e-5 4h-50z"
-       fill="#000000"
        id="path78" />
   </g>
   <g
      id="mask-topleft"
-     fill="#000000"
      transform="matrix(0,-1.7500109,1.7500109,0,-452.25378,562.00581)">
     <path
        d="m 303.43,347 a 4.5714,4.5714 0 0 1 4.5714,4.5714 H 303.43 Z"
-       fill="#000000"
        id="path81" />
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(.84 0 0 -2 -50.36 775)"
-     fill="#000000">
+     transform="matrix(.84 0 0 -2 -50.36 775)">
     <path
        d="m254 347h50l1e-5 4h-50z"
-       fill="#000000"
        id="path84" />
   </g>
   <g
      id="mask-bottomright"
-     fill="#000000"
      transform="matrix(0,2,-2,0,1015,-427)">
     <path
        d="m 250,401 a 4,4 0 0 1 4,4 h -4 z"
-       fill="#000000"
        id="path87" />
   </g>
   <g
      id="mask-bottomleft"
-     transform="matrix(-2,0,0,-2,771,883)"
-     fill="#000000">
+     transform="matrix(-2,0,0,-2,771,883)">
     <path
        d="m308 405a4 4 0 0 0-4-4v4z"
-       fill="#000000"
        id="path90" />
   </g>
   <rect
      id="hint-stretch-borders"
-     x="7.5"
-     y="2.4414e-6"
+     x="0"
+     y="0"
      width="5"
      height="5"
      fill="#e4720c" />
@@ -578,4 +565,72 @@
      width="4"
      height="8"
      fill="#37a4f5" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182575"
+     id="hint-top-inset"
+     width="4"
+     height="0.2"
+     x="53"
+     y="21" />
+  <rect
+     y="78.799988"
+     x="53"
+     height="0.2"
+     width="4"
+     id="hint-bottom-inset"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182574" />
+  <rect
+     y="-79"
+     x="53"
+     height="0.2"
+     width="4"
+     id="hint-right-inset"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182573"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182574"
+     id="hint-left-inset"
+     width="4"
+     height="0.2"
+     x="53"
+     y="-21.200001"
+     transform="rotate(90)" />
+  <rect
+     y="-9"
+     x="53"
+     height="30"
+     width="4"
+     id="shadow-hint-top-inset"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.23608" />
+  <rect
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.23606"
+     id="shadow-hint-bottom-inset"
+     width="4"
+     height="30"
+     x="53"
+     y="79" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.41422"
+     id="shadow-hint-right-inset"
+     width="4"
+     height="30"
+     x="53"
+     y="-109" />
+  <rect
+     transform="rotate(90)"
+     y="-21"
+     x="53"
+     height="30"
+     width="4"
+     id="shadow-hint-left-inset"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+  <rect
+     id="shadow-center"
+     transform="scale(-1)"
+     x="-71"
+     y="-192"
+     width="42"
+     height="42"
+     style="fill:none" />
 </svg>

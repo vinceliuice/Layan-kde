@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,13 +20,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.76"
-     inkscape:cx="98.188407"
-     inkscape:cy="24.637681"
+     inkscape:zoom="1.38"
+     inkscape:cx="98.913043"
+     inkscape:cy="65.217391"
      inkscape:window-width="1440"
-     inkscape:window-height="750"
+     inkscape:window-height="754"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg128" />
   <defs
@@ -497,7 +497,23 @@
      width="42"
      height="42"
      class="ColorScheme-ButtonBackground"
-     fill="currentColor" />
+     fill="currentColor"
+     style="stroke-width:1" />
+  <g
+     id="topleft"
+     transform="matrix(0,2,2,0,-74.878,15)">
+    <path
+       d="m7 47.939a4 4 0 0 0-4 4h4z"
+       class="ColorScheme-ButtonBackground"
+       fill="currentColor"
+       id="path119" />
+    <path
+       transform="matrix(0 .5 .5 0 -7.5 37.439)"
+       d="m29 21a8 8 0 0 0-8 8h0.068359a8 8 0 0 1 7.9316-7v-1z"
+       fill="#ffffff"
+       opacity=".08"
+       id="path121" />
+  </g>
   <rect
      id="shadow-hint-left-margin"
      x="-9"
@@ -526,21 +542,6 @@
      width="4"
      height="30"
      fill="#f99133" />
-  <g
-     id="topleft"
-     transform="matrix(0,2,2,0,-74.878,15)">
-    <path
-       d="m7 47.939a4 4 0 0 0-4 4h4z"
-       class="ColorScheme-ButtonBackground"
-       fill="currentColor"
-       id="path119" />
-    <path
-       transform="matrix(0 .5 .5 0 -7.5 37.439)"
-       d="m29 21a8 8 0 0 0-8 8h0.068359a8 8 0 0 1 7.9316-7v-1z"
-       fill="#ffffff"
-       opacity=".08"
-       id="path121" />
-  </g>
   <rect
      id="hint-top-margin"
      x="48"
@@ -569,4 +570,72 @@
      width="4"
      height="8"
      fill="#37a4f5" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182575"
+     id="hint-top-inset"
+     width="4"
+     height="0.2"
+     x="53"
+     y="21" />
+  <rect
+     y="78.799988"
+     x="53"
+     height="0.2"
+     width="4"
+     id="hint-bottom-inset"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182574" />
+  <rect
+     y="-79"
+     x="53"
+     height="0.2"
+     width="4"
+     id="hint-right-inset"
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182573"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.182574"
+     id="hint-left-inset"
+     width="4"
+     height="0.2"
+     x="53"
+     y="-21.200001"
+     transform="rotate(90)" />
+  <rect
+     y="-9"
+     x="53"
+     height="30"
+     width="4"
+     id="shadow-hint-top-inset"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.23608" />
+  <rect
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:2.23606"
+     id="shadow-hint-bottom-inset"
+     width="4"
+     height="30"
+     x="53"
+     y="79" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.41422"
+     id="shadow-hint-right-inset"
+     width="4"
+     height="30"
+     x="53"
+     y="-109" />
+  <rect
+     transform="rotate(90)"
+     y="-21"
+     x="53"
+     height="30"
+     width="4"
+     id="shadow-hint-left-inset"
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.41421" />
+  <rect
+     id="shadow-center"
+     transform="scale(-1)"
+     x="-71"
+     y="-192"
+     width="42"
+     height="42"
+     style="fill:none" />
 </svg>
