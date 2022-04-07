@@ -13,7 +13,7 @@ spread_progressbar=true
 composite=true
 menu_shadow_depth=10
 spread_menuitems=false
-tooltip_shadow_depth=6
+tooltip_shadow_depth=10
 splitter_width=1
 scroll_width=9
 scroll_arrows=false
@@ -71,6 +71,9 @@ intensity=1.00
 saturation=1.00
 click_behavior=0
 shadowless_popup=false
+drag_from_buttons=false
+menu_blur_radius=6
+tooltip_blur_radius=6
 
 [GeneralColors]
 window.color=#31313A
@@ -116,6 +119,10 @@ middle_click_scroll=false
 opaque_colors=false
 scroll_jump_workaround=true
 kinetic_scrolling=true
+blur_only_active_window=false
+centered_forms=false
+noninteger_translucency=false
+style_vertical_toolbars=false
 
 [PanelButtonCommand]
 frame=true
@@ -544,13 +551,13 @@ frame.right=2
 
 [ToolTip]
 inherits=GenericFrame
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 interior=true
 text.shadow=0
-text.margin=1
+text.margin=10
 text.margin.top=10
 text.margin.bottom=10
 text.margin.left=10
