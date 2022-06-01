@@ -4,34 +4,39 @@
    height="56"
    version="1.1"
    viewBox="0 0 173 56"
-   id="svg126"
+   id="svg1813"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview128"
-     pagecolor="#999999"
+     id="namedview1815"
+     pagecolor="#616161"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageshadow="2"
+     inkscape:showpageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="5.1908995"
-     inkscape:cx="44.886248"
-     inkscape:cy="29.089371"
-     inkscape:window-width="1440"
-     inkscape:window-height="750"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="28.1875"
+     inkscape:cy="6.2500001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg126" />
+     inkscape:current-layer="svg1813">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2179" />
+  </sodipodi:namedview>
   <defs
-     id="defs16">
+     id="defs1703">
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
@@ -84,12 +89,12 @@
          stop-color="#000000"
          stop-opacity=".66663"
          offset="0"
-         id="stop3" />
+         id="stop1690" />
       <stop
          stop-color="#000000"
          stop-opacity="0"
          offset="1"
-         id="stop5" />
+         id="stop1692" />
     </linearGradient>
     <radialGradient
        id="radialGradient1031"
@@ -169,7 +174,7 @@
        d="m32-6v28h12c0-8.864 7.136-16 16-16v-12h-28z"
        fill="url(#radialGradient994)"
        opacity=".35"
-       id="path18" />
+       id="path1705" />
   </g>
   <g
      id="shadow-topright"
@@ -180,7 +185,7 @@
        d="m72-6v12c8.864 0 16 7.136 16 16h12v-28h-28z"
        fill="url(#radialGradient1019)"
        opacity=".35"
-       id="path21" />
+       id="path1708" />
   </g>
   <g
      id="shadow-bottomright"
@@ -191,7 +196,7 @@
        d="m88 34c0 8.864-7.136 16-16 16v12h28v-28h-12z"
        fill="url(#radialGradient1031)"
        opacity=".35"
-       id="path24" />
+       id="path1711" />
   </g>
   <g
      id="shadow-bottomleft"
@@ -202,7 +207,7 @@
        d="m32 34v28h28v-12c-8.864 0-16-7.136-16-16h-12z"
        fill="url(#radialGradient1025)"
        opacity=".35"
-       id="path27" />
+       id="path1714" />
   </g>
   <rect
      id="hint-tile-center"
@@ -212,90 +217,106 @@
      fill="#ff6600" />
   <g
      id="top"
-     transform="matrix(.375 0 0 2.6667 52.875 -2421.6)">
+     transform="matrix(0.375,0,0,2.6667,52.875,-2421.6572)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-916.36"
+       x="-916.35999"
        y="-51"
        width="6"
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="rect31" />
+       opacity="0.6"
+       id="rect1718"
+       style="opacity:1" />
   </g>
   <g
      id="topleft"
-     transform="matrix(1.3333 0 0 1.3333 26.667 -1207.8)">
+     transform="matrix(1.3333,0,0,1.3333,26.6675,-1207.7826)">
     <path
-       d="m25 910.36c-6.648 0-12 5.352-12 12h12v-10z"
+       d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="path34" />
+       opacity="0.6"
+       id="path1721"
+       style="opacity:1" />
   </g>
   <g
      id="topright"
-     transform="matrix(1.3333 0 0 1.3333 12 -1207.8)">
+     transform="matrix(1.3333,0,0,1.3333,12.0015,-1207.7826)">
     <path
-       d="m45 910.36v12h12c0-6.648-5.352-12-12-12z"
+       d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="path37" />
+       opacity="0.6"
+       id="path1724"
+       style="opacity:1" />
   </g>
   <g
      id="bottom"
-     transform="matrix(.375 0 0 2.6667 52.875 -2495)">
+     transform="matrix(0.375,0,0,2.6667,52.875,-2494.9916)">
     <rect
        transform="rotate(90)"
-       x="948.36"
+       x="948.35999"
        y="-51"
        width="6"
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="rect40" />
+       opacity="0.6"
+       id="rect1727"
+       style="opacity:1" />
   </g>
   <g
      id="bottomleft"
-     transform="matrix(1.3333 0 0 1.3333 26.667 -1222.5)">
+     transform="matrix(1.3333,0,0,1.3333,26.6675,-1222.4486)">
     <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12h-10z"
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="path43" />
+       opacity="0.6"
+       id="path1730"
+       style="opacity:1" />
   </g>
   <g
      id="bottomright"
-     transform="matrix(1.3333 0 0 1.3333 12 -1222.5)">
+     transform="matrix(1.3333,0,0,1.3333,12.0015,-1222.4486)">
     <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12h-10z"
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="path46" />
+       opacity="0.6"
+       id="path1733"
+       style="opacity:1" />
   </g>
   <g
      id="left"
-     transform="matrix(2.6667 0 0 .375 9.3333 -321.64)">
+     transform="matrix(2.6667,0,0,0.375,9.3327,-321.63499)">
     <rect
        transform="scale(-1,1)"
        x="-19"
-       y="916.36"
+       y="916.35999"
        width="6"
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="rect49" />
+       opacity="0.6"
+       id="rect1736"
+       style="opacity:1" />
   </g>
   <g
      id="right"
-     transform="matrix(2.6667 0 0 .375 -64 -321.64)">
+     transform="matrix(2.6667,0,0,0.375,-64.0017,-321.63499)">
     <rect
        x="51"
-       y="916.36"
+       y="916.35999"
        width="6"
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="rect52" />
+       opacity="0.6"
+       id="rect1739"
+       style="opacity:1" />
   </g>
   <rect
      id="center"
@@ -304,7 +325,9 @@
      width="12"
      height="12"
      class="ColorScheme-Background"
-     fill="currentColor" />
+     fill="currentColor"
+     opacity=".6"
+     style="opacity:1" />
   <rect
      id="hint-top-margin"
      x="64"
@@ -351,7 +374,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect60" />
+       id="rect1747" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-906.08"
@@ -360,7 +383,7 @@
        height="32"
        fill="url(#linearGradient4920)"
        opacity=".35"
-       id="rect62" />
+       id="rect1749" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-911.36"
@@ -369,7 +392,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect64" />
+       id="rect1751" />
   </g>
   <g
      id="shadow-bottom"
@@ -383,7 +406,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect67" />
+       id="rect1754" />
     <rect
        transform="rotate(90)"
        x="955.22"
@@ -392,7 +415,7 @@
        height="32"
        fill="url(#linearGradient4934)"
        opacity=".35"
-       id="rect69" />
+       id="rect1756" />
     <rect
        transform="rotate(90)"
        x="953.36"
@@ -401,7 +424,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect71" />
+       id="rect1758" />
   </g>
   <g
      id="shadow-left"
@@ -415,7 +438,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect74" />
+       id="rect1761" />
     <rect
        transform="scale(-1,1)"
        x="-12.143"
@@ -424,7 +447,7 @@
        height="32"
        fill="url(#linearGradient4948)"
        opacity=".35"
-       id="rect76" />
+       id="rect1763" />
     <rect
        transform="scale(-1,1)"
        x="-14"
@@ -433,7 +456,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect78" />
+       id="rect1765" />
   </g>
   <g
      id="shadow-right"
@@ -446,7 +469,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect81" />
+       id="rect1768" />
     <rect
        x="57.857"
        y="916.36"
@@ -454,7 +477,7 @@
        height="32"
        fill="url(#linearGradient4950)"
        opacity=".35"
-       id="rect83" />
+       id="rect1770" />
     <rect
        x="56"
        y="916.36"
@@ -462,7 +485,7 @@
        height="32"
        fill="none"
        opacity="1"
-       id="rect85" />
+       id="rect1772" />
   </g>
   <rect
      id="shadow-hint-top-margin"
@@ -499,91 +522,91 @@
      transform="matrix(.375 0 0 1.3333 137.87 -1207.8)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-922.36"
-       y="-51"
+       x="-922.37305"
+       y="-51.013332"
        width="12"
        height="32"
        fill="#000000"
-       opacity=".97"
-       id="rect92" />
+       opacity="0.97"
+       id="rect1779" />
   </g>
   <g
      id="mask-topleft"
-     transform="matrix(1.6 0 0 1.6 108.2 -1450.6)">
+     transform="matrix(1.6,0,0,1.6,108.2,-1450.576)">
     <path
-       d="m23 910.36c-5.54 0-10 4.46-10 10h10z"
+       d="m 23,910.36 c -5.54,0 -10,4.46 -10,10 h 10 z"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        stroke-width="2"
-       id="path95" />
+       id="path1782" />
   </g>
   <g
      id="mask-topright"
-     transform="matrix(2 0 0 2 59 -1814.7)">
+     transform="matrix(2,0,0,2,59,-1814.72)">
     <path
-       d="m49 910.36v8h8c0-4.432-3.568-8-8-8z"
+       d="m 49,910.36 v 8 h 8 c 0,-4.432 -3.568,-8 -8,-8 z"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        stroke-width="1.6"
-       id="path98" />
+       id="path1785" />
   </g>
   <g
      id="mask-bottom"
-     transform="matrix(.375 0 0 1.6 137.87 -1477)">
+     transform="matrix(0.375,0,0,1.6,137.875,-1476.976)">
     <rect
        transform="rotate(90)"
-       x="944.36"
+       x="944.35999"
        y="-51"
        width="10"
        height="32"
        fill="#000000"
-       opacity=".97"
-       id="rect101" />
+       opacity="0.97"
+       id="rect1788" />
   </g>
   <g
      id="mask-bottomleft"
-     transform="matrix(1.3333 0 0 1.3333 111.67 -1222.5)">
+     transform="matrix(1.3333,0,0,1.3333,111.6675,-1222.4486)">
     <path
-       d="m13 942.36c0 6.648 5.352 12 12 12v-12z"
+       d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 z"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        stroke-width="2.4"
-       id="path104" />
+       id="path1791" />
   </g>
   <g
      id="mask-bottomright"
-     transform="matrix(1.3333 0 0 1.3333 97 -1222.5)">
+     transform="matrix(1.3333,0,0,1.3333,97.0015,-1222.4486)">
     <path
-       d="m45 942.36v12c6.648 0 12-5.352 12-12z"
+       d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 z"
        fill="#000000"
-       opacity=".97"
+       opacity="0.97"
        stroke-width="2.4"
-       id="path107" />
+       id="path1794" />
   </g>
   <g
      id="mask-left"
-     transform="matrix(1.3333 0 0 .60001 111.67 -531.42)">
+     transform="matrix(1.3333,0,0,0.60001,111.6675,-531.42541)">
     <rect
        transform="scale(-1,1)"
        x="-25"
-       y="922.36"
+       y="922.35999"
        width="12"
        height="20"
        fill="#000000"
-       opacity=".97"
-       id="rect110" />
+       opacity="0.97"
+       id="rect1797" />
   </g>
   <g
      id="mask-right"
-     transform="matrix(1.6 0 0 .375 81.8 -321.64)">
+     transform="matrix(1.6,0,0,0.375,81.8,-321.63499)">
     <rect
        x="47"
-       y="916.36"
+       y="916.35999"
        width="10"
        height="32"
        fill="#000000"
-       opacity=".97"
-       id="rect113" />
+       opacity="0.97"
+       id="rect1800" />
   </g>
   <rect
      id="mask-center"
@@ -601,36 +624,6 @@
      height="12"
      opacity="0"
      stroke-width=".375" />
-  <rect
-     id="thick-hint-top-margin"
-     x="69"
-     y="6"
-     width="4"
-     height="8"
-     fill="#00ff00" />
-  <rect
-     id="thick-hint-bottom-margin"
-     x="59"
-     y="42"
-     width="4"
-     height="8.0002"
-     fill="#00ff00" />
-  <rect
-     id="thick-right-margin"
-     transform="rotate(90)"
-     x="31"
-     y="-88"
-     width="4"
-     height="8"
-     fill="#00ff00" />
-  <rect
-     id="thick-hint-left-margin"
-     transform="rotate(90)"
-     x="21"
-     y="-52"
-     width="4"
-     height="8"
-     fill="#00ff00" />
   <rect
      id="shadow-hint-top-inset"
      x="69"
@@ -661,4 +654,70 @@
      width="4"
      height="12"
      fill="#ff5555" />
+  <rect
+     id="hint-top-inset"
+     height="9.9999999e-09"
+     style="fill:#00ff00"
+     width="4"
+     x="69"
+     y="8" />
+  <rect
+     id="hint-bottom-inset"
+     height="9.9999999e-09"
+     style="fill:#00ff00"
+     width="4"
+     x="59"
+     y="47" />
+  <rect
+     id="hint-left-inset"
+     height="4"
+     style="fill:#00ff00"
+     width="9.9999999e-09"
+     x="45"
+     y="21" />
+  <rect
+     id="hint-right-inset"
+     height="4"
+     style="fill:#00ff00"
+     width="9.9999999e-09"
+     x="85"
+     y="31" />
+  <rect
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     id="thick-center"
+     width="32"
+     height="32"
+     x="54"
+     y="-65"
+     class="ColorScheme-Background" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.1547"
+     id="thick-hint-right-margin"
+     width="4"
+     height="8"
+     x="-45"
+     y="-91" />
+  <rect
+     transform="rotate(90)"
+     y="-55"
+     x="-45"
+     height="8"
+     width="4"
+     id="thick-hint-left-margin"
+     style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
+  <rect
+     y="-71"
+     x="73"
+     height="8"
+     width="4"
+     id="thick-hint-top-margin"
+     style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
+  <rect
+     style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.1547"
+     id="thick-hint-bottom-margin"
+     width="4"
+     height="8"
+     x="74"
+     y="-35" />
 </svg>
