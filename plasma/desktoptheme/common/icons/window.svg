@@ -4,7 +4,7 @@
    viewBox="0 0 22 22"
    id="svg60"
    sodipodi:docname="window.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -17,16 +17,22 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="4.4595939"
-     inkscape:cx="24.217452"
-     inkscape:cy="15.472261"
-     inkscape:window-width="1440"
-     inkscape:window-height="748"
+     showgrid="true"
+     inkscape:zoom="12.613636"
+     inkscape:cx="-10.98018"
+     inkscape:cy="51.293694"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg60" />
+     inkscape:current-layer="svg60"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid316" />
+  </sodipodi:namedview>
   <g
      id="window-list">
     <path
@@ -174,9 +180,9 @@
        id="rect50" />
     <path
        class="ColorScheme-Text"
-       d="m2.5 55.289c-0.58388 0.58388-0.70253 1.6265-0.023445 2.7656l-3.1875 2.1328c-0.3963-0.15991-0.8217-0.27914-1.2422-0.28125-0.54656-0.002801-1.0781 0.16406-1.5469 0.63281l2.25 2.25-3 3-0.75 1.5 1.5-0.75 3-3 2.25 2.25c0.83022-0.83022 0.72356-1.8808 0.35156-2.7891l2.1328-3.1875c1.1391 0.67909 2.1817 0.56044 2.7656-0.023441z"
+       d="m 3.0000446,53.288915 c -0.7785156,0.778516 -0.9367174,2.168692 -0.03126,3.687509 l -4.2500487,2.843766 c -0.528406,-0.213216 -1.0956125,-0.372191 -1.6562856,-0.375004 -0.728755,-0.0037 -1.4374832,0.218749 -2.062557,0.843756 l 3.0000344,3.000034 -4.0000458,4.000046 -1.0000115,2.000023 2.0000229,-1.000011 4.0000459,-4.000046 3.0000343,3.000034 C 3.1069458,66.182049 2.9647308,64.78126 2.4687252,63.570179 L 5.3124911,59.320131 C 6.8313085,60.225594 8.2214577,60.067393 9,59.288876 Z"
        fill="currentColor"
-       stroke-width="1.5"
+       stroke-width="2.00002"
        id="path52" />
   </g>
   <g
@@ -194,9 +200,9 @@
        id="rect55" />
     <path
        class="ColorScheme-Highlight"
-       d="m-26.5 55.289c-0.58388 0.58388-0.70253 1.6265-0.02344 2.7656l-3.1875 2.1328c-0.3963-0.15991-0.8217-0.27914-1.2422-0.28125-0.54657-0.0028-1.0781 0.16406-1.5469 0.63281l2.25 2.25-3 3-0.75 1.5 1.5-0.75 3-3 2.25 2.25c0.83022-0.83022 0.72356-1.8808 0.35156-2.7891l2.1328-3.1875c1.1391 0.67909 2.1817 0.56044 2.7656-0.02344z"
+       d="m -25.999967,53.288953 c -0.778512,0.778512 -0.936713,2.168681 -0.03125,3.687492 l -4.250029,2.843752 c -0.528403,-0.213215 -1.095607,-0.372189 -1.656277,-0.375003 -0.728765,-0.0037 -1.437476,0.218748 -2.062547,0.843753 l 3.00002,3.00002 -4.000027,4.000026 -1.000007,2.000014 2.000014,-1.000007 4.000026,-4.000027 3.00002,3.00002 c 1.106968,-1.106967 0.964753,-2.50775 0.46875,-3.718824 l 2.843752,-4.250029 c 1.518811,0.90546 2.908953,0.747259 3.687492,-0.03125 z"
        fill="currentColor"
-       stroke-width="1.5"
+       stroke-width="2.00001"
        id="path57" />
   </g>
 </svg>
