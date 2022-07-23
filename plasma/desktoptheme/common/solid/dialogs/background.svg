@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,15 +20,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.38"
-     inkscape:cx="98.913043"
-     inkscape:cy="65.217391"
-     inkscape:window-width="1440"
-     inkscape:window-height="754"
+     inkscape:zoom="5.52"
+     inkscape:cx="23.097826"
+     inkscape:cy="32.699275"
+     inkscape:window-width="1600"
+     inkscape:window-height="815"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg128" />
+     inkscape:current-layer="svg128"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs21">
     <style
@@ -497,8 +499,7 @@
      width="42"
      height="42"
      class="ColorScheme-ButtonBackground"
-     fill="currentColor"
-     style="stroke-width:1" />
+     fill="currentColor" />
   <g
      id="topleft"
      transform="matrix(0,2,2,0,-74.878,15)">

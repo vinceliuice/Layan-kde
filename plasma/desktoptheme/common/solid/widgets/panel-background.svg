@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg1813"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,13 +22,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="7.9999999"
-     inkscape:cx="28.1875"
-     inkscape:cy="6.2500001"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:zoom="4"
+     inkscape:cx="68.125001"
+     inkscape:cy="-9.1250001"
+     inkscape:window-width="1600"
+     inkscape:window-height="815"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1813">
     <inkscape:grid
@@ -226,9 +226,7 @@
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="rect1718"
-       style="opacity:1" />
+       id="rect1718" />
   </g>
   <g
      id="topleft"
@@ -237,9 +235,7 @@
        d="m 25,910.36 c -6.648,0 -12,5.352 -12,12 h 12 v -10 z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="path1721"
-       style="opacity:1" />
+       id="path1721" />
   </g>
   <g
      id="topright"
@@ -263,9 +259,7 @@
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="rect1727"
-       style="opacity:1" />
+       id="rect1727" />
   </g>
   <g
      id="bottomleft"
@@ -274,9 +268,7 @@
        d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 H 15 Z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="path1730"
-       style="opacity:1" />
+       id="path1730" />
   </g>
   <g
      id="bottomright"
@@ -285,9 +277,7 @@
        d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 H 47 Z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="path1733"
-       style="opacity:1" />
+       id="path1733" />
   </g>
   <g
      id="left"
@@ -300,9 +290,7 @@
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="rect1736"
-       style="opacity:1" />
+       id="rect1736" />
   </g>
   <g
      id="right"
@@ -314,9 +302,7 @@
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="rect1739"
-       style="opacity:1" />
+       id="rect1739" />
   </g>
   <rect
      id="center"
@@ -325,9 +311,7 @@
      width="12"
      height="12"
      class="ColorScheme-Background"
-     fill="currentColor"
-     opacity=".6"
-     style="opacity:1" />
+     fill="currentColor" />
   <rect
      id="hint-top-margin"
      x="64"
