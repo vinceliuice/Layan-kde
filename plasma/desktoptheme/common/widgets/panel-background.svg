@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg1813"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,13 +22,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-12.551145"
-     inkscape:cy="-32.173358"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:zoom="4"
+     inkscape:cx="115"
+     inkscape:cy="-10"
+     inkscape:window-width="1368"
+     inkscape:window-height="696"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1813">
     <inkscape:grid
@@ -519,7 +519,8 @@
        height="32"
        fill="#000000"
        opacity="0.97"
-       id="rect1779" />
+       id="rect1779"
+       style="opacity:1" />
   </g>
   <g
      id="mask-topleft"
@@ -529,7 +530,8 @@
        fill="#000000"
        opacity="0.97"
        stroke-width="2"
-       id="path1782" />
+       id="path1782"
+       style="opacity:1" />
   </g>
   <g
      id="mask-topright"
@@ -539,7 +541,8 @@
        fill="#000000"
        opacity="0.97"
        stroke-width="1.6"
-       id="path1785" />
+       id="path1785"
+       style="opacity:1" />
   </g>
   <g
      id="mask-bottom"
@@ -552,7 +555,8 @@
        height="32"
        fill="#000000"
        opacity="0.97"
-       id="rect1788" />
+       id="rect1788"
+       style="opacity:1" />
   </g>
   <g
      id="mask-bottomleft"
@@ -562,7 +566,8 @@
        fill="#000000"
        opacity="0.97"
        stroke-width="2.4"
-       id="path1791" />
+       id="path1791"
+       style="opacity:1" />
   </g>
   <g
      id="mask-bottomright"
@@ -572,7 +577,8 @@
        fill="#000000"
        opacity="0.97"
        stroke-width="2.4"
-       id="path1794" />
+       id="path1794"
+       style="opacity:1" />
   </g>
   <g
      id="mask-left"
@@ -585,7 +591,8 @@
        height="20"
        fill="#000000"
        opacity="0.97"
-       id="rect1797" />
+       id="rect1797"
+       style="opacity:1" />
   </g>
   <g
      id="mask-right"
@@ -597,7 +604,8 @@
        height="32"
        fill="#000000"
        opacity="0.97"
-       id="rect1800" />
+       id="rect1800"
+       style="opacity:1" />
   </g>
   <rect
      id="mask-center"
@@ -606,7 +614,8 @@
      width="12"
      height="12"
      fill="#000000"
-     opacity=".97" />
+     opacity=".97"
+     style="opacity:1" />
   <rect
      id="shadow-center"
      x="60"

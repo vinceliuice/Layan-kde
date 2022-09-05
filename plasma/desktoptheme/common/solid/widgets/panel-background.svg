@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="68.125001"
-     inkscape:cy="-9.1250001"
-     inkscape:window-width="1600"
-     inkscape:window-height="815"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="153.44217"
+     inkscape:cy="-15.556349"
+     inkscape:window-width="1368"
+     inkscape:window-height="696"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -244,9 +244,7 @@
        d="m 45,910.36 v 12 h 12 c 0,-6.648 -5.352,-12 -12,-12 z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity="0.6"
-       id="path1724"
-       style="opacity:1" />
+       id="path1724" />
   </g>
   <g
      id="bottom"
@@ -510,8 +508,6 @@
        y="-51.013332"
        width="12"
        height="32"
-       fill="#000000"
-       opacity="0.97"
        id="rect1779" />
   </g>
   <g
@@ -519,9 +515,6 @@
      transform="matrix(1.6,0,0,1.6,108.2,-1450.576)">
     <path
        d="m 23,910.36 c -5.54,0 -10,4.46 -10,10 h 10 z"
-       fill="#000000"
-       opacity="0.97"
-       stroke-width="2"
        id="path1782" />
   </g>
   <g
@@ -529,9 +522,6 @@
      transform="matrix(2,0,0,2,59,-1814.72)">
     <path
        d="m 49,910.36 v 8 h 8 c 0,-4.432 -3.568,-8 -8,-8 z"
-       fill="#000000"
-       opacity="0.97"
-       stroke-width="1.6"
        id="path1785" />
   </g>
   <g
@@ -543,8 +533,6 @@
        y="-51"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
        id="rect1788" />
   </g>
   <g
@@ -552,9 +540,6 @@
      transform="matrix(1.3333,0,0,1.3333,111.6675,-1222.4486)">
     <path
        d="m 13,942.36 c 0,6.648 5.352,12 12,12 v -12 z"
-       fill="#000000"
-       opacity="0.97"
-       stroke-width="2.4"
        id="path1791" />
   </g>
   <g
@@ -562,9 +547,6 @@
      transform="matrix(1.3333,0,0,1.3333,97.0015,-1222.4486)">
     <path
        d="m 45,942.36 v 12 c 6.648,0 12,-5.352 12,-12 z"
-       fill="#000000"
-       opacity="0.97"
-       stroke-width="2.4"
        id="path1794" />
   </g>
   <g
@@ -575,10 +557,8 @@
        x="-25"
        y="922.35999"
        width="12"
-       height="20"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1797" />
+       id="rect1797"
+       height="20" />
   </g>
   <g
      id="mask-right"
@@ -588,8 +568,6 @@
        y="916.35999"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
        id="rect1800" />
   </g>
   <rect
@@ -597,9 +575,7 @@
      x="145"
      y="22"
      width="12"
-     height="12"
-     fill="#000000"
-     opacity=".97" />
+     height="12" />
   <rect
      id="shadow-center"
      x="60"
@@ -667,7 +643,7 @@
      x="85"
      y="31" />
   <rect
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     style="fill:currentColor"
      id="thick-center"
      width="32"
      height="32"
