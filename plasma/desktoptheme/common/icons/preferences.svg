@@ -18,16 +18,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="1.8963318"
-     inkscape:cx="0.79100081"
-     inkscape:cy="0.26366694"
-     inkscape:window-width="1200"
-     inkscape:window-height="675"
-     inkscape:window-x="200"
-     inkscape:window-y="72"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg" />
+     showgrid="true"
+     inkscape:zoom="2.6818181"
+     inkscape:cx="-34.864407"
+     inkscape:cy="9.5084747"
+     inkscape:window-width="1368"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="preferences-desktop-display-randr">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1250" />
+  </sodipodi:namedview>
   <defs
      id="defs3">
     <style
@@ -167,24 +171,21 @@
          x="-35"
          y="24"
          width="16"
-         height="1"
-         rx="0"
-         ry=".5"
-         stroke-width="1.1547"
+         height="2"
+         rx="1"
+         ry="1"
          id="rect42" />
       <path
-         d="m-38 3c-1.662 0-3 1.338-3 3v14c0 1.662 1.338 3 3 3h22c1.662 0 3-1.338 3-3v-14c0-1.662-1.338-3-3-3zm0 1h22c1.108 0 2 0.892 2 2v14c0 1.108-0.892 2-2 2h-22c-1.108 0-2-0.892-2-2v-14c0-1.108 0.892-2 2-2z"
-         stroke-width="1.547"
-         id="path44" />
+         id="path44"
+         d="M -38 3 C -39.661998 3 -41 4.3380017 -41 6 L -41 20 C -41 21.661998 -39.661998 23 -38 23 L -16 23 C -14.338002 23 -13 21.661998 -13 20 L -13 6 C -13 4.3380017 -14.338002 3 -16 3 L -38 3 z M -38 5 L -16 5 C -15.446001 5 -15 5.4460006 -15 6 L -15 20 C -15 20.553999 -15.446001 21 -16 21 L -38 21 C -38.553999 21 -39 20.553999 -39 20 L -39 6 C -39 5.4460006 -38.553999 5 -38 5 z " />
       <rect
-         x="-40"
-         y="4"
-         width="26"
-         height="18"
-         rx="2"
-         ry="2"
-         opacity=".35"
-         stroke-width="1.4142"
+         x="-39"
+         y="5"
+         width="24"
+         height="16"
+         rx="1"
+         ry="1"
+         opacity="0.35"
          id="rect46" />
     </g>
   </g>
