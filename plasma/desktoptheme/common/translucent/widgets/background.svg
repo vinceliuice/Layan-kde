@@ -6,7 +6,7 @@
    viewBox="0 0 220 220"
    id="svg86"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,22 +14,24 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview88"
-     pagecolor="#ffffff"
+     pagecolor="#d1d1d1"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="true"
-     inkscape:zoom="7.3362328"
-     inkscape:cx="57.250091"
-     inkscape:cy="161.25442"
-     inkscape:window-width="1440"
-     inkscape:window-height="750"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="3.6681164"
+     inkscape:cx="85.329898"
+     inkscape:cy="35.849462"
+     inkscape:window-width="1368"
+     inkscape:window-height="698"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg86">
+     inkscape:current-layer="svg86"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid922" />
@@ -227,7 +229,7 @@
        height="32"
        id="rect1130"
        fill="currentColor"
-       style="opacity:0.8;stroke-width:1.29099" />
+       style="opacity:0.96;stroke-width:1.29099" />
   </g>
   <g
      id="bottom"
@@ -249,7 +251,7 @@
        height="32"
        id="rect1140"
        fill="currentColor"
-       style="opacity:0.8;stroke-width:1.29099" />
+       style="opacity:0.96;stroke-width:1.29099" />
   </g>
   <g
      id="right"
@@ -271,7 +273,7 @@
        height="32"
        id="rect1150"
        fill="currentColor"
-       style="opacity:0.8;stroke-width:1.29099" />
+       style="opacity:0.96;stroke-width:1.29099" />
   </g>
   <g
      id="topleft"
@@ -290,7 +292,7 @@
        id="path19"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
     <path
        id="path932"
        style="opacity:0.1;fill:#ffffff"
@@ -324,7 +326,7 @@
        height="32"
        id="rect23"
        fill="currentColor"
-       style="opacity:0.8;stroke-width:1.29099" />
+       style="opacity:0.96;stroke-width:1.29099" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-907.35999"
@@ -352,7 +354,7 @@
        height="32"
        id="rect45"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
   </g>
   <g
      fill="#ff00ff"
@@ -433,7 +435,7 @@
        id="path1254"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
   </g>
   <g
      id="bottomright"
@@ -452,7 +454,7 @@
        id="path1242"
        class="ColorScheme-Background"
        fill="currentColor"
-       style="opacity:0.8" />
+       style="opacity:0.96" />
   </g>
   <g
      id="shadow-top"
