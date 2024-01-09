@@ -5,7 +5,7 @@
    version="1"
    id="svg128"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,18 +20,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="53.25"
-     inkscape:cy="152.75"
+     inkscape:zoom="16"
+     inkscape:cx="31.6875"
+     inkscape:cy="39.28125"
      inkscape:window-width="1440"
      inkscape:window-height="754"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg128">
+     inkscape:current-layer="svg128"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid934" />
+       id="grid934"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs21">
@@ -276,8 +284,8 @@
        d="m190 252h50v6.998h-50z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path48" />
+       id="path48"
+       style="opacity:0.8" />
     <path
        d="m190 252h50v0.87475h-50z"
        fill="#ffffff"
@@ -427,8 +435,8 @@
        d="m183 259v50l7 1e-5v-50z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path94" />
+       id="path94"
+       style="opacity:0.8" />
   </g>
   <g
      id="left"
@@ -437,8 +445,8 @@
        d="m247 259v50l-7 1e-5v-50z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path97" />
+       id="path97"
+       style="opacity:0.8" />
   </g>
   <g
      id="bottom"
@@ -447,8 +455,8 @@
        d="m190 252h50v6.9999h-50z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path100" />
+       id="path100"
+       style="opacity:0.8" />
   </g>
   <g
      id="topright">
@@ -456,8 +464,8 @@
        d="m71 20.999a8 8 0 0 1 8 8h-8z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path103" />
+       id="path103"
+       style="opacity:0.8" />
     <path
        d="m71 20.998v1a8 8 0 0 1 7.9355 7h0.064453a8 8 0 0 0-8-8z"
        fill="#ffffff"
@@ -470,8 +478,8 @@
        d="m29 79a8 8 0 0 1-8-8h8z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path108" />
+       id="path108"
+       style="opacity:0.8" />
   </g>
   <g
      id="bottomright"
@@ -480,8 +488,8 @@
        d="m3.0005 51.939a3.9995 3.9995 0 0 1 3.9995-3.9995v3.9995z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path111" />
+       id="path111"
+       style="opacity:0.8" />
   </g>
   <rect
      id="center"
@@ -492,7 +500,7 @@
      height="42"
      class="ColorScheme-Background"
      fill="currentColor"
-     opacity=".6" />
+     style="opacity:0.8" />
   <rect
      id="shadow-hint-left-margin"
      x="-9"
@@ -528,8 +536,8 @@
        d="m7 47.939a4 4 0 0 0-4 4h4z"
        class="ColorScheme-Background"
        fill="currentColor"
-       opacity=".6"
-       id="path119" />
+       id="path119"
+       style="opacity:0.8" />
     <path
        transform="matrix(0 .5 .5 0 -7.5 37.439)"
        d="m29 21a8 8 0 0 0-8 8h0.068359a8 8 0 0 1 7.9316-7v-1z"
