@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Id": "Layan-light",
+        "License": "CC BY-NC-SA 3.0",
+        "Name": "Layan light"
+    }
+}
