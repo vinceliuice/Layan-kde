@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            }
+        ],
+        "Category": "",
+        "Description": "Layan theme for kde plasma",
+        "Id": "com.github.vinceliuice.Layan",
+        "License": "GPLv3",
+        "Name": "Layan",
+        "Website": "https://github.com/vinceliuice/Layan-kde",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+        "X-Plasma-APIVersion": "2"
+    }
+}
