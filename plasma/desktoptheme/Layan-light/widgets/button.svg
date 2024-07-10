@@ -5,7 +5,7 @@
    version="1.0"
    id="svg260"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,18 +23,26 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:zoom="3.6822919"
-     inkscape:cx="140.13012"
-     inkscape:cy="102.11032"
-     inkscape:window-width="1440"
-     inkscape:window-height="750"
+     inkscape:zoom="7.3645838"
+     inkscape:cx="130.89674"
+     inkscape:cy="166.33662"
+     inkscape:window-width="1920"
+     inkscape:window-height="956"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg260">
+     inkscape:current-layer="svg260"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid1115" />
+       id="grid1115"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs17">
@@ -992,4 +1000,20 @@
      width="2"
      height="6"
      fill="#4e9a06" />
+  <path
+     id="pressed-hint-top-margin"
+     d="m 134,156 h 2 v 6 h -2 z"
+     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+  <path
+     id="pressed-hint-bottom-margin"
+     d="m 134,188 h 2 v 6 h -2 z"
+     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+  <path
+     id="pressed-hint-left-margin"
+     d="m 104,174 h 6 v 2 h -6 z"
+     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
+  <path
+     id="pressed-hint-right-margin"
+     d="m 158,174 h 6 v 2 h -6 z"
+     style="fill:#ff00ff;fill-rule:evenodd;stroke-width:0.999996" />
 </svg>

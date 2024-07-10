@@ -7,8 +7,6 @@
             }
         ],
         "Category": "",
-        "Dependencies": [
-        ],
         "EnabledByDefault": true,
         "Id": "Layan",
         "License": "GPL v3",
