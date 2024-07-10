@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=Layan-light
+Description=Layan Theme
+Author=Vince Liuice
+Copyright=(c) 2019, Vince Liuice
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1.0
+Website=https://github.com/vinceliuice/Layan-kde
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=vinceliuice@hotmail.com
+Theme-Id=Layan-light
+Theme-API=2.0
+QtVersion=6
