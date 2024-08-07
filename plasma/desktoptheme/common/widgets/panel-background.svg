@@ -22,13 +22,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#ffffff"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="82.466328"
-     inkscape:cy="50.469747"
+     inkscape:zoom="4"
+     inkscape:cx="82.250001"
+     inkscape:cy="-1.25"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="950"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1813">
     <inkscape:grid
@@ -141,7 +141,7 @@
      transform="matrix(0.375,0,0,1.6666667,51.875,-1506.2669)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-916.35999"
+       x="-916.36"
        y="-51"
        width="6"
        height="32"
@@ -175,7 +175,7 @@
      transform="matrix(0.375,0,0,1.6666667,51.875,-1545.6)">
     <rect
        transform="rotate(90)"
-       x="948.35999"
+       x="948.36"
        y="-51"
        width="6"
        height="32"
@@ -210,7 +210,7 @@
     <rect
        transform="scale(-1,1)"
        x="-19"
-       y="916.35999"
+       y="916.36"
        width="6"
        height="32"
        class="ColorScheme-Background"
@@ -223,7 +223,7 @@
      transform="matrix(1.6666667,0,0,0.375,-13.000002,-321.63499)">
     <rect
        x="51"
-       y="916.35999"
+       y="916.36"
        width="6"
        height="32"
        class="ColorScheme-Background"
@@ -234,7 +234,7 @@
   <rect
      id="center"
      x="59"
-     y="21.999998"
+     y="22"
      width="12"
      height="12"
      class="ColorScheme-Background"
@@ -266,13 +266,10 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-922.37305"
-       y="-51.013332"
+       y="-51"
        width="12"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1779"
-       style="opacity:1" />
+       id="rect1779" />
   </g>
   <g
      id="mask-topleft"
@@ -283,7 +280,6 @@
        style="fill:none" />
     <path
        d="m 23,911.36 c -4.986,0 -9,4.014 -9,9 h 9 z"
-       fill="#000000"
        id="path1782" />
   </g>
   <g
@@ -291,14 +287,11 @@
      transform="matrix(0.375,0,0,1,116.875,-909.35999)">
     <rect
        transform="rotate(90)"
-       x="944.35999"
+       x="944.36"
        y="-51"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1788"
-       style="opacity:1" />
+       id="rect1788" />
   </g>
   <g
      id="mask-left"
@@ -306,26 +299,20 @@
     <rect
        transform="scale(-1,1)"
        x="-25"
-       y="922.35999"
+       y="922.36"
        width="12"
        height="20"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1797"
-       style="opacity:1" />
+       id="rect1797" />
   </g>
   <g
      id="mask-right"
      transform="matrix(1,0,0,0.375,90,-321.63499)">
     <rect
        x="47"
-       y="916.35999"
+       y="916.36"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1800"
-       style="opacity:1" />
+       id="rect1800" />
   </g>
   <rect
      id="mask-center"
@@ -343,7 +330,7 @@
      opacity="0"
      stroke-width=".375" />
   <rect
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     style="fill:currentColor;fill-opacity:1"
      id="thick-center"
      width="32"
      height="32"

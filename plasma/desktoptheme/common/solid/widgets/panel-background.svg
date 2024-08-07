@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg1813"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,18 +22,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#ffffff"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="62.53125"
-     inkscape:cy="23.4375"
+     inkscape:zoom="11.313708"
+     inkscape:cx="58.689863"
+     inkscape:cy="37.918601"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="966"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1813">
     <inkscape:grid
        type="xygrid"
-       id="grid2179" />
+       id="grid2179"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs1703">
@@ -135,14 +141,13 @@
      transform="matrix(0.375,0,0,1.6666667,51.875,-1506.2669)">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       x="-916.35999"
+       x="-916.36"
        y="-51"
        width="6"
        height="32"
        class="ColorScheme-Background"
        fill="currentColor"
-       id="rect1718"
-       style="opacity:1" />
+       id="rect1718" />
   </g>
   <g
      id="topleft"
@@ -167,7 +172,7 @@
      transform="matrix(0.375,0,0,1.6666667,51.875,-1545.6)">
     <rect
        transform="rotate(90)"
-       x="948.35999"
+       x="948.36"
        y="-51"
        width="6"
        height="32"
@@ -199,7 +204,7 @@
     <rect
        transform="scale(-1,1)"
        x="-19"
-       y="916.35999"
+       y="916.36"
        width="6"
        height="32"
        class="ColorScheme-Background"
@@ -211,7 +216,7 @@
      transform="matrix(1.6666667,0,0,0.375,-13.000002,-321.63499)">
     <rect
        x="51"
-       y="916.35999"
+       y="916.36"
        width="6"
        height="32"
        class="ColorScheme-Background"
@@ -252,13 +257,10 @@
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        x="-922.37305"
-       y="-51.013332"
+       y="-51"
        width="12"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1779"
-       style="opacity:1" />
+       id="rect1779" />
   </g>
   <g
      id="mask-topleft"
@@ -269,7 +271,6 @@
        style="fill:none" />
     <path
        d="m 23,911.36 c -4.986,0 -9,4.014 -9,9 h 9 z"
-       fill="#000000"
        id="path1782" />
   </g>
   <g
@@ -277,14 +278,11 @@
      transform="matrix(0.375,0,0,1,116.875,-909.35999)">
     <rect
        transform="rotate(90)"
-       x="944.35999"
+       x="944.36"
        y="-51"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1788"
-       style="opacity:1" />
+       id="rect1788" />
   </g>
   <g
      id="mask-left"
@@ -292,26 +290,20 @@
     <rect
        transform="scale(-1,1)"
        x="-25"
-       y="922.35999"
+       y="922.36"
        width="12"
        height="20"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1797"
-       style="opacity:1" />
+       id="rect1797" />
   </g>
   <g
      id="mask-right"
      transform="matrix(1,0,0,0.375,90,-321.63499)">
     <rect
        x="47"
-       y="916.35999"
+       y="916.36"
        width="10"
        height="32"
-       fill="#000000"
-       opacity="0.97"
-       id="rect1800"
-       style="opacity:1" />
+       id="rect1800" />
   </g>
   <rect
      id="mask-center"
@@ -329,7 +321,7 @@
      opacity="0"
      stroke-width=".375" />
   <rect
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stop-color:#eff0f1"
+     style="fill:currentColor;fill-opacity:1"
      id="thick-center"
      width="32"
      height="32"
@@ -405,12 +397,11 @@
   <rect
      id="hint-left-margin"
      transform="rotate(90)"
-     x="28.999998"
+     x="29"
      y="-54"
      width="4"
      height="6"
-     fill="#ff00ff"
-     stroke-width="1.4142" />
+     fill="#ff00ff" />
   <rect
      id="shadow-hint-left-margin"
      transform="rotate(90)"
@@ -437,12 +428,11 @@
   <rect
      id="hint-right-margin"
      transform="rotate(90)"
-     x="23.999998"
+     x="24"
      y="-82"
      width="4"
      height="6"
-     fill="#ff00ff"
-     stroke-width="1.4142" />
+     fill="#ff00ff" />
   <rect
      id="shadow-hint-right-margin"
      transform="rotate(90)"
@@ -472,8 +462,7 @@
      y="39"
      width="4"
      height="6"
-     fill="#ff00ff"
-     stroke-width="1.4142" />
+     fill="#ff00ff" />
   <rect
      id="shadow-hint-bottom-margin"
      x="65"
@@ -498,11 +487,10 @@
   <rect
      id="hint-top-margin"
      x="61"
-     y="10.999999"
+     y="11"
      width="4"
      height="6"
-     fill="#ff00ff"
-     stroke-width="1.4142" />
+     fill="#ff00ff" />
   <rect
      id="shadow-hint-top-margin"
      x="61"
