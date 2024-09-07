@@ -6,7 +6,7 @@
    viewBox="0 0 220 220"
    id="svg86"
    sodipodi:docname="background.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,20 +21,27 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      showgrid="false"
-     inkscape:zoom="3.6681164"
-     inkscape:cx="85.329898"
-     inkscape:cy="35.849462"
-     inkscape:window-width="1368"
-     inkscape:window-height="698"
+     inkscape:zoom="2.59375"
+     inkscape:cx="84.819277"
+     inkscape:cy="114.50602"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg86"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid922" />
+       id="grid922"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs13">
@@ -116,7 +123,7 @@
        cx="19"
        cy="12"
        r="6"
-       gradientTransform="matrix(1.3182e-4,-3.5001,3.4999,1.3185e-4,-10.002,185.50101)"
+       gradientTransform="matrix(1.3182e-4,-3.5001,3.4999,1.3185e-4,-23.002,982.861)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#a" />
     <linearGradient
@@ -208,6 +215,24 @@
        y1="-35"
        x2="-905.35999"
        y2="-35" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3182e-4,-3.5001,3.4999,1.3185e-4,-23.002,982.861)"
+       cx="19"
+       cy="12"
+       r="6" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="radialGradient2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3182e-4,-3.5001,3.4999,1.3185e-4,-23.002,982.861)"
+       cx="19"
+       cy="12"
+       r="6" />
   </defs>
   <g
      id="left"
@@ -680,15 +705,10 @@
   <g
      id="blurred-topleft"
      transform="translate(13,-775.36)">
-    <g
-       fill-rule="evenodd"
-       id="g17-5">
-      <path
-         id="path15-3"
-         style="opacity:0.15;fill:url(#radialGradient1259-7)"
-         d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
-         transform="translate(-13,797.35999)" />
-    </g>
+    <path
+       id="path15-3"
+       style="opacity:0.15;fill:url(#radialGradient1259-7);fill-rule:evenodd"
+       d="m -5,892.35999 v 24 H 9 c 0,-5.54 4.46,-10 10,-10 v -14 z" />
     <path
        d="m 19,906.36 c -5.54,0 -10,4.46 -10,10 h 10 v -8.33333 z"
        id="path19-6"
@@ -792,15 +812,10 @@
   <g
      id="blurred-bottomleft"
      transform="rotate(-90,-346.17999,538.17999)">
-    <g
-       fill-rule="evenodd"
-       id="g1814">
-      <path
-         id="path1812"
-         style="opacity:0.15;fill:url(#radialGradient1259-7)"
-         d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
-         transform="translate(-13,797.35999)" />
-    </g>
+    <path
+       id="path1812"
+       style="opacity:0.15;fill:url(#radialGradient2);fill-rule:evenodd"
+       d="m -5,892.35999 v 24 H 9 c 0,-5.54 4.46,-10 10,-10 v -14 z" />
     <path
        d="m 19,906.36 c -5.54,0 -10,4.46 -10,10 h 10 v -8.33333 z"
        id="path1816"
@@ -811,15 +826,10 @@
   <g
      id="blurred-bottomright"
      transform="rotate(180,41.49999,544.67999)">
-    <g
-       fill-rule="evenodd"
-       id="g1824">
-      <path
-         id="path1822"
-         style="opacity:0.15;fill:url(#radialGradient1259-7)"
-         d="m 8,95 v 24 h 14 c 0,-5.54 4.46,-10 10,-10 V 95 Z"
-         transform="translate(-13,797.35999)" />
-    </g>
+    <path
+       id="path1822"
+       style="opacity:0.15;fill:url(#radialGradient1);fill-rule:evenodd"
+       d="m -5,892.35999 v 24 H 9 c 0,-5.54 4.46,-10 10,-10 v -14 z" />
     <path
        d="m 19,906.36 c -5.54,0 -10,4.46 -10,10 h 10 v -8.33333 z"
        id="path1826"
@@ -927,22 +937,13 @@
   <g
      id="blurred-mask-topleft"
      transform="translate(125.99998,-779.36001)">
-    <g
-       fill-rule="evenodd"
-       id="g17-0">
-      <path
-         transform="translate(0,904.36)"
-         d="M -5,-12 V 12 H 13 C 13,8.676 15.676,6 19,6 V -12 Z"
-         fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
-         id="path15-9"
-         style="opacity:0.2;fill:none" />
-    </g>
     <path
-       d="m 19,906.36002 c -5.539989,0 -9.99998,4.45999 -9.99998,9.99998 H 19 v -8.33332 z"
-       id="path19-3"
-       style="opacity:1;fill:#000000;stroke-width:1.66666" />
+       d="m -5,892.36 v 24 h 18 c 0,-3.324 2.676,-6 6,-6 v -18 z"
+       id="path15-9"
+       style="fill:none" />
+    <path
+       d="m 19,907.36002 c -4.985989,0 -8.99998,4.01399 -8.99998,8.99998 H 19 v -7.49999 z"
+       id="path19-3" />
   </g>
   <g
      id="blurred-mask-top"
@@ -988,61 +989,34 @@
   <g
      id="blurred-mask-topright"
      transform="matrix(-1,0,0,1,196,-779.36001)">
-    <g
-       fill-rule="evenodd"
-       id="g2252">
-      <path
-         transform="translate(0,904.36)"
-         d="M -5,-12 V 12 H 13 C 13,8.676 15.676,6 19,6 V -12 Z"
-         fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
-         id="path2248"
-         style="opacity:0.2;fill:none" />
-    </g>
     <path
-       d="m 19,906.36 c -5.54,0 -10,4.46 -10,10 h 10 v -8.33333 z"
-       id="path2254"
-       style="opacity:1;fill:#000000;stroke-width:1.66667" />
+       d="m -5,892.36 v 24 h 18 c 0,-3.324 2.676,-6 6,-6 v -18 z"
+       id="path2248"
+       style="fill:none" />
+    <path
+       d="m 19,907.36 c -4.986,0 -9,4.014 -9,9 h 9 v -7.5 z"
+       id="path2254" />
   </g>
   <g
      id="blurred-mask-bottomleft"
      transform="rotate(-90,-291.68,479.67998)">
-    <g
-       fill-rule="evenodd"
-       id="g2240">
-      <path
-         transform="translate(0,904.36)"
-         d="M -5,-12 V 12 H 13 C 13,8.676 15.676,6 19,6 V -12 Z"
-         fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
-         id="path2236"
-         style="opacity:0.2;fill:none" />
-    </g>
     <path
-       d="m 19,906.35998 c -5.540011,0 -10.00002,4.46001 -10.00002,10.00002 H 19 v -8.33335 z"
-       id="path2242"
-       style="opacity:1;fill:#000000;stroke-width:1.66667" />
+       d="m -5,892.36 v 24 h 18 c 0,-3.324 2.676,-6 6,-6 v -18 z"
+       id="path2236"
+       style="fill:none" />
+    <path
+       d="m 19,907.35998 c -4.986011,0 -9.00002,4.01401 -9.00002,9.00002 H 19 v -7.50002 z"
+       id="path2242" />
   </g>
   <g
      id="blurred-mask-bottomright"
      transform="rotate(180,97.999984,542.67997)">
-    <g
-       fill-rule="evenodd"
-       id="g2228">
-      <path
-         transform="translate(0,904.36)"
-         d="M -5,-12 V 12 H 13 C 13,8.676 15.676,6 19,6 V -12 Z"
-         fill="url(#radialGradient1259)"
-         opacity=".1"
-         stroke-width="2"
-         id="path2224"
-         style="opacity:0.2;fill:none" />
-    </g>
     <path
-       d="m 19,906.35997 c -5.540018,0 -10.000032,4.46001 -10.000032,10.00003 H 19 v -8.33336 z"
-       id="path2230"
-       style="opacity:1;fill:#000000;stroke-width:1.66667" />
+       d="m -5,892.36 v 24 h 18 c 0,-3.324 2.676,-6 6,-6 v -18 z"
+       id="path2224"
+       style="fill:none" />
+    <path
+       d="m 19,907.35994 c -4.986034,0 -9.0000618,4.01402 -9.0000618,9.00006 H 19 v -7.50005 z"
+       id="path2230" />
   </g>
 </svg>
