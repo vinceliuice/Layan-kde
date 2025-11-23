@@ -6,7 +6,7 @@
    viewBox="0 0 173 56"
    id="svg1813"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,15 +22,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#ffffff"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="82.250001"
-     inkscape:cy="-1.25"
+     inkscape:zoom="16"
+     inkscape:cx="62.9375"
+     inkscape:cy="16.65625"
      inkscape:window-width="1920"
-     inkscape:window-height="950"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1813">
+     inkscape:current-layer="svg1813"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2179"
@@ -148,7 +149,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="rect1718"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="topleft"
@@ -158,7 +159,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="path1721"
-       style="stroke-width:0.624991;opacity:0.8" />
+       style="stroke-width:0.624991;opacity:0.6" />
   </g>
   <g
      id="topright"
@@ -168,7 +169,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="path1724"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="bottom"
@@ -182,7 +183,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="rect1727"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="bottomleft"
@@ -192,7 +193,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="path1730"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="bottomright"
@@ -202,7 +203,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="path1733"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="left"
@@ -216,7 +217,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="rect1736"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <g
      id="right"
@@ -229,7 +230,7 @@
        class="ColorScheme-Background"
        fill="currentColor"
        id="rect1739"
-       style="opacity:0.8" />
+       style="opacity:0.6" />
   </g>
   <rect
      id="center"
@@ -239,7 +240,7 @@
      height="12"
      class="ColorScheme-Background"
      fill="currentColor"
-     style="opacity:0.8" />
+     style="opacity:0.6" />
   <g
      id="shadow-top"
      transform="translate(-1,4.9999989)">
