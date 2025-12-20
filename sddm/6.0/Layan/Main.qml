@@ -209,28 +209,28 @@ Item {
                 actionItemsVisible: !inputPanel.keyboardActive
                 actionItems: [
                     ActionButton {
-                        icon.name: "/usr/share/sddm/themes/Layan/assets/suspend_primary.svgz"
+                        icon.name: Qt.resolvedUrl("assets/suspend_primary.svgz")
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "Suspend to RAM", "Sleep")
                         font.pointSize: parseInt(config.fontSize) + 1
                         onClicked: sddm.suspend()
                         enabled: sddm.canSuspend
                     },
                     ActionButton {
-                        icon.name: "/usr/share/sddm/themes/Layan/assets/restart_primary.svgz"
+                        icon.name: Qt.resolvedUrl("assets/restart_primary.svgz")
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Restart")
                         font.pointSize: parseInt(config.fontSize) + 1
                         onClicked: sddm.reboot()
                         enabled: sddm.canReboot
                     },
                     ActionButton {
-                        icon.name: "/usr/share/sddm/themes/Layan/assets/shutdown_primary.svgz"
+                        icon.name: Qt.resolvedUrl("assets/shutdown_primary.svgz")
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel", "Shut Down")
                         font.pointSize: parseInt(config.fontSize) + 1
                         onClicked: sddm.powerOff()
                         enabled: sddm.canPowerOff
                     },
                     ActionButton {
-                        icon.name: "/usr/share/sddm/themes/Layan/assets/switch_primary.svgz"
+                        icon.name: Qt.resolvedUrl("assets/switch_primary.svgz")
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "For switching to a username and password prompt", "Other…")
                         font.pointSize: parseInt(config.fontSize) + 1
                         onClicked: mainStack.push(userPromptComponent)

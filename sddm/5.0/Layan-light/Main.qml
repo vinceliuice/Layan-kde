@@ -202,28 +202,28 @@ PlasmaCore.ColorScope {
 
                 actionItems: [
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Layan-light/assets/suspend_primary.svgz"
+                        iconSource: Qt.resolvedUrl("assets/suspend_primary.svgz")
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel","Suspend to RAM","Sleep")
                         onClicked: sddm.suspend()
                         enabled: sddm.canSuspend
                         visible: !inputPanel.keyboardActive
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Layan-light/assets/restart_primary.svgz"
+                        iconSource: Qt.resolvedUrl("assets/restart_primary.svgz")
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Restart")
                         onClicked: sddm.reboot()
                         enabled: sddm.canReboot
                         visible: !inputPanel.keyboardActive
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Layan-light/assets/shutdown_primary.svgz"
+                        iconSource: Qt.resolvedUrl("assets/shutdown_primary.svgz")
                         text: i18nd("plasma_lookandfeel_org.kde.lookandfeel","Shut Down")
                         onClicked: sddm.powerOff()
                         enabled: sddm.canPowerOff
                         visible: !inputPanel.keyboardActive
                     },
                     ActionButton {
-                        iconSource: "/usr/share/sddm/themes/Layan-light/assets/switch_primary.svgz"
+                        iconSource: Qt.resolvedUrl("assets/switch_primary.svgz")
                         text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "For switching to a username and password prompt", "Other...")
                         onClicked: mainStack.push(userPromptComponent)
                         enabled: true
