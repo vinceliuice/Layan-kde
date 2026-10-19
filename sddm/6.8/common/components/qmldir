@@ -1,0 +1,13 @@
+Theme 1.0 Theme.qml
+Strings 1.0 Strings.qml
+Avatar 1.0 Avatar.qml
+Background 1.0 Background.qml
+Clock 1.0 Clock.qml
+FooterButton 1.0 FooterButton.qml
+LayoutButton 1.0 LayoutButton.qml
+LoginPanel 1.0 LoginPanel.qml
+PillField 1.0 PillField.qml
+PowerButton 1.0 PowerButton.qml
+SessionButton 1.0 SessionButton.qml
+StyledMenu 1.0 StyledMenu.qml
+StyledMenuItem 1.0 StyledMenuItem.qml

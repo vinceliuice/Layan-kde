@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Layan-light
+Description=Layan theme for SDDM (Qt 6)
+Author=Vince Liuice
+Copyright=(c) 2019, Vince Liuice
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0.0
+Website=https://github.com/vinceliuice/Layan-kde
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Layan-light
+Theme-API=2.0
+QtVersion=6
